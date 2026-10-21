@@ -1,0 +1,1001 @@
+manufacturer,year,color,body_type,engine_type,transmission,fuel_type,seating_capacity,kilometers_driven,vehicle_condition,wholesale_price,selling_price,client_name,client_age,client_gender,client_continent,client_country,income_level,client_profession,estimated_income,client_retail_date,season
+Honda,2008,LemonChiffon,Hatchback,petrol,manual,hybrid,2,45804.14,inactive,13600,18585,Noah Rhodes,23,Male,Africa,Anguilla,medium,Therapeutic radiographer,2339,2023-07-14,tourism_peak
+Toyota,2023,DarkGoldenRod,Van,electric,manual,electric,2,136179.06,active,14271,19751,Jonathan Johnson,61,Male,North America,Antigua and Barbuda,medium,Sports administrator,1009,2021-06-12,tourism_peak
+Nissan,2017,LightSeaGreen,Sedan,diesel,manual,gasoline,5,109721.94,active,10886,16088,Abigail Shaffer,69,Female,North America,Cyprus,medium,"Librarian, public",2624,2025-01-05,normal
+Toyota,2008,MediumSlateBlue,Sedan,electric,manual,diesel,2,75261.29,inactive,14152,19877,James Howard,31,Female,Europe,Cape Verde,medium,Trade mark attorney,2646,2023-01-09,normal
+Honda,2020,Salmon,SUV,petrol,automatic,gasoline,6,245150.24,active,19784,22440,Valerie Gray,51,Female,Europe,Sri Lanka,medium,Water engineer,1997,2021-07-24,tourism_peak
+Honda,2012,CornflowerBlue,SUV,petrol,automatic,diesel,7,43599.95,inactive,13921,16667,Darren Roberts,21,Male,Europe,Morocco,medium,"Exhibitions officer, museum/gallery",1349,2022-10-30,normal
+Hyundai,2011,SaddleBrown,Hatchback,hybrid,automatic,gasoline,2,131092.4,active,13485,15895,Holly Wood,21,Male,Africa,Hong Kong,medium,"Geologist, engineering",2055,2023-07-23,tourism_peak
+Hyundai,2013,White,Hatchback,electric,manual,electric,6,188418.49,inactive,13736,18589,Carla Gray,42,Male,Africa,New Caledonia,medium,"Journalist, broadcasting",2797,2022-08-25,tourism_peak
+Toyota,2021,Maroon,Hatchback,electric,manual,gasoline,4,256647.52,inactive,17323,22999,Austin Gentry,20,Female,Africa,Denmark,medium,"Engineer, petroleum",2957,2021-06-19,tourism_peak
+Honda,2004,DarkTurquoise,Sedan,hybrid,automatic,diesel,4,72806.27,inactive,13229,15733,David Hoffman,59,Female,North America,Indonesia,medium,Television/film/video producer,2121,2025-02-04,normal
+Nissan,2016,PaleGoldenRod,Van,hybrid,automatic,diesel,3,59241.34,inactive,15853,18719,Zachary Taylor,39,Female,North America,Ukraine,medium,"Chemist, analytical",2342,2026-02-26,normal
+Nissan,2019,DeepSkyBlue,SUV,petrol,automatic,gasoline,8,219775.48,active,15979,20682,Rebecca Henderson,24,Male,Africa,Tokelau,medium,Musician,1130,2022-02-15,normal
+Toyota,2008,Wheat,Sedan,hybrid,automatic,gasoline,8,39750.19,active,18119,23417,Juan Dunlap,47,Male,North America,Nepal,medium,Software engineer,2412,2025-03-05,normal
+Honda,2003,DarkOliveGreen,Sedan,hybrid,automatic,hybrid,7,166851.76,inactive,20246,23940,Christopher Smith,66,Female,Europe,Seychelles,medium,"Restaurant manager, fast food",1928,2024-02-01,normal
+Hyundai,2020,Lime,Truck,diesel,automatic,hybrid,2,123069.98,active,17770,21966,Katie Gonzalez,33,Female,Asia,Madagascar,medium,"Designer, television/film set",2114,2022-02-05,normal
+Honda,2013,AliceBlue,Van,electric,manual,gasoline,6,212084.21,inactive,14032,19452,Katherine Rodriguez,38,Female,South America,Zimbabwe,medium,Information systems manager,1532,2025-09-14,normal
+Nissan,2019,Cyan,SUV,diesel,manual,gasoline,6,146108.69,active,16699,20053,John Jones,52,Male,Asia,Azerbaijan,medium,"Conservation officer, historic buildings",1926,2023-03-30,normal
+Toyota,2010,FireBrick,Van,petrol,automatic,hybrid,3,36806.87,inactive,17316,21758,Shane Henderson,30,Male,North America,Yemen,medium,"Solicitor, Scotland",2407,2025-11-14,holiday_sales
+Toyota,2022,PaleGoldenRod,SUV,electric,manual,electric,5,114966.17,inactive,10596,16417,Marie Kim DDS,36,Male,Asia,Rwanda,medium,Firefighter,1803,2023-11-05,holiday_sales
+Honda,2012,Beige,SUV,hybrid,manual,diesel,3,62385.81,active,21324,24090,Crystal Robinson,43,Male,Asia,Bahrain,medium,Barrister's clerk,2752,2024-01-26,normal
+Hyundai,2019,MediumPurple,SUV,diesel,automatic,electric,5,3466.36,inactive,13182,18026,David Caldwell,66,Male,Asia,Bangladesh,medium,"Solicitor, Scotland",1475,2021-06-17,tourism_peak
+Hyundai,2017,Sienna,Truck,petrol,manual,electric,7,237687.94,active,18341,22087,John Russell,48,Male,Asia,Saint Kitts and Nevis,medium,Chief Strategy Officer,2203,2026-01-19,normal
+Honda,2016,PaleVioletRed,Sedan,hybrid,automatic,gasoline,8,103674.47,inactive,16249,21186,Nicholas Nunez,62,Male,North America,Guinea,medium,"Biochemist, clinical",1765,2024-10-18,normal
+Honda,2000,DarkMagenta,Van,electric,manual,diesel,2,238943.69,inactive,14468,20288,Connor West,56,Female,North America,Saint Lucia,medium,"Education officer, museum",1448,2024-01-30,normal
+Honda,2025,Crimson,SUV,diesel,automatic,gasoline,7,209815.03,active,18280,22038,Scott Pierce,41,Male,Europe,Kyrgyz Republic,medium,"Sound technician, broadcasting/film/video",2869,2023-04-27,normal
+Honda,2015,FireBrick,Hatchback,petrol,automatic,diesel,8,251946.04,inactive,17983,20930,John Hancock,23,Male,Africa,Bermuda,medium,"Development worker, international aid",2676,2023-03-16,normal
+Nissan,2014,LightGray,Van,diesel,manual,hybrid,5,98293.7,active,19751,24573,Rachel Mitchell,64,Female,North America,Afghanistan,medium,"Designer, fashion/clothing",2319,2024-07-06,tourism_peak
+Hyundai,2013,Chartreuse,SUV,petrol,automatic,gasoline,8,290189.59,inactive,15099,18787,Kimberly Adkins,66,Male,Asia,French Polynesia,medium,Arts administrator,1138,2023-01-17,normal
+Toyota,2015,Wheat,Van,electric,manual,gasoline,6,170973.42,inactive,12988,15804,Tyler Miller,60,Male,South America,Lesotho,medium,Broadcast presenter,1259,2025-06-21,tourism_peak
+Hyundai,2012,PaleGreen,Van,electric,manual,diesel,8,7783.44,active,13231,18075,Steve Sanchez,44,Male,South America,Bangladesh,medium,Water quality scientist,2915,2023-03-12,normal
+Hyundai,2010,Turquoise,SUV,electric,manual,diesel,5,84310.31,active,14627,17262,Dean Santiago,37,Female,Africa,Italy,medium,Field trials officer,2766,2026-02-27,normal
+Hyundai,2005,Lime,Sedan,petrol,automatic,electric,8,92398.58,active,11075,16935,Timothy Walls,52,Male,Europe,Indonesia,medium,Proofreader,2022,2022-04-22,normal
+Honda,2002,Cornsilk,Sedan,diesel,manual,gasoline,7,40769.34,active,17153,22883,Katie Anderson,27,Female,South America,Mongolia,medium,Broadcast presenter,1755,2022-01-16,normal
+Toyota,2005,DimGray,Truck,electric,manual,hybrid,4,20138.04,inactive,16971,19447,Joshua Turner,59,Male,Asia,Heard Island and McDonald Islands,medium,"Surveyor, building",1353,2023-08-14,tourism_peak
+Honda,2024,DarkSlateBlue,Sedan,hybrid,manual,gasoline,5,115348.0,inactive,14442,16986,Steve Newton,59,Male,Europe,Venezuela,medium,Glass blower/designer,2806,2022-01-27,normal
+Toyota,2002,MediumSpringGreen,Sedan,electric,automatic,electric,7,15235.85,inactive,19723,24287,Mark Baker,27,Female,Europe,Netherlands,medium,Food technologist,1650,2022-12-26,holiday_sales
+Hyundai,2016,LightSalmon,SUV,diesel,manual,gasoline,7,116201.08,inactive,16933,22582,Gavin Anderson,49,Female,Africa,Bermuda,medium,"Designer, television/film set",1384,2024-10-18,normal
+Honda,2000,Aqua,Sedan,petrol,automatic,hybrid,2,127724.8,inactive,15471,20339,Tony Vazquez,52,Male,North America,Micronesia,medium,Sports administrator,1154,2024-10-30,normal
+Toyota,2017,DarkViolet,Hatchback,diesel,manual,diesel,2,166214.32,active,20720,24241,Andrew Diaz,46,Male,Africa,Syrian Arab Republic,medium,Materials engineer,2519,2024-05-02,normal
+Honda,2020,DarkKhaki,SUV,electric,automatic,hybrid,4,101778.37,inactive,16560,21697,Justin Baxter,21,Male,Asia,Pitcairn Islands,medium,Fast food restaurant manager,2207,2023-04-26,normal
+Toyota,2016,PaleVioletRed,Truck,hybrid,automatic,gasoline,8,247087.45,inactive,20967,24231,Norman Cook,32,Female,Asia,South Georgia and the South Sandwich Islands,medium,Fish farm manager,1201,2022-09-13,normal
+Honda,2003,Olive,SUV,petrol,manual,diesel,6,115400.64,inactive,15695,18835,Shannon Walker,69,Female,Europe,Cayman Islands,medium,Maintenance engineer,2382,2022-02-10,normal
+Toyota,2003,Ivory,Sedan,diesel,automatic,diesel,6,102064.31,inactive,20964,23961,Corey Murphy,26,Male,Europe,Swaziland,medium,Health promotion specialist,2721,2023-02-17,normal
+Hyundai,2012,PaleGoldenRod,SUV,hybrid,manual,hybrid,7,163864.62,active,19209,24749,Sarah Rivera,24,Male,Europe,Norway,medium,Commercial art gallery manager,2540,2025-07-11,tourism_peak
+Hyundai,2012,LightGray,Sedan,hybrid,automatic,gasoline,8,184912.74,inactive,13027,18228,Kyle Reed,68,Female,Europe,Christmas Island,medium,Press photographer,1178,2026-02-17,normal
+Honda,2008,OliveDrab,Sedan,diesel,automatic,electric,7,27300.36,inactive,17000,19005,Cheryl Williams,33,Female,South America,Malawi,medium,Accommodation manager,1339,2022-03-06,normal
+Nissan,2019,Gray,Van,petrol,manual,hybrid,2,143841.15,inactive,17831,20531,Benjamin Beck,52,Female,South America,Uzbekistan,medium,Youth worker,1587,2025-10-09,normal
+Toyota,2020,Lime,Sedan,diesel,automatic,hybrid,6,13486.01,inactive,22584,24620,Mary Nguyen,36,Female,Europe,Panama,medium,"Surveyor, building",1624,2022-04-03,normal
+Nissan,2023,Olive,Truck,petrol,automatic,hybrid,3,295876.83,active,21106,23802,Stephanie Gilbert,63,Female,Asia,Congo,medium,"Optician, dispensing",1288,2024-10-08,normal
+Honda,2005,LimeGreen,Sedan,electric,manual,electric,3,218535.82,inactive,11146,16764,Jeffrey Carpenter,55,Female,South America,Syrian Arab Republic,medium,"Psychologist, occupational",2229,2021-03-13,normal
+Honda,2009,Teal,Van,petrol,automatic,electric,6,113444.5,inactive,20636,23546,Steven Flynn,48,Male,North America,Kenya,medium,Chartered accountant,2613,2023-01-04,normal
+Toyota,2021,DarkGoldenRod,SUV,electric,automatic,gasoline,3,45960.38,active,13963,16518,Nicole Chambers,39,Male,Europe,Malaysia,medium,"Engineer, civil (contracting)",2695,2024-01-17,normal
+Toyota,2006,LemonChiffon,SUV,petrol,automatic,hybrid,2,172309.19,inactive,18478,21783,Miss Patricia Gibson,38,Male,Asia,Anguilla,medium,Music tutor,1270,2021-08-02,tourism_peak
+Nissan,2018,DarkViolet,Van,hybrid,manual,diesel,2,235854.7,inactive,15257,20137,Abigail Potter,55,Male,North America,Iran,medium,"Physicist, medical",1151,2023-04-09,normal
+Nissan,2007,SandyBrown,Truck,diesel,manual,gasoline,6,150041.13,inactive,15200,18191,David Charles,70,Female,Asia,Christmas Island,medium,Contracting civil engineer,1845,2025-08-07,tourism_peak
+Honda,2000,MediumAquaMarine,Van,electric,manual,diesel,6,293562.29,active,14324,19327,Stephanie Salazar,24,Female,North America,Papua New Guinea,medium,Sports therapist,1660,2025-09-17,normal
+Honda,2012,Sienna,Sedan,petrol,manual,electric,5,150311.59,inactive,11525,16748,Paul Larsen,58,Female,North America,Ukraine,medium,"Scientist, research (life sciences)",2523,2022-07-19,tourism_peak
+Honda,2009,LightSalmon,Van,diesel,automatic,diesel,2,262076.25,active,17327,21555,Micheal Young,59,Female,North America,Niue,medium,IT consultant,1977,2023-03-25,normal
+Toyota,2018,DeepPink,Sedan,hybrid,manual,diesel,7,117871.48,inactive,18663,22565,Michael Mccarthy,45,Male,South America,Belgium,medium,Patent examiner,2237,2022-05-15,normal
+Toyota,2005,SeaGreen,Van,electric,manual,gasoline,3,134878.34,inactive,17300,22383,Daniel Fisher,33,Male,North America,Greenland,medium,Teaching laboratory technician,2918,2025-10-22,normal
+Hyundai,2018,MidnightBlue,Sedan,hybrid,manual,electric,8,185128.26,inactive,17575,23099,James Snow,23,Female,North America,Lesotho,medium,Solicitor,1049,2021-03-30,normal
+Nissan,2005,SlateBlue,Van,diesel,automatic,hybrid,8,152583.3,inactive,15779,18876,Jeffrey Johnson,56,Female,South America,South Georgia and the South Sandwich Islands,medium,Ophthalmologist,2114,2023-01-26,normal
+Honda,2020,DarkSalmon,Truck,electric,automatic,diesel,6,271526.36,active,14095,19097,Ms. Susan Vargas,20,Male,Asia,Tajikistan,medium,Charity officer,1986,2025-03-03,normal
+Nissan,2020,Gainsboro,Van,diesel,manual,electric,7,133322.39,inactive,18874,24335,James Lewis,23,Female,North America,Burkina Faso,medium,Leisure centre manager,2527,2025-02-13,normal
+Toyota,2008,LightCoral,Van,hybrid,automatic,hybrid,4,87622.25,active,19705,21846,Julie Curry,56,Male,North America,Fiji,medium,Maintenance engineer,1574,2024-10-11,normal
+Toyota,2017,BlueViolet,SUV,hybrid,manual,hybrid,2,192308.14,active,11897,17897,Tiffany Gonzalez,55,Male,Asia,Pakistan,medium,Wellsite geologist,2153,2021-10-11,normal
+Toyota,2006,Sienna,SUV,diesel,automatic,electric,4,35426.34,inactive,15037,18354,Kristy Robinson,42,Female,Asia,Dominican Republic,medium,"Merchandiser, retail",2126,2022-04-08,normal
+Toyota,2019,DodgerBlue,SUV,electric,automatic,diesel,4,49614.81,inactive,19723,23637,Ashley Johnson,27,Female,Asia,New Caledonia,medium,Teaching laboratory technician,1601,2022-03-02,normal
+Hyundai,2021,Crimson,Sedan,electric,automatic,hybrid,5,166279.3,active,15847,20027,Sandra Sanchez,20,Female,North America,Indonesia,medium,Tourism officer,2336,2022-11-18,holiday_sales
+Nissan,2005,BlueViolet,Hatchback,hybrid,automatic,diesel,3,182806.36,inactive,19162,21367,Jeffrey Wood,46,Female,Africa,South Africa,medium,"Administrator, charities/voluntary organisations",1507,2026-01-03,normal
+Nissan,2001,DarkMagenta,Van,hybrid,automatic,hybrid,6,249302.91,active,22477,24753,Jack Snow,38,Female,North America,Swaziland,medium,"Designer, ceramics/pottery",1264,2025-05-13,normal
+Nissan,2012,LightPink,Sedan,hybrid,automatic,diesel,4,247769.2,active,21313,23659,Tamara Hampton,40,Female,North America,Christmas Island,medium,Press photographer,2079,2025-08-19,tourism_peak
+Hyundai,2019,LemonChiffon,Van,hybrid,manual,diesel,8,189279.63,active,18884,23864,Angelica Keith,62,Male,South America,Ethiopia,medium,"Psychologist, forensic",2815,2023-12-08,holiday_sales
+Hyundai,2007,MediumSlateBlue,Sedan,electric,manual,gasoline,5,33736.08,inactive,12682,15005,Samuel White,27,Male,South America,New Zealand,medium,Marine scientist,1564,2024-06-01,tourism_peak
+Honda,2010,LightSalmon,SUV,hybrid,manual,gasoline,6,58874.94,inactive,15687,18198,Kellie Lee,29,Male,Europe,Guam,medium,Optometrist,1983,2023-07-28,tourism_peak
+Honda,2021,Sienna,Van,hybrid,automatic,electric,8,151579.33,active,18773,24596,Katherine Mcguire,34,Male,North America,Moldova,medium,Hospital pharmacist,2265,2023-03-28,normal
+Honda,2008,Linen,Truck,hybrid,automatic,electric,8,145865.89,inactive,14446,16522,Jackie Tran,35,Female,Asia,Iraq,medium,"Physicist, medical",1357,2023-04-06,normal
+Hyundai,2001,SaddleBrown,Sedan,petrol,manual,hybrid,3,163127.04,active,21361,24348,David Martinez,46,Male,South America,Greenland,medium,Interpreter,1199,2024-03-09,normal
+Nissan,2003,GhostWhite,SUV,electric,automatic,diesel,3,88289.4,active,22414,24957,Parker Hill,61,Female,Africa,Samoa,medium,Chiropodist,1324,2025-10-01,normal
+Toyota,2014,MistyRose,SUV,petrol,manual,hybrid,6,185228.05,inactive,14465,17726,Adrian Ferguson,25,Female,Asia,French Polynesia,medium,Armed forces technical officer,1563,2023-02-16,normal
+Honda,2021,DarkSalmon,SUV,electric,automatic,gasoline,4,7675.34,active,10674,15749,Nicole Garcia,59,Male,Africa,Micronesia,medium,"Teacher, secondary school",1683,2023-09-05,normal
+Honda,2010,Purple,SUV,electric,automatic,gasoline,7,148241.86,inactive,14705,17448,Vincent King,43,Female,Europe,Latvia,medium,Clothing/textile technologist,1305,2025-04-07,normal
+Nissan,2005,Cornsilk,SUV,petrol,automatic,gasoline,3,235638.36,active,13121,17167,Melissa Hernandez,39,Female,Africa,Iran,medium,Chartered certified accountant,2256,2025-05-17,normal
+Honda,2020,PapayaWhip,Truck,hybrid,manual,gasoline,6,201944.36,inactive,12200,15362,Rachel Perez,44,Female,Asia,British Indian Ocean Territory (Chagos Archipelago),medium,"Production designer, theatre/television/film",1939,2025-12-09,holiday_sales
+Honda,2016,Linen,Van,electric,automatic,diesel,3,131568.49,active,18131,21585,Amy Choi,20,Male,North America,French Southern Territories,medium,"Engineer, maintenance (IT)",1515,2024-11-03,holiday_sales
+Honda,2008,DimGray,Truck,hybrid,automatic,electric,3,11879.55,active,21648,24390,Juan Moore,64,Female,Asia,Estonia,medium,"Production designer, theatre/television/film",2605,2021-11-19,holiday_sales
+Hyundai,2024,BlanchedAlmond,Van,electric,manual,gasoline,3,49340.34,inactive,12048,17169,Michael Warner,32,Female,South America,Latvia,medium,Building services engineer,2436,2023-09-02,normal
+Nissan,2010,Gray,Truck,electric,automatic,hybrid,3,55058.96,active,17873,22961,Joshua Holland,21,Female,Asia,Uzbekistan,medium,Curator,1137,2023-06-11,tourism_peak
+Hyundai,2011,Linen,Hatchback,hybrid,automatic,electric,4,70774.61,active,18226,22403,Samantha Morse,69,Female,Africa,Bahamas,medium,Company secretary,1234,2022-08-09,tourism_peak
+Toyota,2024,PaleGreen,Van,diesel,manual,gasoline,3,174243.12,inactive,13551,16079,Kathryn Snyder,26,Male,North America,Portugal,medium,"Therapist, sports",1431,2023-10-12,normal
+Nissan,2006,MediumBlue,Hatchback,hybrid,manual,electric,4,169208.02,active,15250,20976,Allison Perez,22,Male,Africa,Tuvalu,medium,Geophysical data processor,2593,2024-11-13,holiday_sales
+Nissan,2022,SeaShell,Van,petrol,manual,electric,5,252821.97,inactive,14231,19792,Jessica Ramirez,46,Female,South America,Armenia,medium,Regulatory affairs officer,2795,2022-09-07,normal
+Toyota,2000,PaleTurquoise,Hatchback,hybrid,automatic,hybrid,4,61734.9,active,20075,24519,Michael Hodge,37,Female,Africa,Latvia,medium,Paramedic,1957,2024-02-26,normal
+Nissan,2015,Blue,Van,diesel,manual,hybrid,3,101677.13,inactive,17111,20471,Ernest Morris,29,Female,North America,France,medium,"Scientist, audiological",2726,2024-08-07,tourism_peak
+Hyundai,2017,SandyBrown,Hatchback,diesel,manual,hybrid,8,173495.98,active,13149,16513,Cody Cox,43,Female,Africa,Palestinian Territory,medium,Private music teacher,2024,2025-10-22,normal
+Nissan,2012,DarkSeaGreen,SUV,hybrid,automatic,electric,3,140867.48,inactive,15115,17611,Jessica Wolfe,28,Male,Africa,Costa Rica,medium,Air cabin crew,2870,2023-06-19,tourism_peak
+Nissan,2022,DimGray,Sedan,diesel,manual,diesel,3,24636.73,active,17853,20461,Adam Russell,56,Male,South America,South Georgia and the South Sandwich Islands,medium,Clothing/textile technologist,1834,2023-03-25,normal
+Nissan,2002,DeepSkyBlue,Sedan,hybrid,automatic,gasoline,7,175608.41,active,11949,16195,Dr. Jordan Hill PhD,62,Female,North America,Yemen,medium,Financial planner,2545,2022-03-11,normal
+Hyundai,2020,OliveDrab,Van,hybrid,automatic,hybrid,7,12524.59,active,13954,16962,Kyle Francis,49,Male,North America,Micronesia,medium,Building control surveyor,2300,2022-06-04,tourism_peak
+Honda,2022,MediumSpringGreen,SUV,diesel,automatic,gasoline,6,90566.72,active,18462,23181,Katie Hoover,65,Female,Europe,Sierra Leone,medium,Hydrogeologist,1208,2024-09-21,normal
+Honda,2007,DeepPink,Van,petrol,manual,hybrid,7,53951.04,inactive,18986,24204,John Cook,61,Female,South America,Mozambique,medium,"Programmer, applications",2782,2025-05-11,normal
+Toyota,2019,LawnGreen,SUV,diesel,automatic,hybrid,3,10813.34,active,21516,23716,Cynthia Rowe,41,Male,Europe,Trinidad and Tobago,medium,"Investment banker, corporate",1527,2022-10-19,normal
+Nissan,2007,OliveDrab,Sedan,petrol,manual,hybrid,5,26426.85,active,17716,20988,Rebecca Pearson MD,54,Male,North America,Romania,medium,Computer games developer,2417,2024-06-08,tourism_peak
+Toyota,2002,DarkGreen,Van,diesel,manual,diesel,8,246931.71,active,19611,24526,Jessica Fox,50,Female,South America,Nauru,medium,"Administrator, local government",1121,2024-01-07,normal
+Toyota,2004,Crimson,Truck,hybrid,automatic,electric,3,11812.68,inactive,15639,19483,Wayne Morgan,48,Female,Asia,Ireland,medium,Catering manager,1238,2022-07-04,tourism_peak
+Honda,2012,Olive,Sedan,diesel,manual,electric,8,167415.87,active,13326,17679,Lori Clay,62,Female,Europe,Timor-Leste,medium,Special educational needs teacher,2021,2025-09-24,normal
+Nissan,2008,LavenderBlush,Hatchback,hybrid,automatic,hybrid,7,9878.85,active,20517,23532,Tammie Bright,43,Male,Africa,Niger,medium,Politician's assistant,1978,2021-10-10,normal
+Honda,2020,Red,SUV,diesel,manual,diesel,7,216818.76,active,16327,20655,Elijah Johnson,48,Female,Africa,Senegal,medium,Banker,2292,2022-01-18,normal
+Honda,2024,Plum,Sedan,hybrid,automatic,hybrid,3,189768.4,active,19729,24768,Joseph Knight,49,Male,Europe,Guinea-Bissau,medium,"Doctor, hospital",2761,2024-05-19,normal
+Honda,2024,LawnGreen,Truck,diesel,automatic,diesel,5,220011.27,inactive,13780,16363,Mr. David Little MD,32,Male,Asia,Belgium,medium,"Psychologist, occupational",2065,2024-06-12,tourism_peak
+Nissan,2013,DimGray,Sedan,hybrid,automatic,electric,3,180820.96,active,18900,24121,Tony Huerta,29,Female,Europe,Philippines,medium,Photographer,1847,2025-11-04,holiday_sales
+Nissan,2018,Gray,Sedan,diesel,automatic,gasoline,7,57017.46,inactive,12015,15592,Dr. Ashley James MD,49,Female,Europe,Korea,medium,Hotel manager,2504,2023-10-06,normal
+Honda,2009,LightSalmon,Hatchback,diesel,manual,electric,5,212764.16,inactive,15812,19186,Sean Osborne,25,Male,Africa,Switzerland,medium,Trading standards officer,2922,2024-07-23,tourism_peak
+Honda,2015,Khaki,Sedan,diesel,manual,hybrid,5,266100.38,inactive,16647,19884,Heather Fields,62,Female,North America,Syrian Arab Republic,medium,"Copywriter, advertising",1442,2023-08-18,tourism_peak
+Honda,2011,Magenta,Hatchback,petrol,automatic,hybrid,4,166061.65,inactive,13546,15945,Amanda Diaz,31,Male,Africa,United Kingdom,medium,Chemical engineer,2618,2021-07-12,tourism_peak
+Nissan,2013,ForestGreen,SUV,petrol,manual,electric,3,31298.78,active,15385,19026,Richard Walter,47,Female,Europe,Greece,medium,Set designer,2819,2024-09-22,normal
+Hyundai,2023,FireBrick,Van,petrol,automatic,electric,7,168371.13,inactive,19732,21860,Roger Olson,43,Female,South America,United States Minor Outlying Islands,medium,Lexicographer,1546,2023-07-06,tourism_peak
+Hyundai,2003,DarkTurquoise,Hatchback,hybrid,manual,diesel,4,139254.15,active,14070,16354,Courtney Rhodes,21,Female,Africa,Lao People's Democratic Republic,medium,"Surveyor, hydrographic",2709,2021-10-31,normal
+Toyota,2018,Aquamarine,Sedan,hybrid,automatic,diesel,8,44153.25,active,19480,23980,Caleb Richardson,45,Female,Europe,Bermuda,medium,Television/film/video producer,1519,2024-07-19,tourism_peak
+Toyota,2002,DarkMagenta,Van,petrol,manual,electric,2,48242.06,inactive,15990,18938,Kaitlyn Harvey,64,Female,North America,Swaziland,medium,Travel agency manager,2508,2024-05-09,normal
+Toyota,2005,SandyBrown,SUV,diesel,manual,hybrid,6,159527.75,active,20400,24180,Elizabeth Ortiz,48,Male,Asia,Oman,medium,Armed forces technical officer,2447,2021-09-24,normal
+Hyundai,2004,DarkOrange,SUV,petrol,manual,hybrid,7,78280.5,inactive,21526,23963,Stephen Taylor,66,Female,Africa,Gabon,medium,Metallurgist,1182,2025-05-20,normal
+Hyundai,2022,DeepSkyBlue,Sedan,electric,automatic,electric,8,81258.3,active,14380,20338,Mary Bass,32,Female,South America,Italy,medium,Health service manager,2343,2026-03-10,normal
+Hyundai,2003,IndianRed,SUV,petrol,manual,electric,4,40799.63,active,12407,15690,Trevor Foley,26,Male,Africa,Portugal,medium,Mental health nurse,2504,2024-05-06,normal
+Nissan,2016,Chocolate,Sedan,petrol,automatic,diesel,2,164216.25,inactive,20339,22857,Colton Martinez,68,Female,South America,United Arab Emirates,medium,"Chemist, analytical",2719,2024-03-30,normal
+Toyota,2014,BurlyWood,Truck,hybrid,manual,electric,8,10708.05,active,15038,17149,Dana Martinez,35,Male,Asia,Norway,medium,Broadcast presenter,2586,2021-05-17,normal
+Hyundai,2007,IndianRed,Sedan,diesel,automatic,electric,6,185753.87,inactive,17449,19759,Crystal Schroeder,40,Male,South America,Cote d'Ivoire,medium,Health and safety inspector,2803,2026-03-07,normal
+Nissan,2016,LightCoral,Truck,electric,manual,electric,6,215899.04,active,19580,23581,Ashley Delacruz,55,Male,Asia,Bulgaria,medium,"Administrator, local government",2511,2025-10-15,normal
+Honda,2015,MediumBlue,SUV,hybrid,automatic,gasoline,3,260575.75,active,12193,17174,Derek Martinez,36,Female,Europe,Somalia,medium,Secondary school teacher,2671,2023-03-21,normal
+Toyota,2017,Sienna,SUV,hybrid,manual,diesel,2,172138.16,inactive,20742,22769,Ivan Wheeler,27,Female,Africa,Samoa,medium,Retail manager,2912,2021-09-25,normal
+Nissan,2004,Turquoise,SUV,petrol,manual,gasoline,7,113911.3,active,14290,18793,Mason Johnson,65,Female,Asia,Yemen,medium,Operational investment banker,2871,2021-07-24,tourism_peak
+Honda,2000,SlateGray,Sedan,petrol,automatic,gasoline,8,31625.83,inactive,16348,20285,Jill Lam,21,Female,North America,Poland,medium,Translator,2713,2022-02-10,normal
+Toyota,2020,LightSalmon,SUV,hybrid,manual,hybrid,4,164389.26,active,13331,16530,Lauren Joseph,66,Female,Asia,Bahrain,medium,"Therapist, speech and language",2186,2022-04-08,normal
+Hyundai,2011,Tan,Sedan,petrol,manual,gasoline,5,106485.25,inactive,19540,24354,Annette Miles,48,Male,South America,French Polynesia,medium,Planning and development surveyor,1417,2025-01-19,normal
+Hyundai,2017,PaleVioletRed,Van,petrol,automatic,gasoline,5,104316.48,active,17939,22363,Jesse Perry,30,Male,North America,Tuvalu,medium,Intelligence analyst,1262,2023-02-19,normal
+Nissan,2022,Navy,Sedan,hybrid,manual,gasoline,8,207119.53,active,20339,23999,Melissa Wells,51,Male,North America,Germany,medium,Chartered certified accountant,2235,2023-05-12,normal
+Honda,2019,Navy,Hatchback,petrol,manual,hybrid,8,144134.9,active,21000,23527,Kristie Willis,34,Female,Africa,Jersey,medium,Community education officer,2331,2022-01-06,normal
+Hyundai,2021,CadetBlue,Van,petrol,manual,diesel,6,267825.29,inactive,18874,23691,Lindsay Bell,20,Male,North America,Guinea,medium,"Designer, fashion/clothing",2186,2024-10-16,normal
+Honda,2004,MediumVioletRed,Sedan,hybrid,manual,gasoline,6,17472.72,inactive,14479,19734,Holly Farmer,59,Male,North America,Czech Republic,medium,"Pilot, airline",1051,2022-02-11,normal
+Toyota,2001,Bisque,Van,hybrid,automatic,gasoline,5,232892.88,inactive,21347,24196,Mary Steele,61,Male,South America,Seychelles,medium,Education administrator,2087,2025-12-05,holiday_sales
+Nissan,2021,MediumSlateBlue,Sedan,electric,automatic,gasoline,5,207539.09,inactive,21812,23956,Christopher Thomas,41,Female,Europe,Reunion,medium,Building control surveyor,1487,2023-10-27,normal
+Hyundai,2021,DarkGoldenRod,SUV,petrol,automatic,gasoline,6,235563.01,inactive,20952,23828,Cindy Barnes,32,Female,Asia,Saint Vincent and the Grenadines,medium,"Designer, industrial/product",1080,2021-06-15,tourism_peak
+Nissan,2025,DarkBlue,SUV,diesel,manual,gasoline,4,9157.02,active,15804,18223,Brittney Webster,64,Male,Europe,Georgia,medium,Ceramics designer,1141,2023-12-14,holiday_sales
+Toyota,2021,SlateBlue,SUV,electric,manual,gasoline,4,15530.9,inactive,13819,16714,Jennifer Lewis,63,Male,Europe,Kenya,medium,Location manager,1598,2024-10-19,normal
+Honda,2003,SlateBlue,Van,electric,automatic,electric,7,104749.19,inactive,10850,15284,Elizabeth Walker,20,Male,North America,Bouvet Island (Bouvetoya),medium,Actor,2888,2023-08-09,tourism_peak
+Nissan,2025,DarkSlateGray,SUV,diesel,automatic,gasoline,8,260984.23,inactive,16953,22285,Donna Wilson,39,Female,Asia,Gabon,medium,Planning and development surveyor,1248,2022-12-28,holiday_sales
+Honda,2012,White,Truck,petrol,automatic,gasoline,4,129639.67,inactive,21757,24365,Kathryn Whitaker,21,Female,Asia,Bulgaria,medium,Building surveyor,2843,2024-06-05,tourism_peak
+Nissan,2007,PowderBlue,Van,hybrid,automatic,diesel,5,197585.95,inactive,18974,23729,Thomas Atkins,28,Female,North America,Tokelau,medium,"Teacher, secondary school",1446,2021-07-21,tourism_peak
+Nissan,2012,LightSteelBlue,Sedan,electric,automatic,electric,8,273499.8,active,16558,21027,Alex Nguyen,41,Female,North America,Russian Federation,medium,Medical illustrator,1843,2024-09-29,normal
+Hyundai,2002,LemonChiffon,Hatchback,electric,manual,hybrid,6,261496.92,active,16354,19464,James Miller,52,Female,Africa,Jordan,medium,"Librarian, academic",1081,2022-02-03,normal
+Honda,2011,Crimson,Truck,hybrid,automatic,hybrid,6,8734.33,active,10468,16250,Ashley Hicks,20,Female,Asia,Grenada,medium,Make,1371,2022-08-16,tourism_peak
+Toyota,2001,DarkViolet,Truck,hybrid,manual,diesel,2,109273.62,inactive,16111,21714,Christopher Hernandez,40,Male,Asia,Dominica,medium,"Editor, film/video",2469,2022-01-25,normal
+Nissan,2004,RosyBrown,Van,hybrid,manual,diesel,7,126983.92,active,13064,18897,Sonia Day,32,Female,North America,Kyrgyz Republic,medium,Interpreter,1966,2025-12-27,holiday_sales
+Nissan,2023,SeaShell,SUV,petrol,manual,electric,3,109879.53,inactive,15867,18654,Eric Hill,21,Male,Asia,Kazakhstan,medium,Management consultant,2679,2021-10-10,normal
+Nissan,2019,SandyBrown,Van,hybrid,manual,diesel,7,280482.76,active,16180,18491,Anthony Decker,34,Male,South America,Barbados,medium,Chemical engineer,1929,2023-11-01,holiday_sales
+Toyota,2009,OliveDrab,Van,electric,manual,diesel,8,189849.51,inactive,18059,20339,Julian Conner,53,Male,South America,Nepal,medium,"Production assistant, television",1315,2025-07-04,tourism_peak
+Hyundai,2000,MediumBlue,Sedan,hybrid,automatic,diesel,3,85300.08,inactive,17997,23695,Kathryn Rosario,70,Female,South America,Pakistan,medium,"Civil engineer, contracting",1073,2022-10-17,normal
+Hyundai,2020,Tan,SUV,hybrid,manual,hybrid,8,36190.33,active,15023,20608,Amanda Zimmerman,36,Female,Europe,Rwanda,medium,"Scientist, research (physical sciences)",2856,2021-11-29,holiday_sales
+Hyundai,2001,Moccasin,Sedan,diesel,manual,diesel,8,273956.16,active,18312,21933,Douglas Ortiz,36,Female,South America,New Zealand,medium,"Therapist, sports",1680,2022-07-18,tourism_peak
+Hyundai,2000,Coral,Hatchback,diesel,automatic,electric,4,25258.66,active,12414,15644,Justin Hughes,57,Female,Africa,Somalia,medium,Toxicologist,1690,2024-01-15,normal
+Toyota,2022,DarkTurquoise,SUV,petrol,automatic,electric,5,121607.25,active,15504,19316,Emily Douglas,33,Female,Asia,Grenada,medium,"Conservation officer, nature",2712,2021-11-20,holiday_sales
+Toyota,2025,Magenta,Sedan,electric,automatic,diesel,2,32034.57,inactive,15576,20532,Maria Murphy,43,Male,South America,Russian Federation,medium,Secretary/administrator,2933,2021-11-30,holiday_sales
+Honda,2023,Teal,Hatchback,hybrid,automatic,electric,5,96088.38,active,17650,20545,Jack White,59,Male,Africa,Oman,medium,Licensed conveyancer,2490,2024-10-17,normal
+Honda,2010,DarkSlateGray,Van,diesel,manual,hybrid,3,245093.13,active,18427,22410,Edward French,28,Male,North America,Congo,medium,Legal secretary,2419,2023-02-13,normal
+Honda,2012,DeepSkyBlue,Van,hybrid,automatic,diesel,5,154954.53,active,16801,19422,Ronald Wise,65,Male,South America,Bulgaria,medium,Primary school teacher,1431,2024-05-25,normal
+Hyundai,2007,LavenderBlush,Hatchback,petrol,automatic,gasoline,5,9601.58,inactive,16575,22149,Lisa Goodwin,51,Female,Africa,Isle of Man,medium,Facilities manager,2806,2024-04-16,normal
+Toyota,2000,SeaShell,Sedan,petrol,automatic,electric,3,279106.48,inactive,14501,17780,Cheyenne Gregory,23,Female,South America,Dominican Republic,medium,"Psychologist, clinical",1639,2023-10-29,normal
+Toyota,2002,SteelBlue,SUV,hybrid,automatic,gasoline,6,82248.06,active,21123,23883,Tracy Montoya,31,Male,Europe,Slovakia (Slovak Republic),medium,Fitness centre manager,2367,2024-06-10,tourism_peak
+Toyota,2007,Navy,SUV,petrol,automatic,hybrid,7,216265.73,inactive,15058,20937,Ashley Singleton,42,Male,Africa,Norway,medium,Higher education careers adviser,1263,2025-04-13,normal
+Toyota,2012,LightPink,SUV,electric,manual,electric,5,203559.66,inactive,14445,18875,Jose Guerra,52,Male,Africa,Serbia,medium,Environmental education officer,2191,2022-07-23,tourism_peak
+Hyundai,2011,Bisque,Van,hybrid,manual,diesel,4,250591.97,active,17788,22309,James Brooks,45,Female,North America,Turks and Caicos Islands,medium,Ceramics designer,2408,2024-03-02,normal
+Nissan,2000,MediumAquaMarine,Sedan,petrol,manual,electric,8,254141.49,active,12698,18344,Sara Santos,44,Male,Europe,Czech Republic,medium,"Copywriter, advertising",2539,2021-06-07,tourism_peak
+Honda,2006,DarkSlateGray,SUV,electric,manual,diesel,3,200059.15,active,19590,21918,Julie Gilbert,35,Male,Africa,France,medium,Advertising account executive,2544,2025-03-18,normal
+Hyundai,2015,Wheat,SUV,petrol,automatic,electric,6,282488.56,active,16107,18721,Ricardo Young,29,Male,Europe,Cuba,medium,Art gallery manager,2186,2022-06-19,tourism_peak
+Toyota,2022,Coral,Truck,petrol,manual,hybrid,6,150627.52,active,11729,17611,Taylor Carlson,30,Male,Asia,Italy,medium,"Scientist, biomedical",1434,2025-01-30,normal
+Honda,2002,LightSteelBlue,Van,diesel,manual,diesel,8,44118.56,active,18320,22888,Lucas Allen,63,Female,South America,Dominican Republic,medium,"Embryologist, clinical",2729,2022-06-01,tourism_peak
+Honda,2016,CornflowerBlue,SUV,electric,automatic,diesel,5,157645.97,inactive,15811,19946,Kimberly Hartman,27,Male,Africa,Malta,medium,Newspaper journalist,2947,2024-04-05,normal
+Honda,2010,Navy,Van,electric,manual,diesel,5,98611.87,active,16752,22560,Alan Kramer,47,Female,North America,Aruba,medium,Financial adviser,1505,2024-06-25,tourism_peak
+Nissan,2002,MediumSeaGreen,SUV,diesel,automatic,diesel,4,53009.84,active,15639,21101,Harold Morgan,40,Male,Africa,Sierra Leone,medium,"Psychologist, forensic",2605,2026-02-21,normal
+Honda,2023,DarkSlateBlue,Sedan,petrol,automatic,hybrid,2,71298.11,active,13439,15501,Ricardo Ellis,69,Female,North America,Norfolk Island,medium,"Engineer, drilling",2660,2022-09-29,normal
+Hyundai,2013,BlueViolet,SUV,electric,manual,hybrid,8,264210.05,inactive,11306,15572,Eric Sanders,37,Female,Africa,Somalia,medium,Forensic scientist,1245,2022-11-21,holiday_sales
+Nissan,2023,LightSlateGray,Hatchback,diesel,manual,hybrid,5,291685.13,inactive,16801,19654,Richard Glenn,20,Female,Africa,Sao Tome and Principe,medium,Government social research officer,2369,2022-10-26,normal
+Honda,2007,PowderBlue,SUV,petrol,manual,hybrid,6,154191.45,active,15517,18092,Natalie Kline,35,Female,Africa,South Georgia and the South Sandwich Islands,medium,"Librarian, academic",1704,2024-04-28,normal
+Nissan,2007,NavajoWhite,Truck,electric,manual,electric,3,202364.41,active,10807,15697,Kelly Owen,46,Female,Asia,Luxembourg,medium,Careers information officer,1614,2025-06-04,tourism_peak
+Hyundai,2002,YellowGreen,Sedan,electric,manual,diesel,7,132892.71,active,15746,18338,Brian Murphy,57,Female,North America,Netherlands,medium,Information officer,1138,2022-09-23,normal
+Toyota,2006,FireBrick,Van,hybrid,automatic,gasoline,5,201811.53,active,20297,23913,Heather Williams,70,Female,North America,Netherlands,medium,Volunteer coordinator,2803,2024-10-25,normal
+Toyota,2010,Crimson,Van,diesel,manual,diesel,2,223864.28,inactive,21680,23739,Jennifer Palmer,43,Male,North America,Falkland Islands (Malvinas),medium,Airline pilot,2687,2021-09-06,normal
+Toyota,2003,BlanchedAlmond,Truck,electric,manual,diesel,6,47238.64,inactive,18420,23293,David Brewer,42,Female,Asia,Thailand,medium,Music therapist,2489,2024-12-02,holiday_sales
+Honda,2019,RoyalBlue,Van,electric,automatic,electric,6,134158.59,inactive,18630,22076,Jacqueline Hines,46,Male,South America,Antigua and Barbuda,medium,Senior tax professional/tax inspector,2243,2022-07-01,tourism_peak
+Honda,2000,LightSeaGreen,Sedan,hybrid,automatic,hybrid,4,44753.33,active,13666,17812,Brian Fitzgerald,30,Female,Europe,Indonesia,medium,"Scientist, marine",2464,2023-11-13,holiday_sales
+Nissan,2007,DarkOrchid,Van,diesel,manual,hybrid,2,21003.09,active,16545,19472,David Griffin,21,Female,North America,United States Minor Outlying Islands,medium,Recycling officer,2058,2025-12-21,holiday_sales
+Nissan,2022,Cornsilk,SUV,hybrid,automatic,gasoline,5,115663.01,inactive,19256,21470,Steven Wallace,22,Male,Asia,British Virgin Islands,medium,IT consultant,1857,2022-05-07,normal
+Honda,2008,Yellow,Sedan,electric,manual,electric,7,177931.48,inactive,14685,18296,Elijah Moore,49,Male,Europe,Russian Federation,medium,Medical illustrator,1262,2021-09-29,normal
+Toyota,2014,Green,Van,electric,manual,gasoline,4,17349.14,active,10373,15708,Cynthia Snyder,52,Female,South America,Czech Republic,medium,"Surveyor, building",2125,2022-03-24,normal
+Hyundai,2020,DarkSeaGreen,Van,electric,manual,diesel,8,159331.73,active,12088,17688,Angelica Parker,43,Female,South America,Heard Island and McDonald Islands,medium,Secondary school teacher,2951,2025-03-03,normal
+Honda,2006,Cornsilk,Sedan,electric,automatic,electric,3,260281.64,active,12750,15219,Evan Jones,30,Female,North America,Seychelles,medium,"Scientist, forensic",1639,2024-09-04,normal
+Nissan,2008,Gainsboro,SUV,hybrid,manual,gasoline,5,130029.08,active,17831,21821,Betty Shaw,62,Male,Europe,Brunei Darussalam,medium,Company secretary,2051,2025-11-18,holiday_sales
+Toyota,2000,FireBrick,Van,hybrid,manual,hybrid,7,153463.12,active,13880,17193,Timothy Perez,42,Female,South America,Cape Verde,medium,Careers information officer,1951,2023-10-12,normal
+Hyundai,2020,LightSalmon,SUV,diesel,manual,diesel,3,169069.67,inactive,10001,15768,Eric Ferguson,54,Male,Europe,Congo,medium,"Therapist, drama",2533,2025-11-17,holiday_sales
+Honda,2022,MediumSlateBlue,Van,petrol,automatic,hybrid,5,9041.69,active,18806,21770,Kristy Bryan,21,Male,South America,Cape Verde,medium,Ceramics designer,1490,2022-08-25,tourism_peak
+Nissan,2013,LightGray,Hatchback,petrol,automatic,diesel,4,226769.82,active,20819,23544,Pamela Butler,23,Male,Africa,Yemen,medium,Research scientist (medical),2000,2026-02-05,normal
+Nissan,2017,SkyBlue,Van,diesel,automatic,electric,2,98934.24,active,19057,21458,Robert Sullivan,30,Female,South America,French Guiana,medium,"Buyer, industrial",1843,2023-10-06,normal
+Honda,2001,PapayaWhip,SUV,electric,manual,hybrid,7,56899.4,inactive,17500,22419,Mr. Lawrence Edwards,51,Female,Africa,Cayman Islands,medium,Location manager,2268,2024-12-06,holiday_sales
+Honda,2006,Thistle,Van,electric,manual,hybrid,8,19223.62,inactive,11538,16878,Emma Owens,38,Female,North America,Bulgaria,medium,"Production assistant, television",2146,2024-05-06,normal
+Nissan,2025,BurlyWood,SUV,hybrid,manual,gasoline,8,98135.13,inactive,15617,21446,James Gilbert,63,Male,Asia,Cambodia,medium,"Designer, jewellery",2850,2022-01-06,normal
+Toyota,2021,Maroon,Sedan,diesel,automatic,electric,8,235534.15,active,15417,20789,Christopher Ferrell,68,Female,Europe,Vietnam,medium,Research scientist (physical sciences),2234,2026-02-08,normal
+Hyundai,2006,DarkGoldenRod,SUV,electric,manual,hybrid,3,225088.76,inactive,10728,15096,Kathy Levy,65,Male,Europe,Luxembourg,medium,Television production assistant,1666,2021-05-23,normal
+Nissan,2007,LightSkyBlue,SUV,diesel,manual,diesel,2,287531.46,active,20552,22718,Stephen Pena MD,26,Male,Europe,Australia,medium,Clinical cytogeneticist,2756,2021-08-16,tourism_peak
+Nissan,2003,Moccasin,Van,hybrid,automatic,hybrid,3,229973.56,active,17316,20024,Holly Morales,24,Male,North America,Burkina Faso,medium,Medical laboratory scientific officer,2307,2023-06-11,tourism_peak
+Nissan,2012,OliveDrab,Van,hybrid,automatic,hybrid,6,256152.49,active,9702,15531,Pamela Ramirez,27,Male,South America,France,medium,"Conservation officer, historic buildings",1010,2021-10-26,normal
+Honda,2023,MediumSlateBlue,Hatchback,electric,automatic,hybrid,4,299910.7,active,12960,18863,Holly Thomas,30,Female,Africa,India,medium,"Restaurant manager, fast food",2961,2024-05-14,normal
+Hyundai,2019,DarkSlateGray,Hatchback,diesel,manual,diesel,2,222733.12,inactive,12868,17078,Regina Stone,45,Male,Africa,Aruba,medium,Trading standards officer,1871,2021-07-10,tourism_peak
+Hyundai,2025,MediumAquaMarine,Van,petrol,automatic,gasoline,5,252069.23,inactive,19439,24283,William Stevenson,52,Female,South America,Burundi,medium,"Therapist, horticultural",1865,2023-12-25,holiday_sales
+Honda,2013,White,SUV,hybrid,manual,gasoline,2,36253.26,active,17255,21775,Justin Wells Jr.,29,Female,Europe,Madagascar,medium,Clinical molecular geneticist,1947,2025-07-12,tourism_peak
+Toyota,2019,Bisque,Van,diesel,automatic,electric,4,267880.18,active,15973,18901,Deborah Rios,25,Male,North America,Myanmar,medium,Arts development officer,2692,2023-10-23,normal
+Toyota,2001,Violet,Sedan,hybrid,automatic,hybrid,2,245021.21,active,11555,15823,Lisa Randall,24,Male,South America,Lesotho,medium,Financial manager,1707,2022-08-23,tourism_peak
+Toyota,2015,Gold,Hatchback,electric,manual,hybrid,5,167313.29,active,18147,22665,Erik Hernandez,26,Male,Africa,Montserrat,medium,Paediatric nurse,1941,2022-02-16,normal
+Toyota,2023,Chocolate,Van,petrol,manual,electric,3,277634.99,active,18670,24265,Kelly Hoffman,63,Female,South America,Singapore,medium,Secondary school teacher,1945,2025-03-16,normal
+Honda,2015,Salmon,Sedan,diesel,automatic,electric,6,18852.15,active,18202,21099,Gloria Gomez,39,Female,North America,Germany,medium,Travel agency manager,2586,2022-09-01,normal
+Nissan,2012,LightSeaGreen,Van,electric,automatic,diesel,4,163976.36,inactive,18572,24324,Courtney Dudley,57,Female,North America,Congo,medium,Homeopath,2018,2023-04-16,normal
+Hyundai,2008,MediumAquaMarine,SUV,diesel,manual,diesel,8,254192.77,active,10657,15359,Justin Michael,66,Female,Asia,Portugal,medium,Holiday representative,2119,2025-05-09,normal
+Hyundai,2004,Olive,Hatchback,electric,manual,hybrid,2,36299.34,active,17624,20091,Jennifer Reed,31,Male,Africa,Montserrat,medium,Horticultural therapist,2194,2025-10-24,normal
+Honda,2021,MediumTurquoise,Hatchback,petrol,manual,electric,8,47822.11,active,15678,18092,Mary Burgess,43,Male,Africa,France,medium,"Engineer, drilling",2887,2021-11-12,holiday_sales
+Toyota,2012,LightPink,Van,petrol,manual,electric,7,160892.57,inactive,14760,20706,Luis Matthews,47,Male,South America,Faroe Islands,medium,Arts administrator,2360,2025-12-22,holiday_sales
+Hyundai,2022,CadetBlue,Van,hybrid,manual,gasoline,6,68096.89,active,13424,16437,Gary Kennedy,46,Male,South America,Czech Republic,medium,"Accountant, chartered public finance",1847,2023-03-05,normal
+Toyota,2024,PaleTurquoise,Sedan,diesel,manual,electric,7,194071.66,inactive,22383,24659,Shirley Alvarez,59,Male,South America,Vanuatu,medium,Holiday representative,2038,2022-07-15,tourism_peak
+Honda,2010,DarkCyan,Sedan,electric,automatic,hybrid,3,130425.6,inactive,14770,20247,Crystal Rodgers,28,Male,Europe,France,medium,Economist,2998,2021-09-11,normal
+Honda,2010,Blue,Van,electric,automatic,diesel,3,122842.84,active,16298,19745,Jennifer Simpson DVM,51,Female,North America,Turkmenistan,medium,Applications developer,1399,2022-09-09,normal
+Nissan,2017,DarkMagenta,SUV,petrol,automatic,diesel,2,271506.07,inactive,12089,15446,Frances Gibson,27,Female,Africa,French Southern Territories,medium,Contractor,1615,2026-01-09,normal
+Hyundai,2004,GoldenRod,Sedan,hybrid,manual,diesel,2,44088.02,active,14104,16984,Erin Simon,60,Female,South America,Lao People's Democratic Republic,medium,Electronics engineer,1850,2023-07-07,tourism_peak
+Honda,2006,LightYellow,SUV,hybrid,manual,hybrid,3,278260.77,inactive,14610,20314,Nicole Thompson,48,Female,Africa,Saint Pierre and Miquelon,medium,Physiotherapist,1074,2024-01-23,normal
+Honda,2009,PaleGoldenRod,Van,electric,automatic,gasoline,2,189855.5,active,18780,23987,Cathy Taylor,22,Female,South America,Greece,medium,Fish farm manager,1708,2021-12-06,holiday_sales
+Nissan,2003,LavenderBlush,Hatchback,hybrid,automatic,gasoline,6,242324.47,inactive,14422,19128,Derek Rivera,20,Male,Africa,Eritrea,medium,Games developer,2270,2024-06-15,tourism_peak
+Honda,2025,Chocolate,SUV,electric,manual,diesel,4,121926.64,inactive,11517,17176,Julie Moore,67,Female,Europe,Puerto Rico,medium,Commercial/residential surveyor,1097,2023-03-16,normal
+Hyundai,2002,Indigo,Sedan,electric,automatic,diesel,6,48652.96,inactive,19912,24298,Karen Gibson,70,Female,Europe,Heard Island and McDonald Islands,medium,Pathologist,1711,2023-01-27,normal
+Honda,2010,WhiteSmoke,Van,diesel,automatic,hybrid,4,202544.88,active,11738,17293,Samantha Gill,43,Male,South America,United States Minor Outlying Islands,medium,Secondary school teacher,2793,2025-03-13,normal
+Honda,2009,Crimson,Van,diesel,automatic,diesel,3,273148.0,active,19011,24008,Ashley Poole,62,Male,North America,Marshall Islands,medium,"Teacher, primary school",1302,2024-04-09,normal
+Nissan,2013,MediumOrchid,Sedan,electric,automatic,gasoline,2,49792.51,active,11594,16033,Jessica Frazier,65,Female,South America,Canada,medium,"Chemist, analytical",2007,2022-08-05,tourism_peak
+Honda,2017,SaddleBrown,Sedan,hybrid,manual,diesel,2,189207.7,active,12236,17018,Jason Elliott,61,Female,South America,Kiribati,medium,Insurance account manager,2359,2021-08-31,tourism_peak
+Honda,2016,AliceBlue,SUV,hybrid,manual,electric,3,103228.08,inactive,19117,21473,Laura Williams,27,Female,Africa,Indonesia,medium,Bonds trader,2803,2023-05-11,normal
+Nissan,2021,SeaShell,Sedan,electric,manual,gasoline,2,255466.02,active,16416,20610,Jason Mack,21,Female,South America,Bahamas,medium,Minerals surveyor,2015,2021-10-12,normal
+Hyundai,2015,OldLace,Van,diesel,manual,gasoline,3,45074.57,active,18599,23349,Victor Baxter,69,Male,North America,Kiribati,medium,Magazine features editor,2801,2024-05-27,normal
+Toyota,2025,OrangeRed,SUV,hybrid,manual,electric,2,204700.44,inactive,21701,24476,Monica Walker,40,Male,Africa,Christmas Island,medium,Advice worker,2683,2025-10-06,normal
+Honda,2019,Peru,SUV,electric,automatic,hybrid,6,273924.23,active,10681,15302,Samantha Wright,60,Female,Europe,Kyrgyz Republic,medium,"Designer, fashion/clothing",1450,2025-10-28,normal
+Honda,2024,BlanchedAlmond,SUV,electric,manual,hybrid,5,165953.9,inactive,15622,17663,Jennifer Miranda,37,Male,Europe,Comoros,medium,Financial adviser,2244,2022-02-25,normal
+Toyota,2022,BlanchedAlmond,SUV,electric,manual,hybrid,8,218709.4,inactive,14620,19586,Michael Brennan,56,Male,Asia,Bangladesh,medium,Armed forces operational officer,1233,2022-01-19,normal
+Hyundai,2003,Yellow,Van,hybrid,automatic,electric,8,196886.43,inactive,14351,17415,Scott Brown,26,Female,North America,Kazakhstan,medium,Facilities manager,2768,2023-03-10,normal
+Hyundai,2008,MediumBlue,Van,electric,automatic,electric,4,26237.16,active,16347,21234,Shawn Odom,50,Male,South America,Ghana,medium,Patent attorney,2829,2026-02-08,normal
+Hyundai,2002,ForestGreen,Sedan,diesel,automatic,electric,5,55894.17,active,14434,20001,Jessica Simpson,70,Female,Europe,Falkland Islands (Malvinas),medium,Museum/gallery curator,2788,2021-09-17,normal
+Nissan,2021,PaleTurquoise,Van,hybrid,automatic,hybrid,6,232559.92,active,13320,17674,James Webster,70,Female,South America,Ghana,medium,Financial adviser,2289,2024-09-25,normal
+Toyota,2010,SandyBrown,SUV,petrol,manual,hybrid,5,6320.26,inactive,15264,17642,Kristina Faulkner,67,Male,Asia,French Southern Territories,medium,Network engineer,2127,2022-06-03,tourism_peak
+Toyota,2015,MediumPurple,Truck,electric,manual,electric,2,47957.9,inactive,18568,23754,Tammy Boone,20,Male,Asia,Equatorial Guinea,medium,Social worker,2097,2022-12-03,holiday_sales
+Nissan,2003,OldLace,Truck,hybrid,manual,electric,5,188836.58,inactive,19217,24591,Lindsey Russo,39,Male,Asia,Austria,medium,Theatre manager,1609,2023-06-24,tourism_peak
+Honda,2005,HoneyDew,Sedan,petrol,automatic,electric,2,148362.58,inactive,15520,19227,Felicia Krueger,32,Male,South America,Cuba,medium,"Engineer, mining",2940,2025-04-09,normal
+Toyota,2025,Silver,Truck,petrol,automatic,gasoline,2,34202.03,inactive,13493,18934,Melissa Padilla,22,Female,Asia,Saint Vincent and the Grenadines,medium,Film/video editor,1407,2022-03-11,normal
+Nissan,2008,Olive,Sedan,diesel,manual,gasoline,6,78428.37,active,9286,15050,Matthew Parker,20,Female,South America,Gibraltar,medium,Scientific laboratory technician,2190,2023-08-08,tourism_peak
+Hyundai,2009,SeaShell,Sedan,petrol,automatic,gasoline,2,112034.53,active,17900,22653,Erica Harris,67,Female,North America,Lao People's Democratic Republic,medium,Patent attorney,2153,2022-01-12,normal
+Hyundai,2024,DarkViolet,Hatchback,petrol,automatic,diesel,5,109483.55,inactive,13333,18075,Juan Silva,63,Female,Africa,Mongolia,medium,Hotel manager,2857,2023-01-28,normal
+Toyota,2018,Khaki,Truck,hybrid,manual,electric,8,92976.96,active,11322,16409,Roy Porter,52,Female,Asia,Congo,medium,Furniture designer,1325,2023-12-31,holiday_sales
+Honda,2006,Salmon,Sedan,electric,manual,diesel,6,211166.14,inactive,13911,15950,Robert Jackson,31,Female,North America,Saint Kitts and Nevis,medium,Educational psychologist,2881,2025-05-14,normal
+Toyota,2010,Violet,Sedan,diesel,manual,electric,2,125044.41,inactive,12623,16372,Ryan Landry,39,Male,South America,Norway,medium,Accounting technician,2143,2021-09-10,normal
+Hyundai,2013,CornflowerBlue,Sedan,electric,manual,gasoline,4,173443.16,active,11940,16182,Alexa Wagner,54,Female,North America,Burundi,medium,Best boy,1568,2023-03-01,normal
+Nissan,2010,SlateBlue,Sedan,electric,manual,gasoline,2,295790.09,active,18035,21666,Joseph Jenkins,24,Male,South America,Northern Mariana Islands,medium,Senior tax professional/tax inspector,1594,2025-04-21,normal
+Toyota,2006,Azure,Sedan,diesel,manual,gasoline,5,235383.8,inactive,10549,15474,Melissa Jordan,65,Male,Europe,Mauritania,medium,Clinical biochemist,2934,2023-08-19,tourism_peak
+Toyota,2019,LawnGreen,SUV,electric,automatic,hybrid,2,208969.62,active,16927,19558,Joseph Ochoa,27,Female,Africa,Malta,medium,Occupational psychologist,1414,2022-06-17,tourism_peak
+Honda,2018,Salmon,Hatchback,hybrid,automatic,gasoline,3,246971.25,inactive,16222,21307,Wanda Perez,58,Male,Africa,Holy See (Vatican City State),medium,Ambulance person,1485,2024-08-24,tourism_peak
+Toyota,2002,OldLace,SUV,petrol,automatic,diesel,3,42728.93,inactive,18457,23893,Amy Smith,55,Male,Africa,Iraq,medium,Charity fundraiser,2129,2024-06-02,tourism_peak
+Nissan,2012,MediumPurple,Van,electric,manual,gasoline,5,176834.29,active,19109,24061,Shannon Davis,54,Male,North America,Tanzania,medium,Event organiser,1799,2024-11-19,holiday_sales
+Honda,2017,Sienna,SUV,petrol,automatic,gasoline,2,24321.23,active,19938,23104,Thomas Cohen,37,Female,Asia,United Arab Emirates,medium,Speech and language therapist,2902,2026-01-05,normal
+Toyota,2022,Fuchsia,Van,electric,automatic,gasoline,8,223510.34,active,12770,16390,Emily Ali,44,Male,South America,Palestinian Territory,medium,Occupational therapist,1194,2021-06-22,tourism_peak
+Toyota,2010,LawnGreen,SUV,electric,automatic,gasoline,3,367.01,inactive,18993,23306,Sarah Rhodes,63,Female,Africa,French Southern Territories,medium,Music tutor,1029,2022-07-29,tourism_peak
+Honda,2012,SteelBlue,Truck,hybrid,manual,hybrid,5,149656.56,inactive,13023,17964,Haley Davis,46,Male,Asia,Somalia,medium,Call centre manager,2636,2021-11-10,holiday_sales
+Nissan,2021,MediumOrchid,Sedan,hybrid,manual,electric,7,20456.54,active,13770,18153,Donald Riddle,58,Female,Europe,Netherlands,medium,Estate agent,2512,2024-07-26,tourism_peak
+Nissan,2022,Plum,Sedan,petrol,automatic,electric,6,162566.86,inactive,15790,20785,Kevin James,33,Female,Europe,Micronesia,medium,Fine artist,1830,2024-05-21,normal
+Honda,2005,DeepSkyBlue,SUV,hybrid,manual,diesel,3,66054.71,inactive,16995,21119,Richard Moore,54,Female,Africa,Belize,medium,Investment analyst,1101,2023-06-22,tourism_peak
+Hyundai,2013,AntiqueWhite,SUV,petrol,automatic,electric,2,55877.06,inactive,15914,18796,Jill Juarez,20,Male,Europe,Botswana,medium,Consulting civil engineer,1509,2021-12-21,holiday_sales
+Hyundai,2016,RosyBrown,Hatchback,hybrid,manual,gasoline,3,113764.87,active,16394,19712,Kayla Garcia,46,Male,Africa,Colombia,medium,Manufacturing systems engineer,2140,2024-11-10,holiday_sales
+Toyota,2021,OliveDrab,Sedan,electric,manual,diesel,5,112179.65,inactive,18682,21306,Jason Maxwell,28,Male,South America,Bermuda,medium,"Teacher, music",1213,2023-12-14,holiday_sales
+Nissan,2007,FloralWhite,Sedan,hybrid,automatic,electric,6,60384.22,active,11912,15815,Eric Snyder,70,Male,South America,Chile,medium,Diplomatic Services operational officer,2039,2024-06-06,tourism_peak
+Nissan,2009,Lime,Sedan,petrol,manual,electric,2,27677.81,inactive,15333,18835,Mr. David Wright,45,Female,North America,Falkland Islands (Malvinas),medium,"Therapist, music",1758,2024-10-10,normal
+Hyundai,2016,DarkMagenta,Sedan,electric,automatic,gasoline,3,255196.24,active,17641,20780,Adam Foster,42,Female,South America,Congo,medium,Landscape architect,2631,2025-02-01,normal
+Hyundai,2020,DarkSlateBlue,Van,diesel,automatic,diesel,2,31328.97,active,14047,18906,Larry Dominguez,26,Female,North America,Grenada,medium,Interior and spatial designer,2308,2024-11-08,holiday_sales
+Hyundai,2011,LightSteelBlue,SUV,electric,automatic,diesel,4,71642.34,active,18114,20764,Mackenzie Faulkner,45,Male,Asia,Indonesia,medium,"Journalist, magazine",2633,2023-11-28,holiday_sales
+Honda,2018,Moccasin,Van,electric,automatic,hybrid,5,134075.78,active,19106,23079,Justin Vargas,26,Male,North America,Fiji,medium,Statistician,1549,2024-07-14,tourism_peak
+Hyundai,2008,HoneyDew,SUV,hybrid,automatic,gasoline,6,156018.2,inactive,14294,19720,Eddie Schwartz,45,Female,Africa,Zambia,medium,Restaurant manager,2214,2025-02-13,normal
+Nissan,2017,LawnGreen,Truck,diesel,manual,diesel,2,223801.37,inactive,17676,21479,Christian Henderson,51,Female,Asia,North Macedonia,medium,"Buyer, retail",1072,2023-10-08,normal
+Honda,2005,PaleGoldenRod,Sedan,petrol,manual,diesel,7,207510.49,active,20503,24528,Tammy Kane,58,Female,North America,Netherlands Antilles,medium,Speech and language therapist,2128,2025-04-08,normal
+Honda,2008,WhiteSmoke,Hatchback,hybrid,manual,electric,8,91503.88,inactive,14008,16991,Suzanne Rodriguez,42,Male,Africa,Somalia,medium,Marine scientist,2285,2024-04-02,normal
+Hyundai,2013,PaleGoldenRod,Truck,petrol,automatic,gasoline,8,250954.01,inactive,14020,18592,Erin Hogan,20,Male,Asia,Oman,medium,Administrator,2803,2021-07-27,tourism_peak
+Hyundai,2006,Teal,Hatchback,hybrid,automatic,diesel,6,51510.72,active,21531,24692,Kristin Watts,70,Male,Africa,Eritrea,medium,Product designer,1907,2023-01-30,normal
+Honda,2000,SteelBlue,Sedan,petrol,automatic,electric,2,211373.4,active,13351,18984,Zachary Webb,60,Female,Europe,India,medium,Pathologist,1005,2025-02-17,normal
+Toyota,2000,MediumVioletRed,SUV,petrol,manual,electric,2,282329.23,active,13641,15913,Jesse Clark,51,Female,Africa,Brazil,medium,Magazine features editor,1983,2022-05-26,normal
+Honda,2023,RoyalBlue,Van,hybrid,manual,hybrid,4,77571.85,inactive,14986,19068,Eric Patrick,25,Male,North America,Bhutan,medium,Advice worker,2149,2024-12-02,holiday_sales
+Hyundai,2020,FireBrick,SUV,diesel,automatic,electric,3,16498.21,active,14838,19062,Natalie Black,46,Male,Europe,Oman,medium,Lawyer,1677,2022-02-14,normal
+Honda,2006,Lavender,Van,hybrid,automatic,gasoline,4,159338.78,inactive,14782,20707,Lori Lopez,38,Female,South America,Japan,medium,Occupational hygienist,2313,2025-02-14,normal
+Honda,2009,RoyalBlue,SUV,electric,automatic,electric,3,217987.71,active,13967,16550,Jasmine Bush,23,Male,Africa,Saint Pierre and Miquelon,medium,Health promotion specialist,1201,2022-11-15,holiday_sales
+Toyota,2021,WhiteSmoke,Hatchback,petrol,automatic,diesel,5,287556.15,active,17907,23720,Gabriel Ellis,32,Female,Africa,Morocco,medium,Recruitment consultant,2426,2022-01-22,normal
+Honda,2001,Orange,Sedan,hybrid,automatic,diesel,8,25646.83,inactive,22308,24835,Laurie Bailey,67,Female,South America,Northern Mariana Islands,medium,Waste management officer,2380,2023-11-10,holiday_sales
+Hyundai,2006,DarkBlue,SUV,electric,automatic,diesel,7,277368.35,inactive,13551,15881,Emily Allen,39,Male,Asia,Suriname,medium,"Education officer, museum",1237,2023-09-22,normal
+Honda,2014,Teal,SUV,hybrid,manual,diesel,3,260418.69,active,18021,21970,Kyle Andrews,39,Female,Europe,Puerto Rico,medium,Electronics engineer,1440,2022-05-25,normal
+Hyundai,2003,ForestGreen,Sedan,electric,automatic,electric,7,164817.46,active,19482,21850,Katherine Taylor,21,Female,North America,North Macedonia,medium,"Production designer, theatre/television/film",2384,2025-10-06,normal
+Toyota,2021,Aqua,Van,petrol,automatic,diesel,7,47121.63,inactive,11889,15820,Mr. James Hoffman,34,Female,South America,Austria,medium,Osteopath,2825,2024-03-31,normal
+Toyota,2011,SlateGray,Sedan,hybrid,manual,gasoline,6,225545.83,active,12542,16554,Keith Flynn,35,Male,North America,Israel,medium,"Horticulturist, commercial",2360,2024-12-19,holiday_sales
+Nissan,2008,WhiteSmoke,SUV,diesel,manual,diesel,3,178571.25,inactive,16047,18918,Richard Cunningham,42,Female,Africa,Falkland Islands (Malvinas),medium,Stage manager,2851,2023-02-08,normal
+Hyundai,2025,DarkOrange,Van,diesel,automatic,gasoline,6,159830.88,inactive,19231,22768,Joshua Ritter,38,Male,South America,Bouvet Island (Bouvetoya),medium,Prison officer,1567,2026-01-24,normal
+Nissan,2004,DarkKhaki,Sedan,diesel,manual,electric,7,298845.48,inactive,12187,15941,Martha Wright,48,Male,South America,Cuba,medium,"Production assistant, television",1199,2024-10-22,normal
+Nissan,2018,Purple,SUV,petrol,automatic,diesel,2,85208.0,inactive,16504,21983,Autumn Cain,43,Male,Europe,Guernsey,medium,Theatre stage manager,1051,2021-12-07,holiday_sales
+Hyundai,2018,FireBrick,SUV,electric,automatic,electric,2,269746.75,inactive,15330,17759,Rachel Li,56,Male,Europe,Tokelau,medium,"Teacher, early years/pre",1892,2024-11-01,holiday_sales
+Hyundai,2011,WhiteSmoke,Sedan,diesel,manual,hybrid,6,211982.1,active,12768,17892,William Carter,47,Female,Europe,Martinique,medium,"Scientist, audiological",1022,2023-08-02,tourism_peak
+Toyota,2017,Chocolate,Hatchback,hybrid,automatic,hybrid,2,70440.19,inactive,13897,19223,Sharon Martinez DVM,29,Male,Africa,Burkina Faso,medium,Dancer,2637,2024-09-10,normal
+Honda,2015,OrangeRed,SUV,hybrid,automatic,gasoline,5,260843.35,active,11472,16323,Kenneth Adams MD,35,Female,Europe,Switzerland,medium,Call centre manager,2940,2023-04-20,normal
+Hyundai,2017,LightSeaGreen,Hatchback,petrol,manual,hybrid,6,138415.36,active,18345,21089,Sherry Gibson,65,Female,Africa,Iraq,medium,Land,1952,2025-07-30,tourism_peak
+Nissan,2013,Salmon,Van,hybrid,automatic,diesel,7,153912.72,inactive,20010,22970,Melissa Horn,21,Female,South America,Afghanistan,medium,Engineering geologist,1245,2021-12-26,holiday_sales
+Toyota,2007,Snow,Sedan,diesel,manual,electric,6,61349.86,inactive,16096,21211,Ronald Morgan,67,Male,North America,Sweden,medium,Systems developer,1630,2022-12-30,holiday_sales
+Hyundai,2010,BurlyWood,Sedan,diesel,automatic,gasoline,6,49462.63,inactive,17017,22670,Mark Copeland,68,Male,North America,Solomon Islands,medium,Company secretary,1020,2024-02-12,normal
+Nissan,2019,AliceBlue,Truck,electric,manual,diesel,7,46380.65,active,21775,24369,Jessica Forbes DVM,62,Female,Asia,Kazakhstan,medium,"Designer, interior/spatial",2350,2025-01-28,normal
+Hyundai,2009,LightCoral,SUV,hybrid,manual,electric,5,143570.38,inactive,15614,19112,Matthew Banks,45,Male,Europe,Bermuda,medium,Occupational hygienist,2769,2024-04-04,normal
+Toyota,2004,Pink,SUV,electric,automatic,electric,6,74995.91,inactive,9849,15599,Michele Smith,33,Female,Europe,Saint Kitts and Nevis,medium,Careers adviser,2312,2023-03-09,normal
+Hyundai,2024,Tomato,SUV,electric,automatic,electric,4,164905.05,active,17640,20885,Alexandra Dominguez,48,Male,Asia,Nauru,medium,"Pharmacist, hospital",2362,2023-02-12,normal
+Nissan,2024,Khaki,Truck,hybrid,manual,gasoline,2,211283.23,active,16600,20815,Nicholas Garcia,44,Female,Asia,Lesotho,medium,Mental health nurse,1082,2021-10-18,normal
+Toyota,2018,DarkSlateBlue,SUV,diesel,manual,hybrid,5,266100.09,inactive,16920,19506,Megan Jones,42,Male,Europe,Burundi,medium,Travel agency manager,1172,2024-06-13,tourism_peak
+Nissan,2017,HotPink,SUV,diesel,manual,electric,8,45190.56,active,11626,16635,Brittany Jenkins,67,Female,Asia,Kazakhstan,medium,"Engineer, water",2017,2024-03-07,normal
+Toyota,2011,DarkSlateGray,SUV,diesel,automatic,diesel,5,151748.17,inactive,21082,24140,Leah Cruz,60,Female,Africa,Ukraine,medium,International aid/development worker,1040,2022-01-18,normal
+Toyota,2013,DarkBlue,Truck,petrol,manual,electric,8,152816.54,inactive,15481,20263,Kyle Griffith,64,Female,Asia,Egypt,medium,Aid worker,2099,2023-07-20,tourism_peak
+Hyundai,2009,Teal,Sedan,hybrid,automatic,gasoline,7,243752.08,active,13406,16414,James Lucas,37,Male,Europe,Costa Rica,medium,"Research officer, trade union",1344,2025-08-06,tourism_peak
+Hyundai,2012,SpringGreen,Sedan,hybrid,manual,electric,4,91590.13,inactive,19172,23048,Andrea Oneal,57,Male,North America,Bouvet Island (Bouvetoya),medium,Media planner,2660,2023-03-31,normal
+Hyundai,2008,PeachPuff,SUV,petrol,automatic,diesel,4,72796.93,inactive,13425,16816,Michael Farmer,26,Male,Europe,Bulgaria,medium,Adult guidance worker,2582,2024-06-25,tourism_peak
+Honda,2012,LightGray,Van,hybrid,manual,diesel,2,104086.82,active,16925,21775,Thomas Fry,43,Female,South America,Bangladesh,medium,Risk manager,2271,2021-04-23,normal
+Toyota,2009,PapayaWhip,Sedan,diesel,automatic,diesel,3,278094.54,active,20307,22954,James Davidson,33,Male,Europe,Niue,medium,Health physicist,1223,2025-06-15,tourism_peak
+Hyundai,2015,Teal,Hatchback,petrol,manual,diesel,2,126432.61,active,15277,20181,Valerie Moore,26,Female,Africa,Georgia,medium,"Nurse, adult",1362,2021-11-12,holiday_sales
+Honda,2000,Magenta,Sedan,hybrid,manual,electric,4,244688.31,inactive,14492,17972,Monica Mathis,56,Male,South America,North Macedonia,medium,Financial risk analyst,2443,2021-10-03,normal
+Honda,2025,DarkOrange,Hatchback,diesel,manual,diesel,5,245684.13,inactive,17465,22650,Lee Parker,40,Male,Africa,Uzbekistan,medium,Communications engineer,2497,2024-11-20,holiday_sales
+Toyota,2020,Aqua,Hatchback,hybrid,automatic,electric,8,236989.61,inactive,9706,15161,Troy Mills,56,Female,Africa,Russian Federation,medium,Dietitian,2037,2022-05-12,normal
+Hyundai,2020,DarkOrchid,SUV,petrol,automatic,gasoline,2,182780.91,inactive,16931,22625,Alyssa Roman,64,Female,Europe,Brunei Darussalam,medium,"Scientist, research (physical sciences)",2234,2023-06-25,tourism_peak
+Hyundai,2002,Crimson,SUV,diesel,automatic,diesel,3,178766.97,inactive,14133,17945,Jorge Brown PhD,29,Male,Africa,Estonia,medium,Mental health nurse,2000,2026-02-05,normal
+Nissan,2007,DarkOrange,Truck,hybrid,manual,diesel,2,200111.67,active,17335,23050,Jordan Williams,44,Male,Asia,Equatorial Guinea,medium,Financial risk analyst,1550,2022-01-25,normal
+Toyota,2010,OliveDrab,Hatchback,electric,manual,gasoline,4,237208.06,active,18243,20514,Cassidy Horne,33,Male,Africa,Latvia,medium,Surgeon,2155,2024-04-15,normal
+Hyundai,2011,LightBlue,Sedan,petrol,manual,electric,4,156573.28,active,18225,24074,Nathan Nelson,69,Male,North America,Czech Republic,medium,"Teacher, music",2739,2023-12-06,holiday_sales
+Hyundai,2006,CadetBlue,SUV,diesel,manual,hybrid,2,123980.45,inactive,14237,19744,Robert Jarvis,63,Female,Europe,British Indian Ocean Territory (Chagos Archipelago),medium,Broadcast presenter,1346,2025-06-18,tourism_peak
+Nissan,2022,Magenta,Sedan,diesel,automatic,gasoline,8,269547.32,active,19558,23183,Juan Smith,25,Male,North America,Tonga,medium,"Horticulturist, amenity",1113,2023-08-06,tourism_peak
+Nissan,2010,LemonChiffon,Sedan,diesel,automatic,gasoline,5,227360.47,inactive,13094,16147,Kevin Snyder,51,Male,South America,Slovenia,medium,Sports coach,2682,2023-10-12,normal
+Honda,2010,PaleTurquoise,Truck,electric,automatic,gasoline,3,82096.9,active,11366,16334,Joshua Fields,41,Male,Asia,Canada,medium,Legal executive,1826,2021-03-31,normal
+Hyundai,2015,Linen,SUV,diesel,manual,electric,3,39844.59,active,17605,20842,Joseph Allen,48,Female,Africa,Senegal,medium,Best boy,1748,2024-05-24,normal
+Honda,2002,DarkGoldenRod,Truck,electric,manual,hybrid,4,209132.23,active,17192,20605,David Bruce,42,Female,Asia,Rwanda,medium,Microbiologist,1661,2023-07-29,tourism_peak
+Toyota,2013,DarkGray,Van,electric,manual,hybrid,8,250406.98,active,19018,23994,Mandy Foster,30,Male,North America,San Marino,medium,"Presenter, broadcasting",1003,2021-11-30,holiday_sales
+Honda,2025,LightGoldenRodYellow,Truck,diesel,manual,hybrid,7,180355.68,active,15319,19847,Tammy Long,61,Female,Asia,Dominica,medium,"Investment banker, corporate",1941,2023-09-04,normal
+Nissan,2010,Crimson,Sedan,diesel,automatic,diesel,8,38246.78,active,12924,15935,Brandy Carrillo,24,Male,North America,Faroe Islands,medium,"Designer, furniture",2866,2023-03-07,normal
+Hyundai,2013,SeaGreen,SUV,petrol,automatic,diesel,3,4231.33,active,17042,19643,Bryan Howard,25,Male,Africa,Chad,medium,Production engineer,1063,2025-01-06,normal
+Nissan,2019,DarkOrchid,SUV,electric,manual,gasoline,4,159811.04,inactive,19300,21330,Robert Torres,35,Male,Europe,Kyrgyz Republic,medium,"Engineer, structural",2573,2023-06-13,tourism_peak
+Hyundai,2011,LightBlue,Sedan,hybrid,manual,electric,5,110119.86,active,14674,18486,Jennifer Williams,51,Female,Europe,Cameroon,medium,Gaffer,2395,2021-12-20,holiday_sales
+Toyota,2019,RoyalBlue,Truck,diesel,manual,diesel,3,226203.53,active,12039,16827,Krista Davis,52,Male,Asia,Antarctica (the territory South of 60 deg S),medium,Counselling psychologist,1763,2024-08-19,tourism_peak
+Nissan,2002,Indigo,SUV,electric,manual,electric,6,35291.79,inactive,18082,20252,Rodney Watson,33,Male,Africa,American Samoa,medium,Television floor manager,2926,2021-09-19,normal
+Toyota,2010,Beige,Van,electric,manual,diesel,7,97918.57,inactive,14388,19566,Christina Brewer PhD,61,Male,South America,Eritrea,medium,Learning disability nurse,1575,2021-10-30,normal
+Toyota,2015,BurlyWood,SUV,petrol,automatic,diesel,8,227648.12,active,11064,16446,Kenneth Underwood,45,Female,Africa,Armenia,medium,Research scientist (maths),1782,2025-02-11,normal
+Hyundai,2025,ForestGreen,Hatchback,hybrid,manual,gasoline,8,239932.04,active,15978,18476,Terry Hill,20,Female,Africa,Hong Kong,medium,Database administrator,2435,2024-10-27,normal
+Hyundai,2011,LightYellow,SUV,electric,manual,gasoline,3,152582.28,active,13352,17235,Dr. John Miller MD,34,Female,Africa,Nicaragua,medium,"Engineer, communications",1268,2023-04-14,normal
+Nissan,2011,Azure,Van,diesel,manual,diesel,3,255422.6,inactive,13478,17365,Rachael Howard DDS,54,Female,South America,Egypt,medium,Local government officer,1143,2025-10-26,normal
+Nissan,2003,Orange,Van,electric,automatic,diesel,6,67508.8,active,14494,20065,Alexander Harper,38,Male,South America,Macao,medium,Health visitor,1973,2023-12-06,holiday_sales
+Nissan,2000,Wheat,SUV,hybrid,automatic,hybrid,7,53557.04,inactive,18832,24005,Kevin Hall,48,Male,Africa,Sudan,medium,Chiropodist,1276,2025-03-16,normal
+Toyota,2022,LightGreen,Truck,petrol,manual,electric,8,122287.84,active,18447,20841,Raven Mclaughlin,60,Male,Asia,Palestinian Territory,medium,Teaching laboratory technician,1936,2023-03-31,normal
+Nissan,2001,Fuchsia,Van,electric,manual,gasoline,2,150715.59,active,20482,24928,Evan Rojas,46,Female,North America,Guinea,medium,"Therapist, art",1526,2022-09-02,normal
+Hyundai,2018,DarkTurquoise,SUV,hybrid,manual,gasoline,5,45847.55,active,15021,19404,Chelsea Travis,36,Female,Africa,Romania,medium,Special effects artist,2310,2024-03-08,normal
+Hyundai,2001,Blue,Sedan,diesel,manual,diesel,3,21850.64,active,12076,17646,David Robinson,52,Female,Europe,China,medium,Academic librarian,2875,2025-05-13,normal
+Toyota,2000,DarkSeaGreen,SUV,electric,automatic,gasoline,7,211837.05,inactive,21389,23601,Christopher Lang,44,Female,Europe,United States Virgin Islands,medium,Barrister's clerk,2122,2022-11-27,holiday_sales
+Honda,2004,DarkTurquoise,SUV,petrol,automatic,gasoline,3,77682.99,inactive,16637,20061,Sarah Valencia,22,Male,Africa,Cameroon,medium,Midwife,2423,2026-03-08,normal
+Honda,2000,MediumSlateBlue,Sedan,diesel,automatic,gasoline,2,4610.76,active,12325,17435,Chad Moore,41,Female,North America,Namibia,medium,"Radiographer, therapeutic",2217,2022-01-19,normal
+Honda,2003,MintCream,Sedan,diesel,manual,gasoline,4,231664.62,inactive,19117,24485,Kevin Thompson,22,Female,Europe,China,medium,Hospital pharmacist,1203,2025-12-22,holiday_sales
+Hyundai,2000,OrangeRed,SUV,diesel,manual,gasoline,8,11206.38,inactive,12379,17974,Patricia Bradley,28,Male,Asia,Christmas Island,medium,Town planner,1362,2021-03-17,normal
+Honda,2016,DarkKhaki,SUV,electric,automatic,hybrid,8,120729.45,inactive,16843,19778,Brenda Mcgee,37,Male,Europe,Uruguay,medium,"Loss adjuster, chartered",1662,2023-01-27,normal
+Nissan,2009,MediumSeaGreen,SUV,petrol,manual,gasoline,3,162543.73,active,13202,18129,Derek Wright,70,Male,Europe,Chad,medium,Maintenance engineer,1201,2021-12-12,holiday_sales
+Nissan,2019,AliceBlue,Sedan,diesel,manual,gasoline,2,32688.71,active,19418,22677,Jeffrey Barnes,60,Male,Europe,Solomon Islands,medium,Patent attorney,1136,2022-02-10,normal
+Honda,2021,MediumVioletRed,Sedan,hybrid,automatic,gasoline,4,260585.97,active,15111,21102,Ashley Mendoza,30,Male,North America,Turkmenistan,medium,"Designer, textile",1644,2024-05-31,normal
+Toyota,2004,LightYellow,Sedan,diesel,automatic,hybrid,8,72134.51,active,16364,19372,Dean Garcia,70,Female,North America,Barbados,medium,"Doctor, hospital",1581,2021-06-23,tourism_peak
+Nissan,2004,DarkGoldenRod,Van,diesel,automatic,diesel,8,265928.53,inactive,13805,19274,William Barry,64,Male,North America,Central African Republic,medium,Plant breeder/geneticist,1867,2021-10-31,normal
+Hyundai,2020,DimGray,Truck,diesel,automatic,diesel,3,48439.04,active,20046,23420,Gary Mccann,70,Female,Asia,New Caledonia,medium,"Surveyor, building",2913,2024-11-20,holiday_sales
+Nissan,2020,Lime,Van,petrol,automatic,gasoline,2,52084.99,inactive,20195,22301,Anthony Armstrong,67,Female,South America,Estonia,medium,"Designer, exhibition/display",2602,2023-08-03,tourism_peak
+Honda,2006,Pink,SUV,hybrid,automatic,gasoline,6,262373.72,active,13056,16833,Rodney Weber,51,Female,Africa,Guyana,medium,"Engineer, communications",2446,2021-03-23,normal
+Nissan,2016,FloralWhite,Hatchback,hybrid,automatic,hybrid,8,167994.68,inactive,18893,24201,Vanessa Wells,45,Male,Africa,Anguilla,medium,Insurance account manager,1160,2022-12-14,holiday_sales
+Nissan,2021,LightGray,Van,hybrid,automatic,diesel,8,249588.01,active,16917,21238,Joshua Lopez,48,Female,North America,Latvia,medium,Merchant navy officer,2119,2025-05-09,normal
+Honda,2004,LightGray,SUV,hybrid,manual,electric,6,256935.75,inactive,10730,15589,Dennis Hood,45,Male,Asia,Kiribati,medium,Dentist,1566,2021-07-28,tourism_peak
+Hyundai,2021,Yellow,Hatchback,diesel,manual,electric,6,26239.6,inactive,15255,17607,Peter Perez,37,Male,Africa,Belize,medium,Naval architect,1870,2024-02-13,normal
+Nissan,2013,Sienna,Van,petrol,manual,hybrid,7,85403.74,active,21238,23754,Cynthia Evans,69,Female,South America,Italy,medium,Animal nutritionist,2249,2025-09-30,normal
+Nissan,2025,DarkViolet,Van,hybrid,automatic,gasoline,2,31108.48,active,17712,23555,Peter Thompson,53,Male,South America,Montserrat,medium,"Engineer, mining",2936,2025-08-03,tourism_peak
+Honda,2006,Peru,SUV,petrol,manual,hybrid,2,23969.23,active,13658,17258,Michael Harris,22,Male,Asia,Brunei Darussalam,medium,"Therapist, nutritional",1201,2021-07-22,tourism_peak
+Toyota,2009,DarkCyan,Sedan,petrol,automatic,diesel,2,230267.6,active,10940,15573,James Nguyen,60,Female,Europe,Ghana,medium,"Scientist, product/process development",2626,2021-10-06,normal
+Toyota,2024,Turquoise,Van,hybrid,automatic,hybrid,3,217674.33,inactive,17598,22297,Ashley Hernandez,63,Male,North America,United States Virgin Islands,medium,Claims inspector/assessor,2580,2021-04-19,normal
+Toyota,2005,LightSlateGray,Sedan,petrol,manual,hybrid,4,19111.08,active,15079,18985,Sheryl Humphrey,32,Female,South America,Slovakia (Slovak Republic),medium,Music therapist,1166,2022-01-19,normal
+Nissan,2000,Blue,Van,electric,manual,diesel,6,262752.94,inactive,12418,17961,Jamie Montgomery,47,Female,North America,Montserrat,medium,Arboriculturist,2104,2025-03-20,normal
+Toyota,2021,LavenderBlush,Van,diesel,automatic,electric,2,85793.69,inactive,13328,16790,John Adams,53,Female,North America,Tuvalu,medium,Advertising account planner,1480,2024-01-05,normal
+Hyundai,2017,Magenta,Sedan,hybrid,automatic,diesel,8,223755.81,active,10459,15813,John Horton,44,Male,Europe,Svalbard & Jan Mayen Islands,medium,Estate agent,1770,2023-10-09,normal
+Toyota,2003,MediumBlue,SUV,electric,automatic,diesel,7,103697.75,inactive,12981,18692,Jason Brewer,47,Male,Asia,French Southern Territories,medium,Private music teacher,2190,2024-12-17,holiday_sales
+Toyota,2019,SlateBlue,Truck,electric,manual,diesel,4,67704.91,inactive,21260,24022,Sharon Nicholson,49,Male,Asia,United States Minor Outlying Islands,medium,Brewing technologist,2908,2024-08-28,tourism_peak
+Hyundai,2015,PaleGreen,Sedan,electric,automatic,electric,3,278550.87,active,15084,17741,Samuel Suarez,21,Male,Europe,Russian Federation,medium,Early years teacher,2463,2025-07-03,tourism_peak
+Hyundai,2005,Chartreuse,SUV,diesel,automatic,electric,7,98911.21,active,18183,23996,Jesus Hull,28,Male,Asia,Turkey,medium,Graphic designer,2098,2022-11-25,holiday_sales
+Hyundai,2013,Tan,SUV,diesel,automatic,gasoline,3,194244.16,active,10144,15749,Thomas Maldonado,20,Male,Europe,Swaziland,medium,Microbiologist,2583,2025-02-21,normal
+Toyota,2022,Fuchsia,Van,hybrid,manual,hybrid,2,194757.78,active,15938,21140,Karen Arnold,30,Female,North America,Nepal,medium,"Development worker, community",1089,2024-12-26,holiday_sales
+Hyundai,2017,LightSkyBlue,SUV,electric,manual,hybrid,2,276686.11,inactive,11942,16879,Anthony Nash,69,Male,Europe,San Marino,medium,Environmental consultant,1153,2021-12-17,holiday_sales
+Toyota,2023,LightGreen,Truck,hybrid,manual,gasoline,3,248990.44,inactive,19101,23808,Kayla Hancock,32,Male,Asia,Philippines,medium,Public relations account executive,1301,2022-12-14,holiday_sales
+Honda,2003,Aqua,SUV,electric,automatic,diesel,8,167876.82,active,15852,19486,Lee Hahn,42,Female,Asia,Oman,medium,Pharmacologist,2287,2022-09-01,normal
+Honda,2012,Salmon,Van,electric,manual,hybrid,5,79456.48,active,16652,21408,John Byrd,28,Female,North America,Timor-Leste,medium,Television/film/video producer,1786,2024-02-28,normal
+Nissan,2000,Navy,Hatchback,electric,automatic,hybrid,3,71718.88,active,16263,21801,Linda Campbell,42,Male,Africa,Albania,medium,Race relations officer,1455,2025-07-18,tourism_peak
+Nissan,2014,MediumOrchid,Hatchback,diesel,manual,diesel,6,126158.67,inactive,21537,24049,Debbie Dawson,63,Female,Africa,Guadeloupe,medium,Emergency planning/management officer,1345,2023-07-19,tourism_peak
+Honda,2010,Chartreuse,SUV,petrol,automatic,diesel,5,251721.33,active,15124,20500,Rebekah Greene,61,Female,Asia,Maldives,medium,Counselling psychologist,2934,2023-03-28,normal
+Toyota,2017,LightYellow,Hatchback,hybrid,automatic,electric,2,239539.51,active,17922,20058,Jason Price,38,Male,Africa,Palau,medium,Television production assistant,1184,2025-06-04,tourism_peak
+Nissan,2008,MediumSpringGreen,Sedan,hybrid,automatic,gasoline,4,81099.68,active,18673,21766,Courtney Nichols,37,Female,South America,Suriname,medium,Mechanical engineer,2837,2022-10-23,normal
+Toyota,2003,Gainsboro,Van,diesel,manual,electric,7,272796.39,inactive,15810,19027,John Figueroa,46,Male,South America,French Southern Territories,medium,Legal executive,1593,2022-08-22,tourism_peak
+Hyundai,2025,Ivory,Hatchback,petrol,manual,electric,3,161318.04,inactive,12708,17605,Elizabeth French,48,Female,Africa,Cyprus,medium,Meteorologist,2261,2024-03-19,normal
+Hyundai,2023,SandyBrown,SUV,electric,automatic,hybrid,4,259127.0,inactive,15043,20874,Julie Delacruz,35,Male,Europe,Myanmar,medium,Public house manager,1473,2023-09-11,normal
+Toyota,2009,Olive,Truck,diesel,manual,diesel,8,128337.32,active,19214,24526,Jennifer Pitts,20,Male,Asia,Macao,medium,"Copywriter, advertising",1213,2022-03-19,normal
+Honda,2024,Salmon,Truck,petrol,automatic,diesel,4,216764.25,inactive,15359,17500,Scott White,69,Male,Asia,Guam,medium,Ranger/warden,2882,2024-09-03,normal
+Hyundai,2017,Maroon,Sedan,electric,manual,hybrid,5,166429.88,inactive,19629,22967,Abigail Hill,59,Male,Europe,Norfolk Island,medium,Technical author,2777,2022-09-12,normal
+Toyota,2020,DarkSeaGreen,Truck,hybrid,automatic,gasoline,8,39393.75,inactive,14895,18887,Madeline Powell,64,Female,Asia,Liechtenstein,medium,Music therapist,2344,2021-12-10,holiday_sales
+Toyota,2021,Green,SUV,electric,manual,hybrid,3,203382.57,inactive,18884,24032,Tiffany Mcclain,38,Male,Africa,Argentina,medium,Adult nurse,1569,2025-09-25,normal
+Honda,2004,Ivory,Hatchback,petrol,automatic,electric,8,281651.73,active,20358,24445,Haley Anderson,34,Female,Africa,Niue,medium,Retail manager,2097,2023-04-24,normal
+Honda,2022,Coral,Van,hybrid,automatic,hybrid,8,7975.22,active,20349,24980,Elizabeth Carter,47,Female,South America,Gambia,medium,Politician's assistant,1033,2022-08-12,tourism_peak
+Nissan,2000,MintCream,Truck,hybrid,automatic,electric,7,27586.2,active,12275,16820,Carmen Meadows,37,Female,Asia,Guam,medium,Advertising account executive,2830,2025-05-12,normal
+Toyota,2013,HotPink,SUV,petrol,manual,diesel,2,257658.67,inactive,11965,17622,Leah Jackson,37,Female,Asia,Czech Republic,medium,Applications developer,2643,2022-04-23,normal
+Nissan,2021,White,Van,petrol,manual,hybrid,3,177453.27,inactive,21044,23658,Linda Williams,52,Male,North America,Turkey,medium,Advertising account planner,1499,2023-05-15,normal
+Toyota,2019,PapayaWhip,Hatchback,petrol,manual,diesel,7,153308.17,active,15569,18166,Caleb King,24,Male,Africa,Portugal,medium,"Engineer, land",2563,2022-03-06,normal
+Nissan,2002,DarkGreen,Hatchback,electric,manual,hybrid,7,83639.25,inactive,22221,24932,Debra Obrien,28,Male,Africa,Gabon,medium,Personal assistant,2364,2024-10-09,normal
+Honda,2006,LightSkyBlue,SUV,electric,automatic,gasoline,3,139227.97,inactive,15328,21311,Brian Gonzalez,55,Male,Africa,Malawi,medium,General practice doctor,2268,2022-03-12,normal
+Honda,2025,PaleTurquoise,Van,petrol,automatic,diesel,6,5884.71,active,19010,21671,Andrew Crawford,50,Male,South America,Cook Islands,medium,Quarry manager,1283,2024-03-28,normal
+Nissan,2012,Aquamarine,Sedan,petrol,manual,hybrid,4,269006.38,inactive,14630,18370,Susan Conley,20,Female,Europe,Dominica,medium,Database administrator,1941,2021-03-20,normal
+Honda,2021,Crimson,SUV,electric,automatic,electric,5,64949.94,active,18936,24808,Ashley Scott,43,Male,Africa,Slovakia (Slovak Republic),medium,"Programmer, multimedia",1110,2025-07-18,tourism_peak
+Toyota,2020,BurlyWood,SUV,diesel,automatic,diesel,3,117650.86,inactive,16631,20127,Christopher Williams,26,Female,Europe,Estonia,medium,Media buyer,2498,2025-02-21,normal
+Nissan,2022,DarkGray,SUV,hybrid,automatic,gasoline,6,15135.4,inactive,10721,15353,Stefanie Smith,25,Male,Europe,Japan,medium,"Doctor, hospital",2564,2022-03-07,normal
+Honda,2002,LightGreen,SUV,electric,automatic,hybrid,3,208681.25,inactive,11672,16451,Anna Briggs,51,Male,Europe,Guinea-Bissau,medium,Clothing/textile technologist,1446,2024-11-30,holiday_sales
+Nissan,2012,LightPink,Van,hybrid,automatic,gasoline,5,58147.0,active,13968,16885,Melissa Mendoza,57,Female,North America,Iran,medium,Dietitian,1855,2025-01-28,normal
+Nissan,2018,DimGray,Hatchback,diesel,manual,gasoline,6,189728.43,active,21014,23386,Thomas Webb,31,Female,Africa,Bulgaria,medium,"Education officer, community",1714,2021-09-10,normal
+Honda,2000,Black,Van,hybrid,automatic,diesel,6,299717.24,inactive,12480,16237,Sheryl Acosta,20,Male,South America,Hong Kong,medium,Radiation protection practitioner,1654,2024-03-30,normal
+Honda,2014,Purple,Sedan,electric,automatic,electric,7,227174.47,inactive,18908,23679,Dennis Edwards,41,Male,North America,Bouvet Island (Bouvetoya),medium,Lexicographer,2597,2024-09-09,normal
+Hyundai,2000,Plum,Van,hybrid,manual,gasoline,3,177243.85,active,14936,19453,Danielle Reed,66,Female,South America,Mali,medium,Database administrator,1173,2022-01-01,normal
+Hyundai,2015,Aqua,Sedan,electric,manual,diesel,5,35396.72,inactive,14898,17811,Brooke Allison,60,Female,South America,Uganda,medium,Diagnostic radiographer,1064,2021-08-28,tourism_peak
+Hyundai,2018,MediumBlue,SUV,petrol,automatic,hybrid,7,225666.02,inactive,10342,15720,Wayne Williams,28,Male,Africa,Sao Tome and Principe,medium,Statistician,1448,2025-05-17,normal
+Hyundai,2011,Cyan,Van,diesel,automatic,hybrid,2,259894.55,inactive,12405,16404,Robert West,49,Female,North America,Iraq,medium,Product manager,1451,2023-03-12,normal
+Honda,2010,Azure,Sedan,diesel,automatic,diesel,4,54111.34,active,14530,19312,Jason Hawkins,38,Male,Europe,British Indian Ocean Territory (Chagos Archipelago),medium,"Chemist, analytical",2212,2025-06-04,tourism_peak
+Honda,2014,Teal,Sedan,petrol,automatic,diesel,4,25466.43,inactive,18480,22264,Mary Bryant,49,Female,South America,Niger,medium,Medical physicist,2256,2023-10-14,normal
+Hyundai,2020,SaddleBrown,Hatchback,diesel,automatic,hybrid,2,134971.4,inactive,13550,15710,Randall Greene,50,Female,Africa,Svalbard & Jan Mayen Islands,medium,Production manager,2548,2023-02-02,normal
+Nissan,2005,AliceBlue,SUV,electric,automatic,hybrid,3,228539.96,inactive,16923,21275,Ronald Brandt,57,Female,Africa,Bhutan,medium,Sports development officer,2703,2023-01-29,normal
+Toyota,2020,Brown,Van,petrol,manual,diesel,3,253841.72,inactive,17432,21653,Katherine Underwood,63,Female,South America,Holy See (Vatican City State),medium,Clinical biochemist,1470,2022-02-05,normal
+Toyota,2012,Gold,SUV,diesel,automatic,diesel,6,18353.47,active,18728,23962,Samuel Lewis,54,Male,Europe,New Zealand,medium,Lexicographer,1201,2022-11-10,holiday_sales
+Toyota,2020,Brown,Hatchback,electric,automatic,diesel,8,223625.7,active,20185,24330,Sara Chapman,31,Female,Africa,Saudi Arabia,medium,"Programmer, systems",2339,2024-09-19,normal
+Honda,2000,DarkSlateBlue,Van,electric,automatic,gasoline,6,187508.24,active,18606,22769,April Fitzgerald,62,Female,South America,Zimbabwe,medium,Textile designer,2677,2025-06-25,tourism_peak
+Hyundai,2004,Fuchsia,Van,petrol,manual,diesel,8,134336.01,active,19091,24603,Carrie Ochoa,39,Male,North America,Uzbekistan,medium,Naval architect,1934,2025-07-08,tourism_peak
+Honda,2021,Tan,Van,hybrid,manual,electric,8,73423.37,inactive,12390,16506,Jennifer Lynch,57,Male,South America,New Caledonia,medium,Graphic designer,1051,2023-12-06,holiday_sales
+Hyundai,2017,RoyalBlue,Van,hybrid,automatic,hybrid,4,159655.27,active,16210,21559,Brenda Morrison,65,Female,North America,Guam,medium,Sports development officer,2788,2023-09-11,normal
+Honda,2022,IndianRed,SUV,electric,automatic,diesel,3,160043.78,active,11923,17660,Marcus Roberts,56,Female,Europe,Rwanda,medium,Consulting civil engineer,2910,2025-11-25,holiday_sales
+Toyota,2018,MediumBlue,SUV,diesel,manual,diesel,6,60140.27,inactive,18766,23346,Paige Hart,22,Female,Asia,Macao,medium,"Social research officer, government",2796,2025-10-22,normal
+Toyota,2023,Aquamarine,Sedan,petrol,manual,diesel,5,170309.73,inactive,17887,21802,Allison Thomas,65,Male,Europe,Turkey,medium,"Engineer, communications",1078,2024-10-14,normal
+Toyota,2007,LightSlateGray,Sedan,hybrid,automatic,gasoline,6,12501.86,inactive,19211,24535,Brianna Brown,32,Female,Europe,Sao Tome and Principe,medium,"Engineer, electronics",2909,2022-07-25,tourism_peak
+Hyundai,2018,RoyalBlue,Van,hybrid,automatic,gasoline,4,284538.67,inactive,15040,18731,Sean Stevenson,24,Male,South America,Antigua and Barbuda,medium,"Surveyor, mining",2737,2024-03-30,normal
+Honda,2013,LightSlateGray,Van,diesel,automatic,gasoline,8,271389.2,active,15628,19726,Amber James,50,Female,North America,Dominica,medium,Intelligence analyst,1647,2025-07-16,tourism_peak
+Hyundai,2007,LightCoral,Sedan,hybrid,automatic,diesel,8,222096.49,active,15970,21431,Sean Dalton,60,Female,South America,Austria,medium,Equality and diversity officer,2788,2021-04-21,normal
+Toyota,2021,Gray,SUV,diesel,automatic,electric,8,52681.02,inactive,18421,24359,Tracey Phillips,48,Male,Europe,Saudi Arabia,medium,Cabin crew,1088,2025-11-04,holiday_sales
+Honda,2006,DarkOrchid,Truck,diesel,manual,gasoline,6,94587.78,inactive,12265,16776,Jeffrey Hawkins,49,Male,Asia,China,medium,"Designer, multimedia",1171,2025-07-25,tourism_peak
+Nissan,2006,AntiqueWhite,Van,electric,manual,diesel,7,67277.54,inactive,19762,23679,Michael Moore,45,Male,South America,Tanzania,medium,IT trainer,1663,2023-05-13,normal
+Hyundai,2001,SlateGray,Sedan,diesel,automatic,gasoline,2,275037.24,inactive,20656,23976,Krista Jones,28,Female,South America,Austria,medium,Secondary school teacher,2521,2023-10-03,normal
+Nissan,2017,Turquoise,SUV,hybrid,manual,diesel,8,294898.21,active,18322,22555,Jonathan Perry,52,Female,Asia,Zimbabwe,medium,Chief Executive Officer,2273,2022-10-04,normal
+Nissan,2003,MediumPurple,SUV,diesel,automatic,electric,6,173198.76,inactive,15431,18592,Edward Clements,56,Female,Europe,Cyprus,medium,"Surveyor, mining",1390,2023-01-03,normal
+Toyota,2012,RosyBrown,SUV,diesel,manual,electric,3,44096.0,active,19542,24451,Martin Sellers,54,Male,Africa,Brazil,medium,Archaeologist,2381,2024-02-20,normal
+Hyundai,2009,OliveDrab,Sedan,electric,automatic,electric,2,71997.18,active,16563,22522,Nathaniel Johnson,52,Female,Europe,Hong Kong,medium,"Scientist, audiological",1018,2022-02-27,normal
+Toyota,2012,Brown,Van,electric,manual,gasoline,7,161455.47,inactive,20391,22862,Matthew Flores,48,Male,South America,Kiribati,medium,Chief Operating Officer,2190,2025-05-02,normal
+Nissan,2001,White,SUV,diesel,manual,diesel,2,294256.96,inactive,19913,22446,Austin Santiago,37,Male,Asia,Zimbabwe,medium,Photographer,1878,2025-10-08,normal
+Honda,2005,PowderBlue,Hatchback,electric,manual,hybrid,4,231487.41,active,17610,21973,Teresa Burgess,43,Male,Africa,Costa Rica,medium,Aeronautical engineer,1672,2025-10-07,normal
+Nissan,2021,Blue,Sedan,petrol,manual,electric,2,172244.08,active,13528,17812,Anthony Bauer,57,Male,North America,Saint Barthelemy,medium,"Teacher, special educational needs",1282,2024-01-06,normal
+Toyota,2000,PaleTurquoise,SUV,electric,manual,gasoline,7,20402.72,active,11919,17041,Mark Hamilton,43,Male,Asia,United States Minor Outlying Islands,medium,Neurosurgeon,1736,2023-05-24,normal
+Hyundai,2017,Coral,Hatchback,hybrid,automatic,electric,3,143913.6,inactive,15862,21839,Laurie Haynes,28,Male,Africa,Martinique,medium,Materials engineer,1804,2021-03-30,normal
+Toyota,2020,LimeGreen,Sedan,diesel,manual,hybrid,3,295911.14,active,15065,18948,Diane Mcintosh,58,Female,South America,Botswana,medium,Nutritional therapist,2678,2023-08-29,tourism_peak
+Toyota,2003,White,Hatchback,petrol,automatic,electric,3,209101.0,inactive,13889,19532,Paul Robles,60,Female,Africa,Lebanon,medium,Cytogeneticist,1577,2022-07-10,tourism_peak
+Honda,2013,Aqua,SUV,hybrid,automatic,diesel,3,138776.75,active,12510,18397,Kristen Martinez,48,Male,Europe,Philippines,medium,"Teacher, primary school",1574,2024-05-14,normal
+Toyota,2001,DarkBlue,Sedan,diesel,automatic,gasoline,2,296861.96,active,14189,19138,Paul Berger,48,Female,South America,India,medium,"Engineer, mining",1669,2025-10-05,normal
+Toyota,2020,DarkTurquoise,Sedan,hybrid,automatic,diesel,5,239818.16,inactive,10928,15845,Daniel Davenport,44,Male,North America,United Kingdom,medium,Colour technologist,1010,2025-07-21,tourism_peak
+Toyota,2021,CadetBlue,SUV,electric,manual,hybrid,3,62947.17,active,14897,20113,Tara Gamble,29,Female,Asia,Paraguay,medium,Stage manager,2039,2026-01-07,normal
+Toyota,2002,LightCoral,SUV,petrol,manual,gasoline,5,231999.16,active,16340,21580,Nicholas Freeman,31,Female,Africa,French Guiana,medium,Marketing executive,2193,2021-10-07,normal
+Nissan,2021,DarkGreen,Truck,hybrid,manual,hybrid,6,214861.79,inactive,14579,18697,Benjamin Lee,65,Female,Asia,Paraguay,medium,"Production designer, theatre/television/film",2320,2023-03-10,normal
+Toyota,2014,DeepSkyBlue,Sedan,hybrid,manual,hybrid,7,257985.55,inactive,11602,17211,Holly Stewart,61,Female,Europe,Nicaragua,medium,Dispensing optician,1721,2023-10-17,normal
+Nissan,2008,Indigo,SUV,petrol,automatic,diesel,6,240212.84,inactive,21985,24923,Margaret Hill,55,Female,Africa,Germany,medium,Contractor,1802,2023-04-15,normal
+Nissan,2016,SandyBrown,SUV,petrol,manual,hybrid,2,235933.95,inactive,15248,19762,Raymond Tucker,52,Male,Europe,Turkey,medium,Economist,1166,2025-04-11,normal
+Honda,2018,DarkSlateGray,Van,diesel,automatic,diesel,4,1144.0,inactive,15788,20694,Christina Gross,28,Male,South America,Belgium,medium,Call centre manager,1963,2023-07-31,tourism_peak
+Toyota,2003,Black,SUV,hybrid,manual,hybrid,6,43078.23,inactive,17495,20443,Lauren Hammond,44,Male,Africa,Thailand,medium,Animator,1781,2025-07-04,tourism_peak
+Honda,2023,Yellow,Van,hybrid,automatic,electric,7,112210.63,inactive,16077,22066,Reginald Diaz,41,Male,South America,Eritrea,medium,Theme park manager,2955,2025-10-25,normal
+Nissan,2006,SteelBlue,SUV,hybrid,manual,hybrid,3,31609.43,active,17160,21079,Jennifer Shaw,37,Male,Europe,Burkina Faso,medium,Visual merchandiser,2936,2025-02-22,normal
+Nissan,2010,DarkSlateGray,SUV,hybrid,manual,electric,5,265475.66,inactive,19404,23715,Christopher Fry,59,Male,Asia,Saudi Arabia,medium,Radio broadcast assistant,1504,2025-07-26,tourism_peak
+Toyota,2019,SlateBlue,SUV,electric,automatic,electric,3,16482.31,inactive,20512,24759,Dennis Young,49,Male,Europe,Armenia,medium,"Scientist, marine",1681,2023-01-20,normal
+Hyundai,2016,SaddleBrown,SUV,hybrid,automatic,electric,6,264995.24,active,14077,18035,Amanda Wong,48,Male,Europe,Iceland,medium,"Scientist, research (life sciences)",1662,2025-03-10,normal
+Hyundai,2000,YellowGreen,Sedan,petrol,automatic,electric,8,143525.84,active,10994,15320,Jamie Gray,32,Male,Europe,Syrian Arab Republic,medium,"Scientist, forensic",2443,2023-06-08,tourism_peak
+Hyundai,2012,Tomato,Sedan,diesel,manual,electric,6,71292.79,inactive,12793,17123,Robert Reed,42,Female,Europe,Honduras,medium,Trade mark attorney,2933,2023-02-02,normal
+Nissan,2014,Purple,SUV,petrol,automatic,diesel,2,168664.23,active,20379,24945,Billy Schneider,45,Male,Africa,Macao,medium,Dealer,2143,2022-05-17,normal
+Hyundai,2025,DarkOrchid,SUV,electric,automatic,hybrid,8,67062.9,active,19142,21521,Jennifer Rivera,59,Male,Asia,Cayman Islands,medium,Race relations officer,1791,2024-04-10,normal
+Honda,2021,DodgerBlue,Sedan,diesel,automatic,hybrid,2,150227.03,inactive,12045,17795,Jennifer Sanchez,64,Male,North America,Lesotho,medium,"Teacher, secondary school",1014,2022-12-26,holiday_sales
+Hyundai,2017,Thistle,Sedan,diesel,automatic,hybrid,6,201673.99,active,13048,17832,Kenneth Brown,36,Female,South America,Central African Republic,medium,Education administrator,1782,2022-05-04,normal
+Toyota,2008,Azure,Van,electric,manual,electric,2,174064.96,inactive,20694,22784,Monica Nicholson,55,Male,South America,Iraq,medium,"Engineer, technical sales",2068,2025-12-27,holiday_sales
+Toyota,2015,SkyBlue,Van,electric,automatic,electric,8,18801.71,inactive,14413,20357,Ronald Burke,69,Male,North America,New Caledonia,medium,Youth worker,1964,2025-03-15,normal
+Hyundai,2009,MediumSpringGreen,Van,petrol,automatic,gasoline,7,248613.16,inactive,11860,15116,Linda Jones,28,Female,South America,Estonia,medium,Musician,2165,2022-08-15,tourism_peak
+Nissan,2020,Green,Truck,petrol,manual,hybrid,5,53659.85,active,11067,16157,Susan Cohen,52,Male,Asia,Botswana,medium,Trading standards officer,1641,2021-05-02,normal
+Hyundai,2023,Blue,SUV,diesel,manual,electric,3,238131.45,active,21976,24410,Kim Goodwin,27,Male,Africa,Christmas Island,medium,Race relations officer,1091,2025-03-29,normal
+Hyundai,2018,AliceBlue,SUV,diesel,automatic,diesel,3,255458.4,active,14678,18654,Patricia Banks,26,Female,Asia,United Arab Emirates,medium,Metallurgist,2129,2025-10-12,normal
+Toyota,2019,Pink,SUV,hybrid,automatic,hybrid,4,186700.07,inactive,15369,19381,Robert Clarke,60,Female,Africa,Qatar,medium,Maintenance engineer,1662,2025-09-13,normal
+Hyundai,2000,DarkGreen,Sedan,electric,automatic,hybrid,4,87209.13,inactive,18425,21944,David Cannon,44,Male,South America,Spain,medium,Herpetologist,1844,2026-02-03,normal
+Toyota,2015,PaleTurquoise,Sedan,electric,manual,diesel,3,207600.48,active,18491,21244,Aaron Manning,45,Male,South America,Turkey,medium,Technical brewer,1306,2025-10-26,normal
+Hyundai,2016,AntiqueWhite,Van,diesel,automatic,hybrid,3,102444.07,inactive,11971,17630,Daniel Brock,53,Female,South America,British Indian Ocean Territory (Chagos Archipelago),medium,Medical illustrator,1035,2025-08-12,tourism_peak
+Nissan,2022,LightCoral,SUV,hybrid,manual,gasoline,7,21452.04,inactive,20473,23411,Joshua Cunningham,35,Female,Africa,Cape Verde,medium,Occupational psychologist,1564,2024-10-25,normal
+Nissan,2016,SkyBlue,Truck,diesel,automatic,gasoline,6,228636.21,inactive,16465,19134,Justin Webb,23,Female,Asia,Isle of Man,medium,Technical brewer,1849,2025-11-21,holiday_sales
+Honda,2001,DarkSlateGray,SUV,diesel,manual,electric,2,214610.72,inactive,10522,15586,Mary Adkins,33,Female,Europe,Singapore,medium,"Designer, television/film set",2591,2024-07-30,tourism_peak
+Hyundai,2005,PaleGoldenRod,SUV,diesel,automatic,diesel,8,36049.55,active,16114,19030,Rebecca Mendez,57,Male,Africa,Croatia,medium,"Designer, multimedia",1632,2025-07-08,tourism_peak
+Nissan,2006,DarkGoldenRod,Van,petrol,manual,diesel,8,153249.15,active,18773,23095,Kaitlyn Burke,52,Male,North America,North Macedonia,medium,Bonds trader,2522,2021-03-28,normal
+Toyota,2013,Cyan,SUV,electric,automatic,diesel,7,206551.33,active,13159,17562,Misty Arias,34,Female,Europe,Cyprus,medium,Visual merchandiser,1018,2024-05-07,normal
+Nissan,2001,ForestGreen,Sedan,electric,automatic,diesel,6,277751.24,active,12604,16261,Jessica Harris,45,Female,South America,France,medium,"Engineer, broadcasting (operations)",2859,2021-09-06,normal
+Nissan,2002,Tomato,SUV,hybrid,automatic,diesel,6,73074.94,inactive,17098,21183,Lisa Craig,64,Female,Africa,Slovenia,medium,Field trials officer,1992,2025-07-15,tourism_peak
+Honda,2006,LightSalmon,SUV,petrol,automatic,diesel,5,99309.4,active,13290,18227,Heather Foster,58,Male,Africa,Cayman Islands,medium,"Scientist, marine",1166,2021-12-06,holiday_sales
+Honda,2024,DarkGoldenRod,SUV,petrol,automatic,diesel,6,82515.22,inactive,13844,19030,Molly Hansen,43,Female,Africa,Saint Pierre and Miquelon,medium,"Loss adjuster, chartered",2234,2021-10-11,normal
+Hyundai,2013,SaddleBrown,Sedan,electric,manual,diesel,3,82142.97,inactive,14843,16967,Laura Green,26,Female,Europe,Czech Republic,medium,Risk manager,2571,2022-11-06,holiday_sales
+Honda,2002,SteelBlue,Hatchback,diesel,manual,diesel,3,121146.78,active,14707,20563,Travis Pratt,65,Female,Africa,Monaco,medium,Soil scientist,1202,2021-10-22,normal
+Hyundai,2005,OldLace,Sedan,hybrid,automatic,gasoline,8,284255.93,inactive,11066,16389,Patricia Todd,62,Female,South America,El Salvador,medium,Psychiatrist,2229,2024-12-16,holiday_sales
+Toyota,2015,SkyBlue,Van,electric,manual,electric,3,38676.22,active,12778,17129,Austin Schultz,57,Male,South America,Tokelau,medium,Event organiser,1708,2021-06-04,tourism_peak
+Honda,2004,Tomato,SUV,petrol,manual,electric,8,226685.7,inactive,14981,17341,Mercedes Baker,68,Female,Europe,Isle of Man,medium,Chief Financial Officer,1219,2024-03-13,normal
+Honda,2010,Crimson,Sedan,electric,automatic,gasoline,5,16959.82,active,14717,18463,Cassandra Edwards,36,Male,North America,Peru,medium,"Teacher, secondary school",2233,2024-02-07,normal
+Nissan,2017,SpringGreen,Sedan,hybrid,automatic,hybrid,4,233835.44,active,13808,15991,Cynthia Allen,64,Female,Europe,Cocos (Keeling) Islands,medium,"Engineer, maintenance",2248,2022-10-23,normal
+Honda,2015,MintCream,SUV,electric,automatic,hybrid,5,231904.91,active,18597,21804,Brian Mora,58,Female,Asia,Cook Islands,medium,Visual merchandiser,1963,2023-04-26,normal
+Honda,2025,BlueViolet,Hatchback,diesel,manual,electric,7,248167.53,inactive,12743,16119,Jacqueline Stewart,62,Female,Africa,Serbia,medium,Recycling officer,1161,2025-10-19,normal
+Honda,2000,LightSeaGreen,Truck,petrol,manual,diesel,7,126640.56,active,13233,18732,Paul Anderson,33,Female,Asia,Serbia,medium,Purchasing manager,1053,2025-07-17,tourism_peak
+Honda,2018,MediumTurquoise,Van,electric,automatic,diesel,4,236881.74,active,18353,23607,Michael Thompson,62,Male,South America,Antigua and Barbuda,medium,"Scientist, marine",1262,2025-06-20,tourism_peak
+Honda,2014,Aquamarine,Van,diesel,manual,diesel,6,209864.96,inactive,11174,15682,Jamie Garcia,26,Female,North America,Germany,medium,Video editor,2795,2021-04-07,normal
+Hyundai,2017,LightGray,Sedan,electric,automatic,electric,2,266576.62,inactive,18083,20516,John Austin,31,Female,Europe,Colombia,medium,Educational psychologist,1954,2025-11-10,holiday_sales
+Hyundai,2001,PeachPuff,Van,petrol,manual,diesel,4,46251.19,active,18033,20613,Jacqueline Dickerson,70,Female,North America,Jamaica,medium,"Production designer, theatre/television/film",1980,2022-12-26,holiday_sales
+Nissan,2011,Khaki,SUV,diesel,manual,diesel,3,115466.84,inactive,15215,19247,Michelle Brock,52,Female,Asia,Montserrat,medium,Museum/gallery curator,1590,2022-04-23,normal
+Toyota,2011,Sienna,SUV,diesel,manual,gasoline,7,144399.96,active,10597,16576,Cassandra Porter,46,Female,Asia,Cameroon,medium,"Radiographer, therapeutic",2120,2022-06-19,tourism_peak
+Nissan,2000,BurlyWood,SUV,petrol,manual,hybrid,5,233806.96,active,15714,19512,Michael Brown,38,Female,Europe,El Salvador,medium,Publishing copy,1973,2025-12-22,holiday_sales
+Honda,2018,LightGoldenRodYellow,Hatchback,electric,automatic,hybrid,5,49603.03,active,12269,17737,Justin Frederick,69,Female,Africa,Korea,medium,Local government officer,1243,2024-01-15,normal
+Toyota,2009,MediumVioletRed,Hatchback,diesel,manual,electric,4,110195.82,inactive,19297,23497,Tracey Gonzalez,42,Male,Africa,Isle of Man,medium,Higher education careers adviser,2164,2022-03-23,normal
+Toyota,2016,SlateBlue,SUV,diesel,manual,gasoline,8,166357.23,inactive,12582,16649,Jillian Miller,39,Female,Europe,Greece,medium,"Psychologist, educational",2149,2025-07-14,tourism_peak
+Honda,2019,MediumSlateBlue,Truck,electric,automatic,diesel,3,65077.73,inactive,16923,20001,Logan Sullivan,35,Male,Asia,Trinidad and Tobago,medium,Cartographer,1442,2022-08-14,tourism_peak
+Honda,2002,Maroon,Truck,petrol,automatic,hybrid,7,265135.54,inactive,17598,22900,Eddie Adams,38,Female,Asia,Guam,medium,Geoscientist,2800,2023-02-19,normal
+Nissan,2021,Turquoise,Sedan,hybrid,automatic,hybrid,6,182022.44,active,14005,19797,Jennifer White,38,Male,North America,Slovakia (Slovak Republic),medium,Comptroller,1280,2024-04-13,normal
+Hyundai,2020,Cyan,SUV,diesel,automatic,hybrid,8,198311.56,inactive,19000,22227,James Davis,47,Female,Asia,Panama,medium,Sports therapist,2521,2023-05-02,normal
+Honda,2010,Violet,Hatchback,hybrid,automatic,gasoline,4,59724.27,inactive,18546,23658,Angela Baker,42,Male,Africa,Anguilla,medium,Chartered accountant,1281,2024-07-27,tourism_peak
+Hyundai,2015,LightBlue,Van,electric,manual,diesel,4,85056.71,inactive,17596,20847,Jessica Martinez,40,Male,North America,Georgia,medium,Air cabin crew,1462,2023-02-22,normal
+Toyota,2023,MediumOrchid,Hatchback,hybrid,manual,hybrid,7,184295.62,active,13502,18333,Julie Pitts,57,Female,Africa,Panama,medium,Sports therapist,1696,2024-03-24,normal
+Toyota,2000,Fuchsia,Sedan,hybrid,automatic,hybrid,2,78124.35,active,19546,21960,Joyce Curry,22,Female,North America,Burkina Faso,medium,"Scientist, research (physical sciences)",1372,2025-10-12,normal
+Hyundai,2020,SkyBlue,Sedan,hybrid,manual,gasoline,6,190104.72,active,13547,16788,Regina Ramos,34,Female,South America,Georgia,medium,Passenger transport manager,1633,2024-02-23,normal
+Nissan,2015,Aqua,Sedan,petrol,manual,electric,2,74370.62,inactive,19265,24701,Robert Charles,50,Female,Europe,Cape Verde,medium,Historic buildings inspector/conservation officer,1841,2023-10-11,normal
+Honda,2018,SlateGray,Sedan,petrol,manual,gasoline,6,187495.0,inactive,14393,19801,Karen Smith,35,Female,North America,Martinique,medium,"Horticulturist, commercial",2628,2021-04-06,normal
+Honda,2000,Navy,Sedan,hybrid,automatic,hybrid,5,218010.47,active,19715,23933,Stephen Kim,52,Male,South America,Djibouti,medium,"Development worker, community",1828,2021-04-03,normal
+Honda,2006,Indigo,Van,petrol,manual,gasoline,7,48548.07,inactive,17536,20672,Jay Allen,59,Female,North America,Switzerland,medium,Higher education careers adviser,1235,2024-05-30,normal
+Hyundai,2016,PaleVioletRed,Sedan,diesel,automatic,gasoline,3,257552.66,active,19230,22229,Barry Taylor,38,Male,South America,Sudan,medium,"Programmer, applications",1906,2023-06-25,tourism_peak
+Honda,2025,SlateGray,Van,electric,manual,gasoline,5,138534.31,active,16720,21897,Alec Williams,47,Male,South America,Korea,medium,Electronics engineer,2006,2023-07-05,tourism_peak
+Nissan,2005,DarkSalmon,Hatchback,diesel,manual,hybrid,6,183192.31,inactive,13486,16125,Monica Hall,67,Male,Africa,Finland,medium,"Administrator, local government",1791,2023-06-26,tourism_peak
+Hyundai,2006,PeachPuff,Van,electric,manual,hybrid,3,195162.11,active,21944,24055,Robert Bolton,43,Female,North America,Cuba,medium,Ambulance person,1733,2024-02-07,normal
+Hyundai,2003,Chartreuse,SUV,hybrid,manual,gasoline,5,153732.42,inactive,16213,18519,James Daniels,52,Male,Europe,Belgium,medium,"Engineer, agricultural",2248,2022-06-08,tourism_peak
+Toyota,2004,Aquamarine,SUV,hybrid,manual,gasoline,4,128910.41,active,14528,19206,Randy Wright,68,Female,Europe,Svalbard & Jan Mayen Islands,medium,Firefighter,2330,2024-06-09,tourism_peak
+Honda,2024,DarkGray,SUV,petrol,automatic,hybrid,4,186045.7,active,15300,20950,Vickie Kennedy,30,Female,Africa,Congo,medium,IT trainer,2925,2025-02-10,normal
+Toyota,2000,Turquoise,SUV,hybrid,manual,electric,4,275766.63,inactive,14377,18781,John Evans,60,Female,Asia,Norfolk Island,medium,Associate Professor,1390,2021-07-21,tourism_peak
+Honda,2016,PowderBlue,SUV,electric,automatic,hybrid,8,239903.38,inactive,15985,18661,Christopher Hill,40,Male,Asia,Bouvet Island (Bouvetoya),medium,Occupational hygienist,2348,2023-03-15,normal
+Honda,2004,Sienna,Truck,diesel,automatic,gasoline,7,240863.93,active,14887,17650,Brittney Townsend,61,Male,Asia,Algeria,medium,"Designer, industrial/product",1102,2021-07-20,tourism_peak
+Nissan,2000,Chocolate,Sedan,electric,manual,gasoline,7,105649.7,active,14443,18393,Matthew Miles,65,Male,North America,Bermuda,medium,Comptroller,2273,2024-01-27,normal
+Hyundai,2004,MediumTurquoise,Sedan,electric,manual,hybrid,2,135416.0,inactive,18345,21932,Jessica Lee,23,Female,North America,Djibouti,medium,Materials engineer,1168,2023-11-21,holiday_sales
+Nissan,2002,SlateBlue,Truck,petrol,automatic,gasoline,7,150790.36,inactive,14076,19691,Kristin Daniels,44,Female,Asia,El Salvador,medium,Energy manager,1531,2021-07-12,tourism_peak
+Toyota,2005,MediumVioletRed,Sedan,electric,automatic,diesel,8,233357.04,inactive,12403,16363,John Dillon,41,Male,South America,Colombia,medium,Broadcast presenter,2905,2025-10-25,normal
+Hyundai,2024,LightYellow,Sedan,hybrid,automatic,electric,8,36144.18,active,21042,23231,Kimberly Gibson,36,Female,South America,Cape Verde,medium,Electrical engineer,1785,2025-01-06,normal
+Toyota,2023,LawnGreen,Hatchback,petrol,manual,gasoline,8,124592.51,inactive,17544,19767,Arthur Coffey,45,Female,Africa,Niger,medium,Energy manager,1285,2024-04-16,normal
+Nissan,2006,DeepSkyBlue,Sedan,electric,manual,electric,2,88153.29,active,15474,20550,Erica Davidson,42,Male,South America,Pitcairn Islands,medium,Chief Operating Officer,1940,2025-06-04,tourism_peak
+Nissan,2014,Brown,Van,hybrid,manual,diesel,3,272359.57,inactive,13261,18686,Beverly Russo,50,Male,South America,Palestinian Territory,medium,Clinical biochemist,2001,2021-10-05,normal
+Nissan,2011,BlanchedAlmond,Sedan,petrol,automatic,gasoline,5,135577.77,active,19654,22517,Sara Barrett,67,Female,North America,Congo,medium,Artist,1901,2022-01-12,normal
+Hyundai,2007,Aquamarine,Sedan,hybrid,automatic,gasoline,2,139350.7,active,18937,23802,Christine Henry,53,Male,Europe,Cyprus,medium,Psychotherapist,2275,2021-10-18,normal
+Hyundai,2006,PapayaWhip,Hatchback,diesel,manual,diesel,6,136794.82,active,18200,22027,Rebecca Brown,51,Female,Africa,Guyana,medium,Seismic interpreter,1218,2025-12-09,holiday_sales
+Toyota,2001,LimeGreen,Hatchback,diesel,automatic,hybrid,3,204483.16,active,16389,18933,Daniel Stone,39,Male,Africa,Saint Martin,medium,Exercise physiologist,1070,2021-10-16,normal
+Hyundai,2024,GoldenRod,Sedan,hybrid,manual,diesel,5,16810.92,inactive,15592,20337,Danielle Garrett,63,Male,South America,Hungary,medium,"Surveyor, insurance",2386,2022-10-21,normal
+Honda,2022,MintCream,Sedan,hybrid,automatic,electric,7,145402.78,active,14237,19536,Michele Simmons,52,Male,South America,Israel,medium,Dietitian,1768,2022-02-02,normal
+Nissan,2011,Tan,Truck,diesel,automatic,hybrid,5,259030.8,inactive,20641,24496,Christopher Murillo,44,Female,Asia,Mexico,medium,Management consultant,2345,2024-08-10,tourism_peak
+Nissan,2011,Navy,Sedan,electric,automatic,electric,4,265024.92,active,15183,17793,Mark Mckenzie,24,Female,Europe,Mexico,medium,Transport planner,1544,2023-12-15,holiday_sales
+Toyota,2019,HotPink,Truck,hybrid,automatic,hybrid,5,217619.76,active,11783,16082,Joshua Garner,21,Female,Asia,Mongolia,medium,Production manager,1987,2025-11-01,holiday_sales
+Nissan,2017,BlanchedAlmond,Sedan,electric,manual,diesel,3,195868.3,inactive,13210,18448,Ms. Kelly Holder,31,Female,North America,Indonesia,medium,Accounting technician,2657,2021-03-12,normal
+Toyota,2004,Maroon,Sedan,petrol,automatic,diesel,7,175212.02,inactive,11325,17169,Rodney Norris,57,Female,Europe,Cyprus,medium,Surgeon,1349,2023-01-08,normal
+Honda,2014,DeepSkyBlue,Sedan,diesel,automatic,hybrid,6,116875.73,active,14032,19481,Joe Moore,56,Female,South America,Moldova,medium,Medical technical officer,1970,2026-01-18,normal
+Toyota,2010,LightCyan,Van,electric,manual,electric,5,84001.17,active,13293,18132,Anna Ross,42,Male,South America,Egypt,medium,Careers adviser,1154,2023-03-05,normal
+Honda,2000,ForestGreen,SUV,diesel,manual,electric,3,115662.58,inactive,11719,15860,Steven Warner PhD,51,Male,Europe,Somalia,medium,"Therapist, nutritional",1388,2025-04-19,normal
+Honda,2000,Olive,Sedan,hybrid,manual,gasoline,2,151788.72,inactive,18589,22113,Anthony Wise,40,Female,Europe,Argentina,medium,Politician's assistant,2969,2026-02-04,normal
+Hyundai,2011,Khaki,Sedan,electric,manual,hybrid,8,259736.49,inactive,14901,19584,Sarah Mcfarland,46,Female,North America,Venezuela,medium,Audiological scientist,2134,2022-03-21,normal
+Honda,2013,MediumAquaMarine,Sedan,diesel,automatic,gasoline,5,135540.17,active,16519,21048,Brittany Shaw,35,Male,Europe,Malta,medium,"Designer, ceramics/pottery",2331,2021-07-17,tourism_peak
+Toyota,2005,RosyBrown,Hatchback,electric,manual,electric,5,25935.73,inactive,15289,17957,Laura Davis,32,Female,Africa,Peru,medium,Horticultural consultant,1357,2024-07-14,tourism_peak
+Toyota,2021,MediumSlateBlue,Van,petrol,manual,electric,2,183808.16,inactive,13989,19372,Kenneth Williams,48,Female,North America,Cameroon,medium,Garment/textile technologist,1768,2022-04-26,normal
+Hyundai,2023,PowderBlue,Hatchback,petrol,manual,hybrid,3,138710.32,inactive,13904,16734,Bianca Taylor,62,Male,Africa,Iran,medium,Ranger/warden,1089,2025-06-18,tourism_peak
+Hyundai,2024,Gray,Sedan,hybrid,automatic,gasoline,7,49765.75,active,14250,18217,Yolanda Warren,51,Male,North America,Pakistan,medium,Building surveyor,2784,2026-01-20,normal
+Toyota,2020,MediumBlue,SUV,electric,automatic,diesel,2,204540.27,active,19154,21882,Laura Rodriguez,25,Female,Europe,Singapore,medium,Pharmacologist,2739,2024-11-07,holiday_sales
+Nissan,2018,MediumBlue,Sedan,diesel,manual,gasoline,5,31409.52,inactive,13361,16806,Matthew Carrillo,26,Male,Europe,Guernsey,medium,Maintenance engineer,1537,2022-10-24,normal
+Hyundai,2022,DarkViolet,Van,diesel,automatic,gasoline,8,106371.37,inactive,20785,24663,Thomas Hall,43,Female,South America,Swaziland,medium,"Designer, furniture",1947,2024-12-14,holiday_sales
+Hyundai,2021,LemonChiffon,Hatchback,diesel,automatic,gasoline,4,46611.83,active,16060,18814,Tammy Melton,57,Female,Africa,Bouvet Island (Bouvetoya),medium,"Administrator, education",2044,2021-08-28,tourism_peak
+Toyota,2001,Linen,SUV,electric,automatic,electric,3,229342.69,inactive,13481,18034,Alexander Clark,40,Male,Europe,Puerto Rico,medium,"Engineer, electronics",2386,2022-02-20,normal
+Hyundai,2015,SkyBlue,Sedan,electric,manual,gasoline,4,57848.72,active,12188,17527,Wendy Neal,66,Male,South America,Mali,medium,Mudlogger,2442,2023-05-24,normal
+Nissan,2015,Brown,Van,electric,manual,electric,7,133345.73,active,12510,15193,Antonio Gonzalez,25,Female,South America,United Kingdom,medium,Astronomer,2912,2025-09-03,normal
+Toyota,2012,CornflowerBlue,Van,hybrid,manual,electric,4,279612.0,active,20304,23846,Devon Christian,24,Female,North America,Palau,medium,Clinical cytogeneticist,2527,2021-04-06,normal
+Hyundai,2025,Lavender,SUV,electric,manual,hybrid,2,99489.98,inactive,12848,15003,Katie Mckinney,56,Female,Africa,French Guiana,medium,Radio producer,1025,2024-06-24,tourism_peak
+Hyundai,2024,GhostWhite,Van,petrol,automatic,diesel,7,234598.16,active,19603,23648,Walter Castro,20,Male,South America,Martinique,medium,Archaeologist,2843,2021-12-10,holiday_sales
+Hyundai,2025,Linen,Truck,hybrid,automatic,diesel,7,51260.82,active,12960,18762,James Moore,42,Female,Asia,Uzbekistan,medium,Management consultant,2767,2025-09-11,normal
+Hyundai,2010,LavenderBlush,SUV,hybrid,manual,hybrid,4,109336.85,inactive,14220,16852,Veronica Hill MD,23,Female,Europe,Niue,medium,Naval architect,2170,2023-10-07,normal
+Toyota,2015,LightSeaGreen,Hatchback,hybrid,automatic,gasoline,7,37047.87,inactive,15544,19331,Glenn Long,68,Male,Africa,Western Sahara,medium,Chartered loss adjuster,1692,2025-11-30,holiday_sales
+Honda,2007,PapayaWhip,Van,hybrid,automatic,gasoline,4,187104.65,inactive,14080,18380,Christian Waller,40,Female,North America,Mali,medium,"Production assistant, radio",2507,2023-02-16,normal
+Hyundai,2018,DarkSlateGray,Sedan,petrol,automatic,electric,4,13590.03,inactive,12037,17843,Melinda Harris,50,Male,South America,Bulgaria,medium,Insurance broker,1842,2022-12-14,holiday_sales
+Nissan,2009,Plum,Van,diesel,automatic,electric,7,192137.75,inactive,13759,17886,Vanessa Thomas DVM,46,Male,South America,United States of America,medium,"Investment banker, corporate",2232,2022-05-06,normal
+Nissan,2017,DarkOrchid,Hatchback,diesel,automatic,hybrid,6,208500.71,active,14630,19907,Ryan Thomas,60,Male,Africa,Moldova,medium,"Investment banker, operational",1395,2025-09-22,normal
+Toyota,2021,Red,Sedan,hybrid,manual,diesel,3,23243.04,inactive,20364,23979,Samantha Walsh,41,Female,North America,Isle of Man,medium,"Designer, blown glass/stained glass",2447,2023-10-10,normal
+Honda,2017,GhostWhite,Truck,electric,manual,hybrid,4,118748.4,inactive,18633,21105,William Jensen,62,Male,Asia,Botswana,medium,"Therapist, occupational",1968,2022-04-24,normal
+Toyota,2010,MintCream,SUV,electric,manual,gasoline,4,46380.51,active,12858,16336,Richard Anderson,29,Female,Asia,Djibouti,medium,Midwife,1911,2021-06-01,tourism_peak
+Hyundai,2005,SlateGray,Truck,diesel,manual,diesel,7,35838.17,inactive,17884,23106,Christopher Perez,49,Female,Asia,Timor-Leste,medium,"Administrator, local government",2569,2024-06-27,tourism_peak
+Hyundai,2014,Indigo,Sedan,electric,manual,diesel,4,32138.45,inactive,17276,20841,Virginia Todd,24,Male,Europe,Zambia,medium,"Editor, film/video",1159,2024-09-15,normal
+Toyota,2018,MediumOrchid,Sedan,petrol,manual,gasoline,6,257428.72,active,18288,22807,Stacy Patterson,56,Male,North America,Tonga,medium,Translator,2836,2025-05-12,normal
+Hyundai,2004,OrangeRed,Van,petrol,automatic,diesel,7,199181.34,inactive,12887,17992,Natalie Wheeler,36,Male,North America,Saint Helena,medium,"Scientist, research (life sciences)",2411,2023-11-09,holiday_sales
+Toyota,2008,BlueViolet,SUV,electric,automatic,diesel,3,223852.53,inactive,18659,20668,Danielle Medina,65,Male,Africa,Korea,medium,"Surveyor, insurance",2971,2025-01-29,normal
+Hyundai,2009,Gold,Van,petrol,automatic,electric,8,105887.88,inactive,22398,24977,James Torres,32,Female,North America,Maldives,medium,"Psychologist, clinical",1014,2021-08-12,tourism_peak
+Toyota,2025,CadetBlue,Truck,petrol,manual,electric,3,271069.94,inactive,14829,17185,Stephanie Ford,26,Female,Asia,Jamaica,medium,Chemical engineer,2361,2023-09-12,normal
+Hyundai,2001,YellowGreen,Sedan,hybrid,manual,electric,5,268009.65,inactive,10421,15520,Jason Hayes,52,Male,South America,Bouvet Island (Bouvetoya),medium,Professor Emeritus,1717,2022-09-21,normal
+Toyota,2025,SaddleBrown,Van,electric,manual,gasoline,3,18658.27,active,21494,24858,Fred Wong,62,Male,South America,Ukraine,medium,Community pharmacist,2300,2022-11-29,holiday_sales
+Toyota,2005,MistyRose,SUV,petrol,automatic,hybrid,7,206641.35,active,15442,18517,Michael Acosta,37,Male,Africa,Brazil,medium,Multimedia specialist,2031,2025-01-06,normal
+Hyundai,2022,FloralWhite,Sedan,diesel,automatic,gasoline,5,84773.75,inactive,18267,23908,Krystal Keller,66,Male,South America,Hong Kong,medium,"Designer, textile",1614,2021-07-26,tourism_peak
+Nissan,2013,PeachPuff,SUV,electric,manual,hybrid,6,158930.32,inactive,15302,17891,Nicholas Woodward,68,Female,Asia,Christmas Island,medium,"Education officer, community",2374,2021-08-18,tourism_peak
+Hyundai,2024,Green,SUV,hybrid,automatic,hybrid,7,106914.52,active,14322,18045,Preston Smith,49,Female,Africa,United Arab Emirates,medium,Research scientist (physical sciences),2039,2022-04-24,normal
+Nissan,2003,Snow,Sedan,electric,manual,hybrid,2,261483.85,inactive,17880,21567,Kevin Alvarez,69,Female,South America,Sri Lanka,medium,Private music teacher,1645,2021-03-29,normal
+Honda,2020,LemonChiffon,SUV,diesel,manual,hybrid,8,54742.26,active,13593,17850,Diana Fuller,27,Male,Africa,Netherlands Antilles,medium,Artist,2091,2021-04-01,normal
+Toyota,2006,MediumVioletRed,SUV,electric,manual,electric,7,136309.2,inactive,18400,23406,Scott Estrada,51,Female,Asia,Cameroon,medium,Learning disability nurse,2974,2021-08-30,tourism_peak
+Toyota,2000,PapayaWhip,Hatchback,diesel,automatic,electric,5,161854.56,inactive,22443,24954,Candace Mitchell DDS,36,Male,Africa,Australia,medium,"Programmer, applications",1649,2022-02-13,normal
+Toyota,2024,DarkGoldenRod,Van,hybrid,manual,hybrid,3,85740.76,active,20697,23264,Erica Merritt,64,Male,South America,Guyana,medium,Physiotherapist,2585,2021-07-01,tourism_peak
+Nissan,2015,SeaShell,Van,diesel,manual,electric,3,194517.99,active,13686,16375,Michael Hill,54,Female,South America,Bahrain,medium,"Scientist, water quality",2072,2023-09-07,normal
+Toyota,2010,Chartreuse,SUV,hybrid,manual,electric,5,252753.01,active,20097,23867,Nicholas Fuller,45,Male,Asia,Qatar,medium,Radio broadcast assistant,2273,2022-12-21,holiday_sales
+Honda,2002,Pink,Sedan,electric,manual,hybrid,8,197520.14,inactive,14538,18083,Emily Fox,65,Female,South America,Vietnam,medium,"Conservation officer, nature",1081,2023-08-21,tourism_peak
+Hyundai,2005,Turquoise,Van,diesel,manual,diesel,2,156055.7,active,16733,20219,Kathleen Morton,24,Male,South America,Mongolia,medium,Horticultural therapist,1819,2025-06-01,tourism_peak
+Honda,2022,Bisque,SUV,petrol,automatic,hybrid,2,295501.49,inactive,13967,19340,Robert Mclaughlin,64,Male,Asia,Afghanistan,medium,Warden/ranger,1965,2022-03-14,normal
+Hyundai,2016,MediumSeaGreen,Van,diesel,manual,hybrid,7,209921.47,inactive,11728,15219,Robert Lewis,43,Male,North America,Isle of Man,medium,Herbalist,2377,2021-07-31,tourism_peak
+Honda,2017,Linen,SUV,diesel,manual,hybrid,3,213115.14,inactive,18044,22873,Joshua Wang,68,Male,Europe,Somalia,medium,"Lecturer, further education",1685,2021-10-08,normal
+Toyota,2023,Black,SUV,electric,manual,gasoline,7,29006.61,active,16769,20868,Cheyenne Bass,51,Female,Europe,Indonesia,medium,Public relations account executive,2205,2026-01-12,normal
+Toyota,2018,SkyBlue,Hatchback,hybrid,automatic,diesel,4,61903.6,inactive,18456,22527,Joe Grimes,62,Female,Africa,Oman,medium,"Psychologist, counselling",2903,2022-05-07,normal
+Honda,2004,Turquoise,Sedan,diesel,manual,electric,8,120919.54,inactive,13320,16279,Nathaniel Stewart,51,Male,North America,Vanuatu,medium,"Engineer, manufacturing",2177,2021-09-02,normal
+Hyundai,2002,MidnightBlue,Van,hybrid,automatic,electric,6,189030.03,inactive,21210,23674,Chase Pittman,31,Female,South America,Poland,medium,Mining engineer,1524,2024-01-06,normal
+Toyota,2020,Orange,Sedan,petrol,manual,electric,7,225894.55,active,15902,21462,Bruce Patton,20,Female,South America,Tajikistan,medium,International aid/development worker,2082,2022-08-09,tourism_peak
+Hyundai,2011,DarkCyan,SUV,diesel,automatic,hybrid,2,51032.83,active,20567,24642,David Hayes DVM,34,Male,Africa,Faroe Islands,medium,"Scientist, water quality",1524,2024-09-17,normal
+Toyota,2000,Navy,SUV,electric,automatic,gasoline,4,172370.38,inactive,16903,22869,Paula Gentry,47,Female,Europe,China,medium,Risk manager,1218,2022-02-23,normal
+Nissan,2007,SteelBlue,SUV,petrol,manual,diesel,6,295934.95,active,20365,24795,Gerald Webb,66,Female,Africa,South Georgia and the South Sandwich Islands,medium,Land,2458,2025-04-19,normal
+Honda,2002,Tomato,SUV,electric,manual,electric,6,119219.27,active,17253,22572,Brandi Hardy,41,Female,Asia,Seychelles,medium,Naval architect,2393,2022-01-11,normal
+Toyota,2017,Magenta,Sedan,diesel,automatic,electric,7,54074.16,active,16641,19997,Melissa Wheeler,53,Male,South America,Brazil,medium,"Lecturer, further education",1084,2021-03-24,normal
+Nissan,2008,DarkKhaki,Sedan,electric,manual,electric,4,192516.32,inactive,13590,15724,Mary Edwards,22,Female,North America,Tuvalu,medium,"Engineer, manufacturing systems",2061,2021-08-02,tourism_peak
+Honda,2012,LightSlateGray,Sedan,diesel,automatic,hybrid,8,117521.31,active,20880,24222,Francis Alexander,45,Male,Europe,Cook Islands,medium,Government social research officer,2816,2022-10-31,normal
+Toyota,2011,DarkOrange,Truck,hybrid,automatic,hybrid,5,133137.78,active,17789,22103,Marcus Palmer,64,Male,Asia,Cayman Islands,medium,Special effects artist,2692,2023-07-10,tourism_peak
+Honda,2008,LightPink,Sedan,diesel,automatic,hybrid,3,135603.67,inactive,15471,18675,Michael Campbell,44,Male,Europe,Mexico,medium,Dramatherapist,2681,2023-11-26,holiday_sales
+Honda,2014,Yellow,SUV,petrol,manual,gasoline,7,193313.34,active,13082,19008,Carlos Ruiz,23,Male,Africa,Georgia,medium,Claims inspector/assessor,2902,2024-01-28,normal
+Hyundai,2006,Pink,Sedan,hybrid,automatic,electric,5,86477.25,active,17352,19847,Michael Vance,55,Female,North America,Austria,medium,Warehouse manager,2408,2021-12-04,holiday_sales
+Nissan,2024,Gray,SUV,electric,automatic,hybrid,5,270766.81,inactive,17293,22265,Megan Ferguson,62,Female,Europe,Georgia,medium,Tax inspector,1516,2024-01-08,normal
+Nissan,2019,DarkGray,Truck,hybrid,automatic,diesel,2,175428.9,inactive,17407,21931,Michael Mckinney,70,Female,Asia,Bermuda,medium,"Psychotherapist, dance movement",1122,2025-03-05,normal
+Hyundai,2009,DarkTurquoise,Truck,electric,manual,hybrid,5,116626.35,inactive,16226,20094,Lisa Durham,57,Female,Asia,Yemen,medium,"Education officer, museum",1593,2023-02-05,normal
+Toyota,2015,SaddleBrown,Sedan,diesel,automatic,electric,6,86718.88,active,17310,22312,Mr. Brian Mendoza,58,Male,Europe,Solomon Islands,medium,Heritage manager,2014,2023-12-15,holiday_sales
+Hyundai,2021,DarkSalmon,Sedan,hybrid,automatic,hybrid,4,99625.11,active,15625,17920,Jennifer Klein,52,Male,Europe,Netherlands,medium,"Journalist, magazine",1142,2026-01-30,normal
+Honda,2025,LimeGreen,Van,electric,manual,gasoline,8,274681.07,inactive,16176,20476,Jennifer Gutierrez,22,Male,South America,Pakistan,medium,Sports therapist,2531,2021-10-18,normal
+Toyota,2015,Coral,SUV,petrol,automatic,hybrid,7,152560.58,active,12685,16260,Robert Garza,47,Female,Asia,Liberia,medium,Tax adviser,1601,2024-06-16,tourism_peak
+Honda,2007,ForestGreen,SUV,hybrid,manual,hybrid,8,217258.36,inactive,13391,18679,Angela Galvan,51,Female,Europe,Mayotte,medium,Colour technologist,2669,2023-03-15,normal
+Nissan,2020,MediumOrchid,Sedan,hybrid,automatic,hybrid,6,53584.59,active,17662,22651,Samantha Thompson,45,Female,South America,Nepal,medium,Building control surveyor,1087,2025-02-17,normal
+Nissan,2019,MediumOrchid,Van,petrol,automatic,electric,4,265364.67,inactive,14130,18384,Matthew Davis PhD,27,Male,South America,Botswana,medium,Data processing manager,1802,2024-06-01,tourism_peak
+Toyota,2004,LightSteelBlue,Truck,hybrid,manual,gasoline,6,227009.41,active,18424,22669,Kenneth Gonzalez,69,Female,Asia,Korea,medium,Hydrographic surveyor,2789,2025-09-17,normal
+Nissan,2025,PowderBlue,Sedan,hybrid,manual,diesel,7,232477.62,active,15366,20842,Suzanne Mooney,40,Male,South America,South Africa,medium,Veterinary surgeon,2532,2023-10-14,normal
+Honda,2021,LightYellow,Sedan,diesel,manual,hybrid,3,171918.89,active,14946,19761,Steven Faulkner,42,Male,South America,Iraq,medium,"Surveyor, minerals",1398,2022-04-12,normal
+Nissan,2011,Black,Sedan,petrol,manual,diesel,3,72424.61,active,15326,21146,Michael Long,64,Female,Europe,Bouvet Island (Bouvetoya),medium,Museum/gallery exhibitions officer,2888,2023-08-05,tourism_peak
+Honda,2008,YellowGreen,Sedan,petrol,manual,diesel,2,73456.79,active,10475,16098,Christopher Taylor,70,Female,North America,Hong Kong,medium,Media buyer,2898,2024-11-23,holiday_sales
+Nissan,2005,DarkSalmon,Sedan,electric,automatic,diesel,6,282707.63,active,20519,23977,Benjamin Smith,23,Female,North America,Cape Verde,medium,Press sub,2531,2023-08-25,tourism_peak
+Hyundai,2021,PapayaWhip,Truck,hybrid,automatic,gasoline,7,73381.36,inactive,20126,22215,Stephanie Dominguez,57,Female,Asia,Belize,medium,Youth worker,1879,2022-05-12,normal
+Honda,2009,Peru,Truck,diesel,automatic,diesel,7,151589.6,inactive,14901,20565,Joanna Kelly,47,Male,Asia,Korea,medium,Photographer,2267,2025-07-11,tourism_peak
+Toyota,2015,SpringGreen,Van,electric,manual,gasoline,8,277444.71,inactive,9605,15458,Cynthia Shaw,50,Female,South America,Albania,medium,Sports coach,1372,2026-02-09,normal
+Nissan,2003,Blue,Sedan,electric,automatic,hybrid,5,65716.94,inactive,14789,20223,Michele Wilson,25,Female,South America,Haiti,medium,Cartographer,1438,2021-06-23,tourism_peak
+Hyundai,2003,LightSeaGreen,Truck,petrol,manual,gasoline,3,190078.68,inactive,21831,24436,Blake Wu,47,Male,Asia,Saint Lucia,medium,Financial trader,2704,2025-09-02,normal
+Honda,2011,Yellow,Sedan,electric,manual,gasoline,8,278518.71,active,19043,23250,Emily Brown,26,Female,North America,Norfolk Island,medium,Social researcher,2199,2021-11-09,holiday_sales
+Hyundai,2003,Thistle,Hatchback,diesel,manual,electric,3,144570.52,active,16321,21978,Laura Rivera,57,Female,Africa,Latvia,medium,Hospital pharmacist,2566,2025-01-20,normal
+Hyundai,2016,LimeGreen,Sedan,hybrid,manual,gasoline,6,44932.79,active,21285,24715,Kristy Brown,31,Female,Europe,Chad,medium,Technical sales engineer,1462,2021-06-29,tourism_peak
+Honda,2022,LightSteelBlue,Truck,diesel,automatic,gasoline,7,30195.94,inactive,14362,19265,Lori Mitchell,45,Male,Asia,Montserrat,medium,Computer games developer,1221,2021-08-19,tourism_peak
+Hyundai,2023,LightCoral,Sedan,hybrid,automatic,hybrid,7,269896.49,active,19439,24890,Douglas Hodge,38,Male,South America,Belarus,medium,Clinical research associate,2261,2023-07-23,tourism_peak
+Honda,2000,RosyBrown,Van,electric,automatic,diesel,5,71438.34,inactive,17736,23195,Christopher Patton,57,Male,South America,China,medium,Radio producer,1778,2022-06-24,tourism_peak
+Honda,2025,BlanchedAlmond,Truck,diesel,automatic,electric,4,93289.71,active,13596,16174,Bradley Thomas,59,Male,Asia,South Georgia and the South Sandwich Islands,medium,Research scientist (life sciences),1177,2025-09-05,normal
+Nissan,2015,LavenderBlush,Sedan,hybrid,manual,gasoline,3,156965.19,active,13378,17230,Molly Jackson,57,Female,North America,Sierra Leone,medium,Audiological scientist,1800,2024-06-14,tourism_peak
+Nissan,2007,CadetBlue,SUV,diesel,manual,gasoline,6,112980.45,inactive,19343,23428,James Turner,58,Male,Europe,Saudi Arabia,medium,Museum education officer,1553,2022-03-07,normal
+Hyundai,2023,DarkViolet,Sedan,petrol,automatic,diesel,7,213384.77,active,14308,16604,Jessica Roberts,65,Female,North America,Lebanon,medium,Museum/gallery exhibitions officer,1010,2023-06-05,tourism_peak
+Toyota,2022,DarkGray,Sedan,diesel,automatic,diesel,3,53681.71,active,17277,22436,Marcia Blanchard,59,Female,Europe,Marshall Islands,medium,Tree surgeon,2136,2021-07-17,tourism_peak
+Nissan,2000,LightGreen,Sedan,petrol,manual,gasoline,2,134381.17,active,15863,21305,Dawn Silva,35,Female,Europe,Grenada,medium,Financial controller,2382,2023-06-29,tourism_peak
+Hyundai,2016,Turquoise,Sedan,diesel,automatic,hybrid,2,171313.51,inactive,11993,15771,Michael White,46,Male,South America,Sierra Leone,medium,Actuary,1624,2022-11-07,holiday_sales
+Hyundai,2022,DarkGreen,SUV,petrol,automatic,hybrid,2,202291.2,inactive,13836,15866,Melissa Bell,43,Female,Africa,American Samoa,medium,Food technologist,1671,2024-09-09,normal
+Honda,2010,DarkGoldenRod,Truck,petrol,automatic,electric,4,58275.59,inactive,18871,24126,Kristopher Shannon,20,Male,Asia,Antigua and Barbuda,medium,Tour manager,2808,2021-05-24,normal
+Toyota,2001,DarkCyan,SUV,hybrid,automatic,diesel,8,111823.85,inactive,12618,17456,Beverly Douglas,39,Male,Africa,Russian Federation,medium,Clinical psychologist,2082,2022-03-19,normal
+Hyundai,2004,SeaGreen,Truck,electric,manual,electric,8,234811.84,inactive,14411,19086,Angela Chavez,58,Female,Asia,El Salvador,medium,Physiotherapist,1731,2023-09-13,normal
+Honda,2000,Cornsilk,Sedan,electric,automatic,electric,4,245447.94,active,13380,18853,Antonio Price,51,Male,Europe,Equatorial Guinea,medium,Further education lecturer,2130,2022-07-28,tourism_peak
+Hyundai,2000,CornflowerBlue,SUV,electric,manual,electric,3,133532.67,active,18244,21008,Timothy Bishop Jr.,32,Female,Europe,Christmas Island,medium,Clinical embryologist,1788,2024-12-09,holiday_sales
+Toyota,2013,IndianRed,SUV,diesel,manual,diesel,5,46573.72,active,18418,21707,Ashley Alexander,50,Female,Asia,Mauritius,medium,"Civil engineer, contracting",2784,2024-11-10,holiday_sales
+Hyundai,2016,LightCoral,SUV,petrol,manual,hybrid,7,227028.82,inactive,20006,22192,Alicia Jimenez,45,Male,Africa,Barbados,medium,Applications developer,2203,2021-10-16,normal
+Honda,2009,MediumPurple,Sedan,electric,automatic,hybrid,7,111511.32,active,14007,19635,Laura Robertson,57,Female,North America,Ethiopia,medium,Purchasing manager,2381,2022-06-26,tourism_peak
+Hyundai,2002,Yellow,Van,electric,automatic,hybrid,6,131504.39,inactive,16538,18550,James Norris,57,Female,North America,Iraq,medium,Community development worker,2652,2021-10-15,normal
+Toyota,2012,MediumSeaGreen,Sedan,petrol,automatic,hybrid,8,122177.86,inactive,16610,19519,Jennifer Chen,47,Male,South America,Mauritania,medium,Medical secretary,1649,2024-03-31,normal
+Honda,2010,Cyan,Van,electric,manual,gasoline,8,163546.78,active,16202,18866,Paige Roberts,37,Male,South America,Timor-Leste,medium,"Editor, commissioning",2231,2024-02-01,normal
+Nissan,2022,Gold,Van,petrol,automatic,hybrid,2,195076.88,active,17712,20000,James Rodriguez,60,Female,South America,Armenia,medium,"Radiographer, therapeutic",1135,2024-06-17,tourism_peak
+Hyundai,2025,Gold,Hatchback,electric,manual,diesel,2,106506.36,inactive,19171,22461,Corey Cortez,66,Male,Africa,Turks and Caicos Islands,medium,Records manager,1368,2024-12-01,holiday_sales
+Nissan,2002,Linen,Van,hybrid,manual,gasoline,5,78378.98,inactive,15456,18938,Dr. Robert Levy Jr.,39,Female,North America,Bahrain,medium,Banker,2685,2025-10-16,normal
+Nissan,2023,PaleGreen,SUV,electric,manual,diesel,2,249473.64,active,10140,15004,Robert Contreras,26,Female,Europe,Solomon Islands,medium,Software engineer,2549,2021-07-23,tourism_peak
+Nissan,2023,Lavender,Truck,hybrid,automatic,gasoline,4,178283.7,inactive,17844,21742,Amanda Thomas,47,Male,Asia,Saint Vincent and the Grenadines,medium,Public affairs consultant,1584,2026-02-13,normal
+Honda,2003,DarkSeaGreen,Van,hybrid,manual,hybrid,3,208500.0,active,15546,17680,Mark Conway,56,Male,South America,Aruba,medium,"Programmer, multimedia",2437,2023-04-04,normal
+Toyota,2007,DarkMagenta,Sedan,hybrid,automatic,electric,7,284113.06,inactive,17833,20276,Kurt Gilbert,65,Male,South America,Chile,medium,"Engineer, electrical",2760,2021-09-26,normal
+Toyota,2012,MediumOrchid,Van,petrol,manual,hybrid,5,107944.77,inactive,17212,21863,Michael Gardner,45,Female,North America,Guadeloupe,medium,"Engineer, production",2482,2024-08-11,tourism_peak
+Hyundai,2023,MediumSeaGreen,SUV,diesel,manual,electric,2,1851.6,active,10755,15056,Donald Todd,66,Male,Africa,Nauru,medium,Merchant navy officer,1123,2022-09-01,normal
+Toyota,2022,LemonChiffon,Sedan,petrol,automatic,hybrid,2,281689.01,inactive,10349,15664,Amanda Garcia,68,Female,South America,Chad,medium,"Designer, industrial/product",2714,2024-12-03,holiday_sales
+Toyota,2006,Cyan,SUV,electric,manual,gasoline,8,60061.68,inactive,9784,15370,Christopher Davis,21,Female,Africa,Turkmenistan,medium,Pension scheme manager,2502,2025-05-02,normal
+Hyundai,2012,GreenYellow,Sedan,hybrid,manual,diesel,2,268376.97,inactive,11989,16138,Devin Cole,23,Male,North America,Puerto Rico,medium,Ecologist,2832,2022-04-10,normal
+Hyundai,2012,Gainsboro,Van,hybrid,automatic,electric,2,237565.33,active,9654,15047,Lisa Miller,51,Female,South America,Puerto Rico,medium,Magazine features editor,2652,2021-07-06,tourism_peak
+Nissan,2013,LavenderBlush,Sedan,electric,manual,gasoline,6,57513.68,active,12620,16077,William Davila,60,Female,North America,Albania,medium,"Solicitor, Scotland",2842,2025-12-08,holiday_sales
+Honda,2021,HoneyDew,Van,hybrid,automatic,diesel,6,98479.27,active,19939,22485,Cory Hogan,59,Female,South America,Cyprus,medium,Research scientist (medical),1027,2025-02-21,normal
+Toyota,2023,CadetBlue,SUV,petrol,automatic,electric,6,32235.44,active,14208,18183,Dominique Hamilton,23,Female,Asia,Cayman Islands,medium,Warehouse manager,1459,2021-07-23,tourism_peak
+Hyundai,2003,CadetBlue,Van,petrol,automatic,hybrid,5,40160.53,active,13094,16405,Casey Floyd,27,Female,North America,Aruba,medium,"Scientist, biomedical",2570,2022-01-30,normal
+Nissan,2000,Red,SUV,electric,manual,diesel,5,177445.92,active,15572,19799,Erika Gonzalez,51,Female,Africa,Barbados,medium,Event organiser,2387,2023-03-13,normal
+Honda,2013,DarkGreen,Hatchback,electric,manual,electric,6,244111.68,active,18366,21072,Jason Gonzalez,30,Male,Africa,Greece,medium,"Buyer, retail",1526,2023-02-17,normal
+Toyota,2013,CadetBlue,Sedan,hybrid,automatic,gasoline,6,217171.93,active,21514,23754,Brianna Reilly,28,Female,North America,Myanmar,medium,"Editor, magazine features",2078,2025-04-25,normal
+Honda,2003,Salmon,Van,petrol,automatic,gasoline,8,8091.44,active,13130,15222,Lynn Cantrell,20,Male,North America,Holy See (Vatican City State),medium,Legal executive,1653,2022-05-09,normal
+Honda,2018,Chocolate,SUV,diesel,manual,gasoline,3,290076.05,inactive,13689,15910,Brian Owens,53,Female,Asia,Antigua and Barbuda,medium,Dramatherapist,1435,2026-01-11,normal
+Toyota,2008,DimGray,SUV,hybrid,automatic,diesel,8,118485.46,active,18791,21758,Margaret Carr,64,Male,Europe,Cyprus,medium,Technical brewer,1502,2023-09-15,normal
+Toyota,2007,DarkCyan,Sedan,petrol,automatic,electric,3,199679.8,inactive,12895,15643,Joseph Atkins,59,Male,South America,Timor-Leste,medium,"Therapist, art",1595,2023-02-23,normal
+Honda,2023,LightSeaGreen,Van,electric,automatic,electric,4,282.66,inactive,17571,20014,Jeffrey Salas,53,Male,North America,Taiwan,medium,Land,2709,2025-02-16,normal
+Nissan,2002,DeepPink,Van,electric,manual,electric,3,298740.76,inactive,10809,16730,Stephanie Butler,52,Male,North America,Mozambique,medium,Architect,1724,2023-01-31,normal
+Honda,2025,BlanchedAlmond,Van,hybrid,automatic,electric,3,202136.58,active,14326,18627,James Pacheco,41,Male,North America,Saint Martin,medium,Production manager,1997,2025-06-25,tourism_peak
+Honda,2011,Aquamarine,Sedan,hybrid,manual,gasoline,2,19849.52,active,17844,23643,Jennifer Robinson,49,Female,North America,Dominican Republic,medium,Hotel manager,2809,2021-11-25,holiday_sales
+Hyundai,2009,Azure,Truck,diesel,manual,electric,2,88533.77,inactive,16826,20766,Eric Warner,34,Male,Asia,Oman,medium,"Programme researcher, broadcasting/film/video",1404,2021-12-18,holiday_sales
+Nissan,2002,PaleGreen,Sedan,electric,automatic,diesel,7,271531.41,inactive,12688,17591,Seth Sims,45,Male,North America,Sierra Leone,medium,Building services engineer,1348,2022-05-16,normal
+Hyundai,2010,Wheat,Van,electric,automatic,diesel,3,3638.3,active,15031,17100,Jeffery Nelson,64,Male,North America,Uganda,medium,Catering manager,2465,2024-01-10,normal
+Honda,2022,Chartreuse,Sedan,electric,automatic,electric,6,141205.92,inactive,11051,16576,Susan Cox,52,Male,South America,Turkmenistan,medium,Clinical psychologist,2981,2024-01-18,normal
+Toyota,2007,BlueViolet,Sedan,petrol,automatic,gasoline,6,215299.78,active,18650,24100,Christopher Hansen,33,Male,North America,Haiti,medium,"Surveyor, mining",1951,2025-02-24,normal
+Honda,2017,LawnGreen,SUV,electric,manual,gasoline,4,212026.81,active,18238,20768,Mariah Mclaughlin,42,Male,Asia,Burundi,medium,Equality and diversity officer,1138,2024-01-16,normal
+Toyota,2004,SteelBlue,Sedan,electric,manual,diesel,5,64170.71,inactive,13257,18098,Destiny Brown,36,Female,Europe,Guinea,medium,Production manager,1899,2023-06-20,tourism_peak
+Hyundai,2009,DarkRed,Sedan,petrol,automatic,gasoline,4,176607.81,inactive,18012,23859,Joseph Bryan,40,Female,North America,Macao,medium,Production engineer,2894,2025-09-03,normal
+Toyota,2021,Gold,Van,electric,manual,diesel,7,128159.35,inactive,18266,23034,Judith Miller,52,Male,South America,Heard Island and McDonald Islands,medium,Homeopath,2792,2021-10-01,normal
+Honda,2001,LightSalmon,SUV,electric,automatic,gasoline,3,155537.03,active,21020,23071,Charles Hernandez,63,Male,Africa,Botswana,medium,"Scientist, research (life sciences)",1855,2022-08-05,tourism_peak
+Toyota,2020,Yellow,Hatchback,hybrid,manual,electric,5,200195.02,inactive,18199,23508,Kara Fisher,46,Male,Africa,French Polynesia,medium,"Horticulturist, amenity",2027,2024-09-26,normal
+Honda,2021,Lavender,Truck,petrol,manual,gasoline,2,58251.31,active,15681,21190,Kelly Rogers,42,Female,Asia,Bahrain,medium,"Journalist, newspaper",1744,2021-05-19,normal
+Hyundai,2002,Red,Sedan,electric,manual,hybrid,2,277565.82,inactive,9917,15874,Keith Villanueva,26,Female,North America,Nauru,medium,Dramatherapist,1633,2025-09-14,normal
+Toyota,2022,Navy,SUV,electric,manual,hybrid,8,155247.07,active,17150,21365,Patricia Williams,52,Female,Europe,Denmark,medium,Higher education careers adviser,2772,2025-04-24,normal
+Toyota,2019,DodgerBlue,Sedan,electric,automatic,hybrid,5,248435.56,active,13408,18414,Dominique Mcpherson,22,Male,North America,Zimbabwe,medium,"Designer, television/film set",1598,2022-08-10,tourism_peak
+Nissan,2008,MediumAquaMarine,Truck,hybrid,automatic,diesel,7,276960.75,active,18544,21730,Jessica Wood,50,Male,Asia,Brazil,medium,"Surveyor, planning and development",1919,2021-07-17,tourism_peak
+Nissan,2011,MediumTurquoise,Hatchback,petrol,automatic,electric,3,261141.84,active,18513,20616,Jerry Cantrell,66,Female,Africa,Papua New Guinea,medium,Community development worker,2239,2023-11-21,holiday_sales
+Hyundai,2015,DarkViolet,Hatchback,electric,manual,electric,2,10541.2,inactive,17157,22377,Tanya Moore,24,Female,Africa,Iraq,medium,Hotel manager,1798,2025-06-10,tourism_peak
+Nissan,2020,DarkViolet,Van,electric,manual,diesel,5,42721.23,active,13157,18621,Monica Nielsen,24,Female,North America,Ukraine,medium,"Clinical scientist, histocompatibility and immunogenetics",2091,2023-08-29,tourism_peak
+Toyota,2007,DarkSlateGray,Van,petrol,manual,electric,4,52450.67,inactive,17120,22214,Audrey Johnson,51,Male,North America,United Arab Emirates,medium,Product designer,2102,2021-07-14,tourism_peak
+Hyundai,2009,Chartreuse,SUV,petrol,manual,hybrid,6,228878.08,active,16514,18613,Christie Fox,36,Female,Europe,Bermuda,medium,"Engineer, building services",1620,2023-12-20,holiday_sales
+Hyundai,2006,RosyBrown,Hatchback,hybrid,automatic,hybrid,7,238808.78,inactive,10288,16174,Tina Daugherty,65,Female,Africa,Belize,medium,"Engineer, broadcasting (operations)",2606,2025-10-09,normal
+Nissan,2004,Chartreuse,Van,diesel,manual,gasoline,7,256620.26,inactive,13909,16847,Heather Hernandez,63,Female,North America,Ghana,medium,Merchant navy officer,1996,2025-07-18,tourism_peak
+Toyota,2023,LightSkyBlue,Van,diesel,manual,gasoline,2,197715.8,active,10584,16327,Eric Griffin,50,Male,North America,Holy See (Vatican City State),medium,"Engineer, structural",2772,2021-04-18,normal
+Hyundai,2005,Red,Sedan,petrol,manual,gasoline,3,297709.04,active,16944,20359,Robert Waller,39,Female,North America,Saint Vincent and the Grenadines,medium,Patent examiner,1510,2024-09-23,normal
+Honda,2018,DarkCyan,Truck,hybrid,manual,hybrid,3,131879.58,active,18489,21901,Eric Mcneil,62,Female,Asia,Syrian Arab Republic,medium,Brewing technologist,2240,2026-03-10,normal
+Honda,2025,DarkCyan,Van,electric,automatic,hybrid,6,194225.22,active,10244,15425,Mark Nelson,62,Male,South America,Saudi Arabia,medium,"Surveyor, commercial/residential",2529,2024-05-22,normal
+Nissan,2007,DarkSlateGray,Van,petrol,manual,hybrid,6,5899.57,inactive,16794,19996,Ronnie Roberts,68,Female,North America,Russian Federation,medium,Archivist,1954,2026-01-09,normal
+Nissan,2003,LimeGreen,Sedan,petrol,manual,hybrid,3,274900.12,inactive,11961,15617,Patrick Walker DDS,23,Male,Europe,Syrian Arab Republic,medium,Garment/textile technologist,1913,2026-03-04,normal
+Toyota,2023,DarkRed,SUV,electric,manual,gasoline,3,162763.88,active,17021,20854,Stephanie Butler,62,Female,Europe,Zimbabwe,medium,Financial risk analyst,1968,2025-03-19,normal
+Hyundai,2010,Snow,SUV,hybrid,automatic,gasoline,8,137465.97,inactive,10575,16439,Andrea Reese DDS,61,Female,Africa,British Indian Ocean Territory (Chagos Archipelago),medium,Further education lecturer,1688,2023-07-21,tourism_peak
+Hyundai,2014,Navy,Sedan,diesel,automatic,diesel,2,1846.72,active,22043,24561,Laura Bruce,46,Male,North America,Puerto Rico,medium,Television camera operator,1275,2022-03-18,normal
+Hyundai,2011,SandyBrown,Hatchback,diesel,manual,gasoline,4,258621.88,inactive,16624,21971,Brandy Martin,35,Female,Africa,Cameroon,medium,Media planner,2989,2023-11-30,holiday_sales
+Nissan,2007,BurlyWood,Sedan,hybrid,automatic,electric,6,118927.6,active,11985,15680,Joseph Mayer,43,Male,North America,North Macedonia,medium,"Education officer, museum",1290,2024-03-22,normal
+Nissan,2018,YellowGreen,SUV,diesel,manual,electric,4,299735.89,active,19311,24783,Eugene Kirk,23,Female,Africa,Netherlands Antilles,medium,Geoscientist,1518,2022-08-13,tourism_peak
+Hyundai,2024,MidnightBlue,Sedan,diesel,automatic,electric,4,236984.36,active,14865,17047,Alexandria Holmes,46,Female,Europe,Bhutan,medium,Radio producer,1971,2025-09-27,normal
+Toyota,2022,DarkKhaki,Van,petrol,automatic,hybrid,4,181272.43,inactive,12939,15717,Jonathan Decker,52,Male,North America,Guam,medium,Pensions consultant,1858,2022-07-31,tourism_peak
+Toyota,2007,DarkOrange,Sedan,hybrid,automatic,gasoline,3,207808.96,inactive,10901,15916,Tammy Mendoza,35,Female,North America,United States Virgin Islands,medium,Medical laboratory scientific officer,2434,2021-11-04,holiday_sales
+Honda,2021,Turquoise,Truck,petrol,manual,gasoline,7,116821.77,active,14836,19388,Gloria Mckinney,65,Male,Asia,Svalbard & Jan Mayen Islands,medium,Commissioning editor,1578,2024-12-14,holiday_sales
+Honda,2002,Khaki,SUV,diesel,automatic,electric,2,200138.49,inactive,16318,20599,Daniel Zavala,27,Female,Asia,Brunei Darussalam,medium,Clinical research associate,1373,2022-05-28,normal
+Nissan,2025,Plum,SUV,petrol,manual,gasoline,2,293952.3,active,19684,24121,Brian Mcguire,41,Male,Africa,Andorra,medium,"Psychotherapist, child",1471,2025-04-24,normal
+Nissan,2020,Brown,SUV,electric,automatic,diesel,4,123721.56,active,19997,24370,Michael Webster,31,Male,Africa,United States of America,medium,Town planner,2659,2023-05-07,normal
+Honda,2017,GhostWhite,Truck,petrol,automatic,hybrid,2,239068.64,inactive,14935,18155,Alyssa Thomas,29,Female,Asia,Namibia,medium,TEFL teacher,1859,2022-11-23,holiday_sales
+Honda,2013,SteelBlue,SUV,hybrid,manual,hybrid,7,231114.45,active,13712,18015,Lisa Wagner,47,Male,Europe,Guinea,medium,Child psychotherapist,2256,2022-07-23,tourism_peak
+Toyota,2012,Wheat,Van,diesel,automatic,hybrid,4,114219.78,active,16523,21315,Corey Campbell,29,Male,South America,Serbia,medium,Child psychotherapist,2265,2021-04-24,normal
+Toyota,2013,Sienna,SUV,electric,manual,diesel,7,62077.95,active,17388,19994,Kevin Gonzales,55,Male,Asia,Uruguay,medium,"Education officer, community",2186,2025-06-25,tourism_peak
+Toyota,2019,HotPink,Sedan,electric,automatic,electric,5,248586.6,active,17637,19737,Jennifer Juarez,31,Female,Europe,Hong Kong,medium,Community pharmacist,2979,2024-10-19,normal
+Honda,2018,DarkSlateBlue,Van,petrol,automatic,electric,4,175874.16,active,17139,22955,Isaiah Roberts DDS,37,Male,North America,Bouvet Island (Bouvetoya),medium,Land,2748,2025-08-12,tourism_peak
+Honda,2017,LightSkyBlue,Sedan,petrol,manual,gasoline,7,261031.05,active,12943,17572,Noah Mcdaniel,63,Female,North America,Brazil,medium,Equities trader,2556,2024-06-19,tourism_peak
+Toyota,2020,Pink,Sedan,petrol,automatic,diesel,2,126966.1,inactive,16169,19748,Benjamin Randall,20,Female,South America,Ireland,medium,Mental health nurse,2302,2023-08-31,tourism_peak
+Toyota,2013,DarkKhaki,Truck,petrol,manual,electric,8,290168.96,active,16945,19227,Joseph Rhodes,52,Male,Asia,American Samoa,medium,Customer service manager,2395,2025-05-17,normal
+Nissan,2020,FloralWhite,Van,diesel,manual,hybrid,7,65144.39,inactive,13338,18959,William Morgan,46,Female,North America,Iran,medium,Community education officer,1520,2022-01-22,normal
+Hyundai,2018,SpringGreen,SUV,electric,automatic,gasoline,6,239481.9,active,12923,17725,Micheal Perkins,37,Female,Asia,Taiwan,medium,Office manager,1488,2024-10-21,normal
+Toyota,2005,SlateBlue,Sedan,hybrid,manual,hybrid,2,62824.28,inactive,21085,23680,Brittany Gibson,42,Male,Europe,Lebanon,medium,Fitness centre manager,1217,2024-08-19,tourism_peak
+Honda,2025,DarkSlateBlue,Sedan,electric,automatic,electric,8,285531.72,active,12121,15361,Oscar Greer,70,Female,North America,Luxembourg,medium,Aid worker,2888,2023-02-27,normal
+Toyota,2011,DeepSkyBlue,SUV,hybrid,manual,electric,7,212043.61,active,12659,15167,Marcus Wolf,43,Female,Asia,Hong Kong,medium,"Psychologist, prison and probation services",1629,2023-12-22,holiday_sales
+Toyota,2007,SlateGray,SUV,electric,manual,hybrid,2,170261.38,inactive,14704,18878,Kimberly Pacheco,62,Male,Asia,French Polynesia,medium,Ambulance person,1726,2025-06-05,tourism_peak
+Honda,2017,OliveDrab,Van,hybrid,manual,hybrid,6,147327.47,inactive,19406,24872,Samuel Ramos,54,Male,North America,Turkmenistan,medium,Amenity horticulturist,2587,2022-03-17,normal
+Honda,2015,FireBrick,SUV,diesel,manual,electric,3,259415.34,active,19000,23781,Chad Baldwin MD,31,Male,Asia,Moldova,medium,"Teacher, adult education",1293,2023-10-09,normal
+Toyota,2012,Yellow,Van,electric,manual,diesel,5,78146.1,active,15250,18558,Karen Dickerson,56,Male,North America,Palestinian Territory,medium,"Nurse, adult",2538,2025-11-26,holiday_sales
+Nissan,2003,MidnightBlue,SUV,petrol,automatic,diesel,2,28709.73,inactive,19001,24832,Diane Brown,47,Male,Europe,Lithuania,medium,"Conservation officer, historic buildings",1952,2024-05-28,normal
+Nissan,2019,Bisque,SUV,electric,manual,hybrid,5,224971.47,inactive,14201,19531,Lori James,20,Female,Europe,Guernsey,medium,Location manager,1697,2026-02-28,normal
+Honda,2012,Chartreuse,SUV,diesel,manual,gasoline,6,190920.11,inactive,15101,19018,Danielle Wong,34,Male,Europe,Isle of Man,medium,Brewing technologist,1773,2024-03-07,normal
+Hyundai,2014,FloralWhite,SUV,hybrid,automatic,gasoline,6,231897.5,inactive,16596,20108,Gabriel Murray,55,Female,Europe,Brazil,medium,Tax inspector,1058,2024-01-24,normal
+Hyundai,2023,LightGreen,Van,hybrid,automatic,diesel,3,280983.84,inactive,17431,21177,John Johnson,29,Female,South America,United Arab Emirates,medium,Multimedia programmer,2830,2024-10-10,normal
+Nissan,2002,DarkGreen,Sedan,hybrid,automatic,diesel,6,183375.19,inactive,16346,19395,Ariel Leonard,40,Female,South America,Iceland,medium,Research scientist (maths),2299,2023-12-08,holiday_sales
+Nissan,2022,FireBrick,Van,electric,manual,electric,5,20771.92,active,17010,20279,Heidi Graham,40,Female,South America,Sudan,medium,Call centre manager,2444,2024-01-30,normal
+Hyundai,2012,LightGray,Sedan,diesel,manual,electric,2,214150.77,inactive,12758,15745,Zachary Morales,28,Male,South America,Croatia,medium,Chief Executive Officer,2676,2023-08-21,tourism_peak
+Nissan,2010,LightPink,Sedan,hybrid,automatic,electric,6,104118.72,active,15836,19773,Robert Alvarez,30,Male,South America,Bhutan,medium,"Loss adjuster, chartered",2272,2024-01-22,normal
+Hyundai,2004,Tan,SUV,hybrid,automatic,electric,3,208834.69,inactive,18234,23119,Jessica Fernandez,20,Male,Africa,Pakistan,medium,Patent examiner,1407,2023-10-05,normal
+Hyundai,2002,SaddleBrown,Van,petrol,automatic,electric,7,232392.97,inactive,21094,24257,Kimberly Ibarra,43,Male,North America,El Salvador,medium,Technical author,2269,2025-07-30,tourism_peak
+Hyundai,2005,LightGreen,Sedan,hybrid,manual,electric,6,164973.09,active,14075,17703,Kim Mendez,48,Female,North America,Croatia,medium,Systems developer,1643,2025-03-02,normal
+Toyota,2009,Moccasin,Hatchback,hybrid,manual,electric,7,50382.74,active,13314,17082,David Francis,51,Female,Africa,Mali,medium,"Presenter, broadcasting",2506,2022-11-25,holiday_sales
+Hyundai,2015,GreenYellow,Sedan,petrol,automatic,gasoline,7,218497.07,inactive,22411,24629,Debra Mitchell,63,Male,North America,Ghana,medium,Furniture conservator/restorer,2860,2021-09-28,normal
+Honda,2000,LawnGreen,Van,diesel,automatic,gasoline,8,83031.6,active,14606,19090,Corey Sanchez,60,Female,South America,Dominica,medium,"Psychologist, forensic",2900,2024-08-23,tourism_peak
+Hyundai,2000,Peru,Sedan,diesel,manual,diesel,4,95832.95,active,15055,20820,Amanda Moore,56,Male,North America,Monaco,medium,Air cabin crew,2993,2024-11-26,holiday_sales
+Nissan,2014,Fuchsia,Sedan,petrol,automatic,hybrid,3,100451.67,active,11125,15196,Amanda Sharp,22,Male,Europe,Somalia,medium,Automotive engineer,1724,2023-07-23,tourism_peak
+Toyota,2016,Coral,Hatchback,diesel,manual,electric,7,77438.66,inactive,13394,18689,Jennifer Cox,49,Male,Africa,Germany,medium,Occupational psychologist,2481,2023-09-23,normal
+Hyundai,2012,SteelBlue,SUV,electric,manual,electric,5,114069.83,active,10937,15298,Kelly Calderon,46,Female,Asia,Dominica,medium,Research scientist (maths),2804,2022-02-22,normal
+Hyundai,2009,Maroon,SUV,hybrid,automatic,electric,5,273989.95,inactive,10755,16563,Kevin Price,51,Male,Africa,Dominica,medium,Pharmacologist,1316,2022-03-26,normal
+Nissan,2025,ForestGreen,SUV,electric,automatic,electric,7,270391.15,active,10481,16256,Donald Ortiz,30,Male,Asia,Cambodia,medium,Recycling officer,1532,2022-02-06,normal
+Hyundai,2003,MediumAquaMarine,Sedan,electric,automatic,gasoline,7,248959.7,inactive,15955,18085,Karen Sanchez,58,Female,South America,Holy See (Vatican City State),medium,Dance movement psychotherapist,2433,2022-02-25,normal
+Hyundai,2021,Linen,Sedan,petrol,automatic,gasoline,6,179951.18,active,15569,20453,Walter Obrien,23,Male,Europe,Lebanon,medium,Film/video editor,2876,2024-04-27,normal
+Toyota,2013,Magenta,SUV,electric,automatic,gasoline,2,236291.59,active,15856,19727,Mercedes Leach,56,Male,Europe,Micronesia,medium,Social researcher,1551,2024-06-19,tourism_peak
+Nissan,2014,Orange,Truck,diesel,automatic,diesel,5,207856.83,active,18935,24781,Tyler Pennington,48,Female,Asia,Togo,medium,Illustrator,2891,2024-12-15,holiday_sales
+Honda,2017,Lime,SUV,electric,automatic,hybrid,8,68880.92,inactive,18959,21473,Steve Moon,31,Female,Africa,Vietnam,medium,Optometrist,2550,2023-03-13,normal
+Hyundai,2009,SlateGray,SUV,electric,manual,hybrid,8,244202.13,active,17638,21193,Jason Randall,67,Female,Africa,Falkland Islands (Malvinas),medium,Chiropodist,2704,2021-11-15,holiday_sales
+Toyota,2024,Tan,Truck,petrol,automatic,gasoline,5,54371.11,inactive,10576,16468,Jason Daniel,31,Female,Asia,Qatar,medium,Professor Emeritus,1848,2023-05-31,normal
+Hyundai,2005,GhostWhite,Hatchback,hybrid,manual,hybrid,3,126019.63,inactive,18541,21375,Rachel Taylor,21,Female,Africa,Serbia,medium,"Engineer, communications",2107,2021-08-20,tourism_peak
+Nissan,2003,DarkBlue,Sedan,petrol,automatic,electric,3,80583.22,inactive,13745,17223,David Reeves,67,Male,Europe,Germany,medium,"Therapist, music",1725,2026-02-02,normal
+Honda,2005,RoyalBlue,Sedan,electric,automatic,diesel,7,212211.88,active,17717,22775,Nicholas Green,59,Female,North America,Somalia,medium,Herbalist,1509,2023-11-29,holiday_sales
+Hyundai,2020,NavajoWhite,Truck,diesel,manual,gasoline,2,60968.57,inactive,14853,18651,Shawn Duffy,30,Male,Asia,Belize,medium,Advertising art director,2135,2024-09-19,normal
+Nissan,2002,Khaki,SUV,hybrid,manual,gasoline,7,243869.01,active,11828,16067,Valerie Gonzalez,58,Male,Africa,Uzbekistan,medium,Artist,2411,2025-12-11,holiday_sales
+Honda,2020,LightGoldenRodYellow,Van,electric,manual,electric,4,151007.48,active,14016,19761,Tyler Jackson,29,Male,North America,Niger,medium,"Administrator, education",2282,2024-11-03,holiday_sales
+Hyundai,2005,Snow,Van,diesel,automatic,electric,4,63901.36,active,16880,19390,Micheal Lee,32,Female,South America,Jordan,medium,Holiday representative,2792,2025-01-19,normal
+Hyundai,2016,Plum,Van,petrol,manual,electric,2,512.63,active,14856,17184,Lindsay Carney,29,Female,North America,Hong Kong,medium,Energy engineer,1145,2022-04-20,normal
+Honda,2008,DarkViolet,Van,hybrid,automatic,hybrid,4,12035.14,active,13559,17338,William Young,22,Female,North America,Cocos (Keeling) Islands,medium,Fish farm manager,1914,2024-09-01,normal
+Nissan,2002,DarkBlue,SUV,hybrid,automatic,diesel,5,72702.29,active,15271,18725,Casey Morris,49,Female,Europe,Myanmar,medium,"Engineer, petroleum",2906,2025-02-02,normal
+Toyota,2013,LightCyan,Sedan,hybrid,automatic,electric,6,75177.11,inactive,14392,19046,Justin Williams,34,Male,North America,Russian Federation,medium,Public affairs consultant,2778,2024-10-17,normal
+Toyota,2019,AntiqueWhite,SUV,electric,automatic,hybrid,7,251428.47,active,12422,15824,Manuel Turner,69,Female,Europe,New Caledonia,medium,Metallurgist,2086,2021-07-31,tourism_peak
+Hyundai,2019,BlueViolet,SUV,diesel,automatic,diesel,4,220705.6,inactive,13939,17485,Debbie Gordon,28,Female,Asia,Uganda,medium,Psychotherapist,1272,2025-12-14,holiday_sales
+Nissan,2016,Wheat,SUV,hybrid,manual,electric,5,188109.29,inactive,10740,16152,David Edwards,25,Male,Asia,Benin,medium,Restaurant manager,2118,2023-11-22,holiday_sales
+Hyundai,2002,Plum,Sedan,hybrid,automatic,hybrid,3,11931.32,active,18130,23276,Shawn Austin,31,Female,Europe,San Marino,medium,"Scientist, forensic",2778,2024-04-05,normal
+Toyota,2003,Maroon,Sedan,electric,manual,electric,8,144870.07,inactive,10323,15446,Katherine Dodson,26,Female,Europe,Jordan,medium,Astronomer,2635,2022-08-06,tourism_peak
+Honda,2024,Khaki,SUV,diesel,automatic,gasoline,4,94919.73,inactive,18124,24059,John Martin,68,Female,Asia,Canada,medium,Press photographer,1392,2021-08-28,tourism_peak
+Nissan,2003,BlueViolet,Hatchback,electric,manual,hybrid,6,287401.34,inactive,10696,16025,William Hoffman,65,Female,Africa,Ukraine,medium,"Research officer, government",2795,2025-05-27,normal
+Hyundai,2007,DarkRed,SUV,petrol,automatic,diesel,6,201093.17,inactive,15855,20918,Dalton Mitchell,49,Male,Africa,Tanzania,medium,Rural practice surveyor,1834,2022-06-14,tourism_peak
+Toyota,2010,HotPink,SUV,hybrid,automatic,gasoline,5,72200.83,active,17737,21542,Valerie Fox,41,Male,Europe,Mongolia,medium,Pension scheme manager,1685,2026-03-05,normal
+Toyota,2013,DarkGray,SUV,hybrid,manual,gasoline,8,268313.51,active,20122,22225,Allison Maldonado,67,Male,Africa,Egypt,medium,"Nurse, mental health",2056,2025-06-06,tourism_peak
+Toyota,2010,MediumBlue,Sedan,hybrid,automatic,gasoline,5,148732.48,active,15713,18797,Brad Rivas,52,Female,Europe,Nauru,medium,Professor Emeritus,1553,2022-02-04,normal
+Toyota,2016,MediumPurple,SUV,petrol,manual,electric,7,81583.75,active,18196,20626,Mary Tapia,26,Female,Europe,Nepal,medium,"Teacher, adult education",1703,2021-03-30,normal
+Honda,2004,LightSkyBlue,Truck,electric,automatic,gasoline,6,47541.52,inactive,13011,17778,Anthony Jones,57,Female,Asia,Croatia,medium,Chief Executive Officer,2056,2021-08-10,tourism_peak
+Toyota,2001,LawnGreen,Sedan,electric,manual,gasoline,4,293112.43,inactive,12870,16044,Sharon Davis,55,Male,North America,Equatorial Guinea,medium,"Designer, textile",1862,2022-09-16,normal
+Hyundai,2014,LightSkyBlue,Sedan,diesel,automatic,diesel,8,109946.98,inactive,18430,24327,Tiffany Moore,50,Female,North America,Slovakia (Slovak Republic),medium,Recycling officer,2877,2024-08-13,tourism_peak
+Nissan,2014,DarkSeaGreen,Sedan,petrol,automatic,hybrid,2,225147.57,inactive,18884,21288,Brendan Richardson,58,Male,North America,Saint Pierre and Miquelon,medium,Recruitment consultant,2010,2023-10-31,normal
+Nissan,2016,Sienna,Van,diesel,manual,hybrid,3,190002.99,inactive,19152,24323,Kyle Davis,64,Female,North America,Turks and Caicos Islands,medium,"Merchandiser, retail",1185,2024-06-29,tourism_peak
+Toyota,2018,Pink,Van,hybrid,manual,gasoline,7,184326.69,active,9133,15078,Jose Mcpherson,21,Male,South America,Colombia,medium,"Designer, fashion/clothing",1202,2024-11-19,holiday_sales
+Toyota,2009,DarkBlue,Sedan,hybrid,manual,gasoline,5,274638.2,inactive,12682,15829,Jeffrey Solomon,21,Female,North America,Malta,medium,Hydrologist,1578,2025-08-28,tourism_peak
+Nissan,2021,LightBlue,Truck,electric,manual,electric,5,218726.75,inactive,14739,20555,Elizabeth Williams,34,Male,Asia,Brunei Darussalam,medium,Armed forces technical officer,2530,2023-10-01,normal
+Toyota,2002,Peru,Sedan,electric,automatic,diesel,2,80450.07,inactive,20129,23373,John Cortez,38,Female,South America,Botswana,medium,Marine scientist,2540,2025-07-15,tourism_peak
+Honda,2018,SteelBlue,Sedan,electric,manual,hybrid,6,176442.81,inactive,13143,15584,Patrick Ford,26,Male,Europe,Myanmar,medium,"Nurse, learning disability",1183,2021-11-21,holiday_sales
+Toyota,2022,Lime,Hatchback,hybrid,automatic,electric,2,249995.32,inactive,20017,24701,Nathaniel Todd,25,Female,Africa,Belize,medium,Youth worker,1298,2024-09-25,normal
+Hyundai,2008,HotPink,Sedan,petrol,automatic,hybrid,4,202907.87,inactive,11513,17420,Paul Munoz,60,Male,Europe,Guam,medium,Politician's assistant,1763,2022-10-14,normal
+Hyundai,2009,Orchid,Van,electric,automatic,hybrid,2,111918.32,inactive,15582,19929,Christopher Woods,66,Female,South America,Andorra,medium,Town planner,2545,2021-03-30,normal
+Toyota,2016,Orchid,Sedan,petrol,manual,gasoline,4,286436.83,inactive,12991,15109,Anita Taylor,55,Male,North America,Gabon,medium,Clinical research associate,2600,2024-04-05,normal
+Toyota,2002,Bisque,SUV,hybrid,automatic,electric,2,190104.93,inactive,14670,19226,Matthew Santos,20,Female,Africa,Qatar,medium,Solicitor,1138,2022-10-17,normal
+Toyota,2021,SandyBrown,Truck,electric,automatic,gasoline,8,196079.44,inactive,16198,19829,Javier Wilson,41,Male,Asia,Benin,medium,"Producer, television/film/video",2362,2023-10-02,normal
+Hyundai,2017,RoyalBlue,Sedan,electric,manual,electric,5,229538.43,inactive,10974,15776,Christina Hudson,56,Female,North America,Latvia,medium,Arts development officer,1932,2021-05-11,normal
+Nissan,2015,Plum,SUV,petrol,automatic,electric,4,88721.79,active,15669,21448,Sarah Mclaughlin,30,Female,Europe,Algeria,medium,Animator,2985,2022-01-24,normal
+Toyota,2013,Thistle,Van,diesel,manual,electric,3,29357.46,inactive,16145,20853,Lisa Gregory,21,Female,North America,Iran,medium,Exhibition designer,2840,2025-04-30,normal
+Toyota,2012,Peru,Hatchback,electric,manual,gasoline,7,128336.29,inactive,18659,22432,Kristen Adams,41,Female,Africa,Marshall Islands,medium,Public librarian,2773,2021-05-10,normal
+Nissan,2021,RosyBrown,Hatchback,petrol,automatic,hybrid,8,50746.26,inactive,20336,22460,Alisha Roberts,64,Male,Africa,Lithuania,medium,"Psychotherapist, child",1434,2024-02-22,normal
+Toyota,2024,Tan,Sedan,electric,automatic,electric,3,42568.17,inactive,15448,21063,Terry Morgan,40,Female,Europe,Kazakhstan,medium,"Conservator, museum/gallery",2470,2023-03-03,normal
+Nissan,2023,PapayaWhip,SUV,hybrid,automatic,electric,2,148366.64,active,18520,23023,Megan Navarro,59,Female,Europe,Saint Kitts and Nevis,medium,"Designer, television/film set",2757,2024-07-06,tourism_peak
+Honda,2012,DarkCyan,Van,diesel,manual,gasoline,2,18044.78,active,12136,17017,Betty Gonzalez,30,Female,South America,Cote d'Ivoire,medium,Chiropractor,1209,2023-08-06,tourism_peak
+Toyota,2018,LimeGreen,Sedan,diesel,automatic,diesel,7,9770.23,active,13153,17953,Justin Kidd,53,Female,North America,Western Sahara,medium,Games developer,2490,2025-05-23,normal
+Hyundai,2021,ForestGreen,SUV,electric,automatic,diesel,6,101815.43,active,15386,17609,Stephanie Johnson,40,Male,Europe,Philippines,medium,Leisure centre manager,1965,2022-07-17,tourism_peak
+Hyundai,2015,DarkOrchid,Sedan,hybrid,automatic,gasoline,6,189820.13,active,19764,24587,Katelyn Chaney,56,Female,North America,Brazil,medium,Armed forces training and education officer,1304,2023-02-14,normal
+Honda,2008,Thistle,Sedan,electric,automatic,hybrid,2,207847.79,inactive,11319,15776,Ashley Williams,70,Female,South America,Ethiopia,medium,"Programmer, systems",1771,2022-06-24,tourism_peak
+Hyundai,2010,BlueViolet,SUV,diesel,automatic,diesel,7,123282.65,inactive,19828,22846,Carol Wilson,49,Male,Africa,Botswana,medium,Medical illustrator,2108,2022-01-22,normal
+Hyundai,2010,Red,SUV,diesel,manual,gasoline,8,291191.77,inactive,16689,21787,Kathleen Harrell,55,Male,Asia,Saint Lucia,medium,Medical physicist,2303,2023-09-05,normal
+Toyota,2002,DarkRed,SUV,hybrid,automatic,diesel,3,117960.98,inactive,12753,18137,Jessica Perry,70,Male,Europe,Svalbard & Jan Mayen Islands,medium,Financial trader,1304,2022-05-14,normal
+Hyundai,2009,Tan,Van,hybrid,manual,electric,2,200818.15,inactive,16367,21440,Derek Espinoza,28,Female,North America,Guam,medium,Media planner,2010,2023-08-19,tourism_peak
+Hyundai,2011,PeachPuff,Truck,petrol,automatic,hybrid,5,242068.97,active,14043,17757,Brenda Patterson,23,Female,Asia,Canada,medium,Proofreader,1849,2025-09-12,normal
+Toyota,2024,Black,Sedan,petrol,manual,diesel,4,265129.01,active,15072,19141,Randy Robbins,45,Male,South America,South Africa,medium,Chartered accountant,1974,2024-04-08,normal
+Honda,2024,FireBrick,Sedan,electric,manual,electric,4,179096.65,active,16533,19220,James Johnson,25,Male,Europe,Germany,medium,"Teacher, special educational needs",1773,2024-08-10,tourism_peak
+Hyundai,2011,LightYellow,Hatchback,hybrid,manual,gasoline,5,145042.2,active,18710,22154,Stephen Haynes,28,Female,Africa,Norfolk Island,medium,Interior and spatial designer,1202,2025-08-12,tourism_peak
+Honda,2019,Wheat,SUV,electric,automatic,hybrid,2,297269.08,inactive,12957,18494,Bridget Powell,26,Male,Europe,Algeria,medium,Sport and exercise psychologist,1198,2023-07-29,tourism_peak
+Nissan,2025,MediumTurquoise,Sedan,electric,manual,electric,2,53656.51,inactive,18951,24053,Rachael Sullivan,20,Male,South America,Solomon Islands,medium,Illustrator,1751,2024-12-14,holiday_sales
+Honda,2017,MediumSeaGreen,SUV,electric,automatic,diesel,7,193947.94,inactive,13463,19040,Nathan Hobbs,28,Female,Africa,Argentina,medium,"Engineer, production",1903,2025-10-06,normal
+Honda,2005,Magenta,SUV,electric,manual,electric,8,239292.86,active,16724,21825,Nicole Moore,36,Male,Africa,Malawi,medium,"Solicitor, Scotland",1754,2025-11-20,holiday_sales
+Honda,2003,LimeGreen,Van,diesel,manual,gasoline,2,174949.3,active,21334,24304,Victoria Rodriguez,32,Male,South America,Eritrea,medium,Microbiologist,1906,2023-03-31,normal
+Toyota,2002,MidnightBlue,SUV,hybrid,manual,electric,3,62020.3,inactive,12821,15068,Peter Pugh,34,Female,Europe,Niue,medium,Hydrogeologist,1301,2025-07-05,tourism_peak
+Honda,2000,SaddleBrown,Sedan,petrol,automatic,diesel,4,130615.93,active,16986,22378,David Reese,58,Male,South America,Saint Pierre and Miquelon,medium,Maintenance engineer,2875,2021-03-28,normal
+Nissan,2024,DarkSlateGray,SUV,hybrid,automatic,hybrid,5,226773.67,active,12042,16985,Kelly Wright,29,Female,Europe,Finland,medium,"Scientist, clinical (histocompatibility and immunogenetics)",2488,2026-01-24,normal
+Nissan,2019,SaddleBrown,Sedan,petrol,automatic,electric,6,227527.8,inactive,13433,18363,Michael Poole,51,Male,South America,Congo,medium,Chief Executive Officer,1260,2024-04-07,normal
+Hyundai,2014,Sienna,Hatchback,petrol,manual,diesel,8,283208.09,active,15935,20004,Blake Rhodes,66,Female,Africa,Jamaica,medium,Theatre stage manager,2238,2022-04-20,normal
+Toyota,2023,LightGray,Sedan,electric,automatic,electric,8,214579.24,inactive,14022,17820,Mallory Barajas,63,Female,South America,Maldives,medium,Pension scheme manager,1700,2024-07-20,tourism_peak
+Honda,2015,DarkSalmon,SUV,petrol,automatic,electric,2,71713.93,active,16065,18431,Mr. Walter Palmer,54,Male,Asia,Cambodia,medium,"Engineer, petroleum",2784,2025-06-30,tourism_peak
+Toyota,2024,DimGray,Van,hybrid,manual,gasoline,2,224840.14,inactive,14438,19725,Jaclyn Crane,35,Female,North America,Lebanon,medium,Clinical molecular geneticist,2402,2021-06-21,tourism_peak
+Hyundai,2005,LightSteelBlue,Hatchback,hybrid,automatic,diesel,5,131881.0,inactive,19612,22383,Christian Watson,56,Female,Africa,Heard Island and McDonald Islands,medium,Immunologist,2258,2026-01-21,normal
+Nissan,2007,DarkTurquoise,SUV,electric,manual,gasoline,3,18584.42,active,19434,24779,Kevin Williams,32,Female,Europe,Libyan Arab Jamahiriya,medium,Herpetologist,1041,2021-06-06,tourism_peak
+Nissan,2023,AliceBlue,Truck,electric,automatic,gasoline,3,27981.39,active,15406,18456,Gregory Harrell,23,Female,Asia,Cocos (Keeling) Islands,medium,Quarry manager,1879,2025-05-08,normal
+Hyundai,2002,RoyalBlue,Sedan,hybrid,manual,diesel,5,180292.14,inactive,16561,20868,Rachael Alvarez,26,Male,South America,Georgia,medium,Corporate investment banker,2948,2026-01-02,normal
+Honda,2013,RoyalBlue,Van,petrol,automatic,gasoline,2,43626.16,active,13298,18832,Brittany Luna,35,Male,South America,North Macedonia,medium,Youth worker,1358,2025-02-11,normal
+Nissan,2010,Orchid,Van,diesel,manual,hybrid,8,254737.78,inactive,21042,24606,Angel Santiago,33,Female,North America,Iceland,medium,Health physicist,2246,2023-03-05,normal
+Toyota,2000,Bisque,Hatchback,hybrid,manual,electric,6,129545.85,active,12137,15348,Rebecca Zimmerman,36,Male,Africa,Tonga,medium,"Surveyor, land/geomatics",1300,2022-08-08,tourism_peak
+Toyota,2023,CadetBlue,SUV,electric,automatic,hybrid,7,121153.2,active,11677,16896,Kelly Christensen,22,Male,Africa,Congo,medium,Community arts worker,2468,2025-10-20,normal
+Toyota,2017,LightSalmon,Van,electric,automatic,diesel,4,282023.97,inactive,11718,15556,Danielle Thornton,37,Female,South America,Cocos (Keeling) Islands,medium,Chartered accountant,1054,2021-05-09,normal
+Hyundai,2022,PaleGoldenRod,Sedan,petrol,automatic,electric,4,98470.12,inactive,19161,22491,Katherine Peck,31,Female,South America,New Caledonia,medium,Press sub,1281,2023-12-02,holiday_sales
+Hyundai,2004,Wheat,Truck,electric,manual,diesel,5,96770.52,inactive,11454,16093,David Wilson,26,Male,Asia,Israel,medium,Special educational needs teacher,1605,2021-05-25,normal
+Nissan,2012,Gainsboro,Truck,hybrid,manual,electric,2,54449.86,active,17384,20331,Brandon Parker,24,Female,Asia,France,medium,"Doctor, general practice",1605,2022-06-02,tourism_peak
+Nissan,2003,Gainsboro,Hatchback,electric,automatic,diesel,7,287509.34,active,11142,16525,Anthony Price,45,Female,Africa,Nicaragua,medium,Curator,1163,2023-12-17,holiday_sales
+Honda,2001,LightGoldenRodYellow,Sedan,electric,automatic,electric,4,159274.12,inactive,19697,24246,Ronald Martinez,39,Male,North America,Uganda,medium,Film/video editor,1984,2023-12-14,holiday_sales
+Toyota,2008,Snow,Sedan,diesel,manual,diesel,3,142063.74,inactive,18065,23810,Kathy Avery,31,Female,South America,Namibia,medium,"Biochemist, clinical",2205,2023-03-16,normal
+Hyundai,2020,PaleTurquoise,Sedan,hybrid,manual,hybrid,3,261732.25,active,15124,18325,Allen Schultz,59,Male,Europe,Kyrgyz Republic,medium,Geophysical data processor,2508,2025-11-24,holiday_sales
+Honda,2009,LightBlue,Sedan,hybrid,automatic,diesel,2,292356.19,inactive,16659,20242,Marisa Martinez,44,Female,South America,Namibia,medium,Product designer,1960,2022-01-21,normal
+Nissan,2013,GreenYellow,Hatchback,petrol,automatic,gasoline,3,46988.4,active,18189,20431,Brenda Fernandez,38,Male,Africa,Tanzania,medium,Financial trader,2864,2025-06-13,tourism_peak
+Nissan,2002,RoyalBlue,Sedan,petrol,automatic,diesel,3,185296.82,active,19069,23571,Robert Woodward,65,Female,South America,Zambia,medium,Diplomatic Services operational officer,2024,2024-10-18,normal
+Honda,2000,LightPink,Hatchback,diesel,automatic,gasoline,4,163958.78,inactive,14200,16448,Sara James,59,Female,Africa,Bahamas,medium,"Engineer, petroleum",1314,2025-04-18,normal
+Toyota,2022,LightSkyBlue,Van,petrol,manual,gasoline,5,282329.49,inactive,19868,23546,Patrick Hart,42,Female,South America,Tajikistan,medium,Chartered public finance accountant,1002,2025-07-14,tourism_peak
+Toyota,2009,DarkSlateGray,Sedan,petrol,automatic,hybrid,5,177242.0,inactive,17072,19395,Yvonne Johns,47,Male,North America,Qatar,medium,Tree surgeon,1748,2022-03-29,normal
+Nissan,2011,MediumSpringGreen,Sedan,hybrid,automatic,hybrid,2,267598.93,active,16428,21446,Veronica Zimmerman,55,Female,South America,Spain,medium,Financial trader,1285,2023-11-25,holiday_sales
+Honda,2020,Salmon,SUV,electric,manual,gasoline,5,189488.81,inactive,15583,19376,Erin Sloan,45,Male,Europe,Guam,medium,"Accountant, chartered",2075,2022-12-26,holiday_sales
+Nissan,2019,Aqua,Sedan,petrol,manual,hybrid,8,158941.44,active,19581,23925,Jennifer Woodard,40,Female,South America,Lebanon,medium,"Nurse, learning disability",2765,2021-03-25,normal
+Honda,2023,WhiteSmoke,Van,petrol,manual,gasoline,6,46373.36,inactive,12655,18391,Ronnie Powers,32,Male,South America,Belgium,medium,Manufacturing engineer,1699,2021-11-07,holiday_sales
+Honda,2024,Orange,Sedan,petrol,automatic,electric,2,264279.76,active,19228,22570,Randy Terry,54,Male,North America,Sweden,medium,Company secretary,2240,2024-03-28,normal
+Honda,2012,Red,Van,petrol,manual,electric,2,115592.75,active,11062,16804,Patrick Chang,51,Female,North America,Heard Island and McDonald Islands,medium,"Engineer, agricultural",1565,2022-11-01,holiday_sales
+Nissan,2006,Indigo,SUV,diesel,automatic,gasoline,2,179458.76,active,12096,15570,Johnny Cox,31,Female,Africa,Suriname,medium,"Research officer, government",1942,2023-10-09,normal
+Nissan,2023,Gray,Sedan,petrol,manual,electric,4,233122.13,inactive,12962,16514,Miss Ashley Ramirez,49,Female,South America,Cote d'Ivoire,medium,"Doctor, hospital",2787,2021-04-03,normal
+Hyundai,2001,ForestGreen,Van,diesel,automatic,electric,3,140636.87,inactive,15045,19707,Carl Brown,49,Female,South America,Congo,medium,"Teacher, early years/pre",1318,2026-01-02,normal
+Toyota,2018,LightSalmon,SUV,hybrid,automatic,gasoline,8,101119.71,active,21786,24510,Michael Braun,37,Female,Asia,Turkmenistan,medium,"Surveyor, minerals",2884,2025-08-23,tourism_peak
+Hyundai,2019,CadetBlue,Van,hybrid,manual,hybrid,8,196096.73,inactive,13849,19480,Erica Richard,48,Female,North America,Afghanistan,medium,Graphic designer,1882,2024-10-28,normal
+Hyundai,2022,SeaGreen,SUV,hybrid,manual,diesel,8,82072.34,active,16533,19693,Joseph Williams DDS,55,Male,Africa,Pitcairn Islands,medium,Health physicist,1564,2025-08-08,tourism_peak
+Hyundai,2004,Maroon,Van,petrol,manual,hybrid,7,38619.33,active,15911,18883,Cory Miller,28,Male,North America,Martinique,medium,Equities trader,1777,2025-01-04,normal
+Nissan,2006,Gray,Van,electric,automatic,hybrid,8,181020.73,inactive,13555,17927,Eric Garrett,35,Male,North America,Belarus,medium,Air broker,2634,2023-04-27,normal
+Nissan,2016,MediumSeaGreen,Van,petrol,manual,diesel,8,279056.75,inactive,20930,23164,Danielle Wells,63,Female,North America,Jersey,medium,Audiological scientist,2403,2021-05-25,normal
+Nissan,2003,Cornsilk,SUV,diesel,automatic,electric,5,177782.28,active,15975,20088,Lisa Duran,63,Female,Europe,Mali,medium,Technical sales engineer,1907,2023-03-17,normal
+Honda,2021,BlanchedAlmond,Hatchback,electric,manual,electric,5,291243.91,active,11238,15875,Steve Steele,64,Male,Africa,Belize,medium,Biomedical engineer,2053,2021-09-16,normal
+Nissan,2025,Plum,Van,petrol,manual,electric,4,292883.5,inactive,19577,23332,Michael Hansen,62,Female,North America,Azerbaijan,medium,Museum/gallery curator,2573,2023-10-04,normal
+Hyundai,2008,Lavender,Sedan,hybrid,automatic,diesel,2,142740.42,inactive,20557,24413,Rachel Hanson,57,Female,North America,Bhutan,medium,Music tutor,1317,2024-09-09,normal
+Nissan,2012,DarkGreen,Van,diesel,automatic,gasoline,6,196742.33,active,15084,18245,Timothy Logan,53,Female,North America,South Africa,medium,"Scientist, forensic",2294,2024-11-01,holiday_sales
+Honda,2013,DarkMagenta,Sedan,electric,manual,hybrid,6,158058.16,active,14964,20756,Kurt Jones,47,Male,Europe,Namibia,medium,"Teacher, primary school",1985,2022-10-31,normal
+Toyota,2002,LightCyan,SUV,petrol,automatic,gasoline,3,256432.43,active,9213,15092,John Oliver,52,Male,Asia,Northern Mariana Islands,medium,Financial manager,1626,2025-07-10,tourism_peak
+Honda,2013,Chocolate,Truck,hybrid,manual,hybrid,2,233463.41,inactive,17503,19541,Kevin Palmer,58,Female,Asia,South Georgia and the South Sandwich Islands,medium,Insurance risk surveyor,1985,2021-07-26,tourism_peak
+Toyota,2013,DarkViolet,Sedan,hybrid,automatic,diesel,5,140326.21,inactive,20679,23413,Eric Cooper,63,Female,South America,Turks and Caicos Islands,medium,Actuary,1420,2025-10-18,normal
+Nissan,2018,Chartreuse,Van,electric,automatic,hybrid,2,99774.03,inactive,11432,15871,Robert Hansen,38,Male,South America,Namibia,medium,"Pharmacist, hospital",1713,2022-06-04,tourism_peak
+Hyundai,2003,Green,Sedan,petrol,automatic,electric,5,68427.18,inactive,18794,24273,Gloria Contreras,57,Female,Europe,Congo,medium,Tourism officer,1765,2022-11-24,holiday_sales
+Nissan,2015,MediumSeaGreen,SUV,electric,manual,hybrid,8,131940.43,active,13293,15708,Jennifer Martin,62,Female,Europe,Timor-Leste,medium,Archivist,1795,2026-02-11,normal
+Honda,2012,Ivory,Van,diesel,manual,gasoline,2,141596.95,active,13977,19954,Julie Lewis,20,Female,North America,Cyprus,medium,Learning disability nurse,2009,2021-03-23,normal
+Toyota,2004,GhostWhite,Sedan,electric,automatic,gasoline,2,146519.15,active,14632,19685,Adriana Smith,22,Female,North America,Costa Rica,medium,Air traffic controller,1629,2024-08-06,tourism_peak
+Nissan,2010,LightSteelBlue,Van,electric,automatic,electric,6,217691.5,active,13712,16001,Mark Durham,69,Female,South America,Brazil,medium,Armed forces logistics/support/administrative officer,1129,2022-05-28,normal
+Hyundai,2024,LightSkyBlue,SUV,hybrid,manual,diesel,3,113135.79,active,13464,18187,Stephen Higgins,57,Female,Africa,Congo,medium,"Surveyor, building",2007,2022-11-16,holiday_sales
+Toyota,2024,Beige,Truck,diesel,manual,electric,3,291623.54,active,16615,20689,Dennis Garcia,58,Male,Asia,Christmas Island,medium,Museum education officer,2008,2022-11-10,holiday_sales
+Honda,2001,Linen,Hatchback,petrol,automatic,hybrid,6,223418.38,inactive,14641,17391,Jacob Watson,20,Male,Africa,Guadeloupe,medium,Secretary/administrator,2793,2022-12-25,holiday_sales
+Toyota,2007,Coral,Van,diesel,manual,gasoline,7,27130.59,inactive,22487,24955,Stephen Anderson,54,Male,South America,Turkmenistan,medium,"Engineer, agricultural",2500,2024-11-18,holiday_sales
+Toyota,2001,MediumAquaMarine,Van,hybrid,manual,hybrid,6,269265.05,active,15504,17538,Vanessa Sanchez,20,Male,South America,Honduras,medium,Warden/ranger,1751,2024-05-17,normal
+Nissan,2014,LightYellow,Van,hybrid,automatic,diesel,5,148243.96,inactive,17878,23473,Erin Brown,25,Female,South America,Comoros,medium,Computer games developer,2495,2025-09-30,normal
+Nissan,2016,HoneyDew,Sedan,diesel,automatic,gasoline,8,23386.67,inactive,19020,22228,Rachel Gibbs,50,Male,South America,Myanmar,medium,Diplomatic Services operational officer,1129,2025-05-09,normal
+Toyota,2004,Navy,Van,hybrid,automatic,hybrid,7,234220.09,active,16573,20192,Mr. Frank Brooks DDS,43,Female,South America,Iceland,medium,Public relations account executive,2190,2025-07-10,tourism_peak
+Toyota,2000,Blue,SUV,petrol,manual,electric,4,9826.83,active,19195,24118,Steven Hayes,29,Male,Europe,Mozambique,medium,Occupational hygienist,2168,2024-08-08,tourism_peak
+Hyundai,2009,OldLace,Truck,petrol,manual,gasoline,5,234035.89,active,15231,18669,Taylor Brooks,67,Male,Asia,Gambia,medium,Contractor,1557,2024-10-22,normal
+Nissan,2015,Tomato,SUV,hybrid,manual,diesel,8,157914.99,inactive,16324,20362,Kevin Marshall,30,Female,Africa,French Polynesia,medium,Physiological scientist,2294,2024-12-22,holiday_sales
+Hyundai,2024,PaleTurquoise,Van,diesel,automatic,electric,4,166426.91,active,16393,19160,Jonathan Nelson,51,Male,North America,Lao People's Democratic Republic,medium,Editorial assistant,2892,2024-11-14,holiday_sales
+Toyota,2000,Crimson,Van,hybrid,manual,hybrid,2,71642.16,inactive,10482,15168,Bradley Kirby,32,Male,North America,Djibouti,medium,Health and safety inspector,2125,2023-06-15,tourism_peak
+Hyundai,2024,Cornsilk,SUV,petrol,manual,hybrid,3,131068.75,inactive,13499,16941,Joshua Cook,61,Female,Asia,Bolivia,medium,Fitness centre manager,2795,2022-03-15,normal
+Toyota,2006,Gold,Sedan,hybrid,automatic,diesel,5,39160.26,active,12655,18522,Yolanda Murillo,26,Female,Europe,Samoa,medium,Actuary,2790,2023-07-12,tourism_peak
+Hyundai,2025,PaleGreen,SUV,diesel,automatic,diesel,8,283361.16,active,18904,22332,Samantha Todd,20,Male,Europe,Finland,medium,Public house manager,1273,2024-02-21,normal
+Toyota,2007,Orchid,Sedan,petrol,automatic,gasoline,2,97471.65,inactive,13799,19769,Nathaniel Clark,34,Male,South America,Senegal,medium,"Scientist, clinical (histocompatibility and immunogenetics)",2537,2022-06-18,tourism_peak
+Hyundai,2008,SeaGreen,Sedan,petrol,automatic,electric,3,296983.58,active,16188,20528,Julia Conner,47,Female,South America,Solomon Islands,medium,Emergency planning/management officer,2880,2025-11-22,holiday_sales
+Nissan,2019,HoneyDew,Van,hybrid,manual,electric,6,115340.58,active,11218,16482,Samuel Johnson,27,Male,North America,Sierra Leone,medium,Technical brewer,2085,2024-09-29,normal
+Hyundai,2024,SpringGreen,Truck,hybrid,manual,electric,5,195079.24,active,10906,16295,Sandra Morgan,37,Female,Asia,Gambia,medium,"Physicist, medical",1519,2021-04-11,normal
+Hyundai,2014,Lime,Sedan,diesel,automatic,electric,3,204882.3,inactive,14945,19306,Alexander Floyd,39,Male,North America,Serbia,medium,"Designer, exhibition/display",1168,2025-10-07,normal
+Hyundai,2002,OrangeRed,SUV,diesel,manual,gasoline,8,59276.0,active,18481,21414,Christina Myers,58,Female,Europe,Montenegro,medium,Emergency planning/management officer,1844,2026-01-27,normal
+Toyota,2019,RoyalBlue,Sedan,diesel,manual,gasoline,6,176936.38,active,12796,15542,Elizabeth Jackson,70,Male,North America,Botswana,medium,Ambulance person,1515,2023-12-28,holiday_sales
+Hyundai,2000,GhostWhite,Sedan,hybrid,manual,gasoline,4,159189.97,active,15241,20003,Thomas Cruz,43,Male,South America,Liechtenstein,medium,"Exhibitions officer, museum/gallery",2212,2021-06-03,tourism_peak
+Hyundai,2021,CornflowerBlue,Sedan,electric,automatic,gasoline,2,182919.72,inactive,20127,23608,Jacob Smith,50,Female,Europe,Palestinian Territory,medium,Paediatric nurse,1868,2025-08-27,tourism_peak
+Nissan,2014,DarkSeaGreen,Sedan,electric,automatic,hybrid,2,155590.16,inactive,11347,15342,Karen Jones,54,Male,North America,Cayman Islands,medium,"Conservator, furniture",1416,2022-02-19,normal
+Honda,2023,Sienna,Truck,electric,automatic,gasoline,5,70402.53,active,17896,22682,Kenneth Collins,32,Male,Asia,Georgia,medium,Retail buyer,2243,2024-11-13,holiday_sales
+Honda,2022,AntiqueWhite,Sedan,electric,automatic,electric,5,18538.08,active,13384,17954,Jill Summers DDS,44,Male,North America,Falkland Islands (Malvinas),medium,Secondary school teacher,2625,2022-11-28,holiday_sales
+Nissan,2022,SlateGray,Sedan,electric,automatic,diesel,3,201009.66,inactive,21436,23965,Kenneth Mclaughlin,61,Female,Europe,United States Minor Outlying Islands,medium,"Programmer, multimedia",1760,2026-01-13,normal
+Toyota,2010,OrangeRed,Sedan,electric,automatic,hybrid,8,52131.42,inactive,18954,24085,Rhonda Thompson,49,Male,Europe,Reunion,medium,Editorial assistant,2340,2023-09-22,normal
+Honda,2015,Salmon,Van,hybrid,manual,hybrid,7,139413.78,inactive,17045,21504,Matthew Hale,26,Male,South America,Saint Martin,medium,"Nurse, learning disability",1930,2024-11-13,holiday_sales
+Nissan,2006,LightSalmon,Hatchback,electric,manual,electric,5,118799.52,inactive,12768,16269,Kimberly Estrada,47,Male,Africa,Dominican Republic,medium,"Engineer, water",2304,2022-07-15,tourism_peak
+Hyundai,2015,DarkRed,Sedan,diesel,manual,gasoline,7,47187.69,active,12767,18089,Angela Garcia PhD,59,Female,North America,Isle of Man,medium,Outdoor activities/education manager,2116,2025-11-23,holiday_sales
+Nissan,2000,HoneyDew,Sedan,diesel,manual,diesel,3,287588.02,inactive,12341,15789,Julia Jones,28,Female,North America,Chad,medium,Museum/gallery curator,1229,2023-05-06,normal
+Honda,2016,GoldenRod,Sedan,electric,manual,electric,7,149558.65,active,12382,17063,Adam Wilson,53,Male,Europe,Samoa,medium,"Journalist, newspaper",2353,2024-08-03,tourism_peak
+Honda,2017,CornflowerBlue,Sedan,petrol,automatic,electric,2,58567.03,inactive,21415,24525,Matthew Reeves,67,Female,North America,Libyan Arab Jamahiriya,medium,Counselling psychologist,2727,2025-02-12,normal
+Honda,2021,DodgerBlue,Sedan,diesel,manual,electric,6,293207.86,active,10555,15918,Albert Garcia,41,Female,North America,Swaziland,medium,Company secretary,2189,2023-07-27,tourism_peak
+Hyundai,2010,FloralWhite,Van,hybrid,automatic,diesel,3,13859.13,inactive,21108,24224,Phillip Byrd,68,Male,South America,Saint Vincent and the Grenadines,medium,Prison officer,2062,2024-07-08,tourism_peak
+Nissan,2011,BlanchedAlmond,SUV,diesel,manual,diesel,5,54693.83,active,11254,16193,Kim Ramos,42,Male,Europe,Christmas Island,medium,"Scientist, research (medical)",2695,2023-01-14,normal
+Nissan,2021,Red,Hatchback,electric,automatic,gasoline,4,188230.0,active,10175,15870,Aaron Barton,55,Male,Africa,Iceland,medium,Fisheries officer,1193,2023-10-25,normal
+Hyundai,2021,Green,SUV,electric,manual,electric,6,99185.19,active,18522,22073,Javier Hays,35,Female,Europe,United States of America,medium,"Engineer, agricultural",2370,2023-03-23,normal
+Hyundai,2021,FireBrick,SUV,diesel,automatic,hybrid,6,299367.76,active,14981,20370,Amanda Hunt,32,Female,Africa,Cyprus,medium,IT trainer,1622,2022-01-06,normal
+Nissan,2006,HoneyDew,Sedan,diesel,automatic,diesel,2,278784.84,inactive,14580,19950,Jennifer Patterson,47,Male,South America,Niue,medium,"Engineer, production",1991,2022-10-21,normal
+Toyota,2024,ForestGreen,Hatchback,hybrid,manual,diesel,3,140640.52,inactive,14714,17252,Matthew Smith,27,Male,Africa,Guinea-Bissau,medium,Proofreader,1727,2023-12-11,holiday_sales
+Nissan,2017,NavajoWhite,Truck,diesel,automatic,electric,6,286785.54,inactive,15411,18164,Stephen Jenkins,50,Female,Asia,Bahrain,medium,"Civil engineer, consulting",2030,2023-07-25,tourism_peak
+Honda,2019,FloralWhite,Van,hybrid,manual,electric,8,102790.41,active,17334,21941,Brandon Nguyen,46,Female,South America,Somalia,medium,Contracting civil engineer,2831,2026-01-13,normal
+Honda,2016,SkyBlue,Sedan,hybrid,manual,hybrid,3,244632.79,inactive,13806,19429,Alan Barr,52,Female,Europe,China,medium,Museum/gallery exhibitions officer,1125,2023-11-24,holiday_sales
+Toyota,2017,SteelBlue,Van,hybrid,manual,hybrid,6,113441.97,inactive,16886,22186,Virginia Hall,54,Male,South America,Northern Mariana Islands,medium,Insurance broker,1446,2023-03-04,normal
+Honda,2018,LemonChiffon,SUV,petrol,automatic,electric,2,105130.68,active,11827,17245,Amy Brooks,39,Female,Asia,Saint Pierre and Miquelon,medium,"Engineer, drilling",1179,2024-11-02,holiday_sales
+Toyota,2023,Blue,SUV,hybrid,automatic,gasoline,5,268688.72,inactive,15518,18543,Nicholas Hinton,51,Female,Asia,Honduras,medium,Land/geomatics surveyor,2666,2022-12-07,holiday_sales
+Toyota,2006,BlueViolet,SUV,hybrid,automatic,gasoline,3,22459.63,inactive,19399,24708,Vanessa Wong,38,Female,Asia,Fiji,medium,Aeronautical engineer,2177,2023-11-23,holiday_sales
+Honda,2025,MediumSpringGreen,SUV,petrol,manual,gasoline,2,256146.2,active,14650,20495,Joshua Knox,26,Male,Asia,Tanzania,medium,Environmental education officer,1201,2024-01-05,normal
+Toyota,2008,Turquoise,Sedan,diesel,automatic,hybrid,6,264600.44,active,14082,16960,Jeremy Smith,47,Female,South America,Tunisia,medium,Building control surveyor,1020,2024-06-09,tourism_peak
+Honda,2002,GreenYellow,Truck,electric,automatic,gasoline,4,201536.11,active,11968,15096,Christopher Dunn,45,Male,Asia,Austria,medium,Fashion designer,2732,2022-05-25,normal
+Hyundai,2015,SeaGreen,Sedan,petrol,automatic,gasoline,5,42797.64,active,12572,18451,Nathan Sanchez,70,Male,South America,Belgium,medium,Trading standards officer,2991,2024-10-26,normal
+Nissan,2023,RosyBrown,SUV,hybrid,manual,electric,2,165083.16,active,17794,20635,Christina Huffman,70,Female,Asia,Gabon,medium,Cartographer,2566,2023-08-15,tourism_peak
+Nissan,2006,FireBrick,Sedan,diesel,manual,diesel,2,63942.75,active,18638,20996,Jay Lynch,24,Female,Europe,Indonesia,medium,"Designer, furniture",2612,2024-05-28,normal
+Honda,2006,Pink,Van,petrol,automatic,diesel,3,126582.33,active,20301,23512,Olivia Dorsey,30,Male,North America,Angola,medium,Surgeon,1442,2024-06-09,tourism_peak
+Hyundai,2009,SandyBrown,Truck,petrol,manual,electric,4,272677.87,active,16162,18650,Douglas Hart,59,Female,Asia,Equatorial Guinea,medium,Building surveyor,2174,2024-06-06,tourism_peak
+Toyota,2015,Gray,SUV,petrol,automatic,diesel,4,203446.37,inactive,12885,16740,Colton Smith,60,Female,Europe,Burkina Faso,medium,Regulatory affairs officer,1068,2025-03-08,normal
+Hyundai,2002,Orchid,Sedan,hybrid,automatic,hybrid,4,179661.59,active,12616,16431,Jacqueline Burns,23,Male,North America,Uzbekistan,medium,Osteopath,2342,2024-09-23,normal
+Nissan,2021,OliveDrab,SUV,petrol,manual,hybrid,7,109472.05,active,19212,21566,Carla Hines,66,Female,Africa,Uruguay,medium,Magazine features editor,2815,2022-04-02,normal
+Hyundai,2003,NavajoWhite,Sedan,diesel,automatic,gasoline,6,98401.48,inactive,10825,15528,Marilyn House,47,Male,South America,Russian Federation,medium,Financial manager,1010,2025-05-08,normal
+Honda,2010,Black,Sedan,electric,automatic,gasoline,8,288389.66,active,12480,16152,Maria Green,55,Female,North America,Antigua and Barbuda,medium,Data processing manager,2783,2024-04-07,normal
+Toyota,2010,DodgerBlue,Sedan,electric,automatic,gasoline,7,233499.57,inactive,11430,17295,Ray Newman,31,Female,Europe,Egypt,medium,Occupational therapist,2509,2026-02-10,normal
+Toyota,2005,Tomato,Van,petrol,automatic,gasoline,2,82957.89,inactive,15474,21210,Sherri Martin,60,Female,South America,United Arab Emirates,medium,Forensic psychologist,1007,2021-11-16,holiday_sales
+Nissan,2002,Olive,SUV,diesel,automatic,electric,8,146891.05,inactive,11600,16610,Morgan Goodwin,36,Male,Europe,Macao,medium,Clinical embryologist,1308,2025-09-23,normal
+Toyota,2022,DarkTurquoise,Van,petrol,manual,gasoline,4,269961.76,active,17500,21070,Daniel Goodman,69,Female,South America,Singapore,medium,Accounting technician,2098,2024-02-14,normal
+Hyundai,2018,AliceBlue,Truck,diesel,manual,diesel,4,23298.99,active,18851,22247,Raymond Butler,42,Female,Asia,Suriname,medium,Homeopath,1144,2025-05-17,normal
+Toyota,2024,Navy,Sedan,hybrid,automatic,gasoline,6,40095.31,active,13285,18898,Chad Tucker,42,Male,North America,Chile,medium,"Production designer, theatre/television/film",2007,2022-09-11,normal
