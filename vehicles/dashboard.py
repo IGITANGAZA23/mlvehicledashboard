@@ -32,7 +32,7 @@ def filter_by_price(df, min_price=5000):
 
 def sales_by_manufacturer_transmission(df):
     # Group by manufacturer and transmission and sum selling_price
-    grouped = df.groupby(['manufacturer', 'transmission'])['selling_price'].sum().to_frame(name='total_selling_price')
+    grouped = df.groupby(['manufacturer', 'transmission'])['selling_price'].sum().to_frame()
 
     table_html = grouped.to_html(
         classes="table table-bordered table-striped table-sm",
@@ -40,3 +40,5 @@ def sales_by_manufacturer_transmission(df):
         justify='center',
     )
     return table_html
+
+#aggregations sums means etc
