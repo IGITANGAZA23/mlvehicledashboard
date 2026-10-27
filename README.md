@@ -7,9 +7,10 @@ An interactive and styled Django web dashboard that processes vehicle machine le
 ## 🚀 Features
 
 - **Automated Frequency Analysis:** Calculates one-way frequency distribution tables for vehicle manufacturers using Pandas.
+- **Price-Based Dataset Filtering:** Filters vehicles with selling price above \$5,000 via `filter_by_price()` and renders interactive, scrollable tables.
 - **Bootstrap 5 UI & Styling:** Responsive dashboard layout featuring side navigation with Scrollspy, cards, and striped responsive tables.
 - **Django Modular Architecture:** Clean separation of concerns with dedicated `vehicles` application, dashboard analytics module, views, and templates.
-- **Test Suite:** Built-in Django `TestCase` testing frequency table generation and HTTP response rendering.
+- **Test Suite:** Built-in Django `TestCase` testing frequency table generation, price filtering, and HTTP response rendering.
 
 ---
 
@@ -43,7 +44,7 @@ mlvehicledashboard/
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
-│   ├── dashboard.py         # Data analytics functions (e.g. frequency_table)
+│   ├── dashboard.py         # Data analytics functions (frequency_table, filter_by_price)
 │   ├── models.py
 │   ├── tests.py             # Unit and integration test suite
 │   ├── urls.py              # App-level routing

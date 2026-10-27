@@ -28,12 +28,17 @@
                     <a class="list-group-item list-group-item-action" href="#frequency-table">
                         Frequency Tables (One-way)
                     </a>
+                    <a class="list-group-item list-group-item-action" href="#price-filter">
+                        Vehicles (Price > $5,000)
+                    </a>
                 </div>
             </div>
             <!-- Scrollable Content -->
             <div class="col-md-9">
                 <div class="scrollspy-example" data-bs-spy="scroll" data-bs-target="#dashboard-nav" data-bs-smooth-scroll="true" tabindex="0">
                     <h1 class="text-center text-primary mb-4"> Vehicle Machine Learning Dashboard </h1>
+                    
+                    <!-- Frequency Table Card -->
                     <div id="frequency-table" class="card shadow mb-5">
                         <div class="card-header bg-info text-white">
                             Frequency Tables (One-way)
@@ -42,6 +47,17 @@
                             {{ frequency_table|safe }}
                         </div>
                     </div>
+
+                    <!-- Filtered Vehicles by Price Card -->
+                    <div id="price-filter" class="card shadow mb-5">
+                        <div class="card-header bg-success text-white">
+                            Vehicles with Price Above $5,000
+                        </div>
+                        <div class="card-body table-responsive" style="max-height: 500px; overflow-y: auto;">
+                            {{ filtered_vehicles_table|safe }}
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
