@@ -1,6 +1,10 @@
 import pandas as pd
 from django.shortcuts import render
-from .dashboard import frequency_table, filter_by_price
+from .dashboard import (
+    frequency_table,
+    filter_by_price,
+    sales_by_manufacturer_transmission,
+)
 
 
 def dashboard_view(request):
@@ -12,5 +16,6 @@ def dashboard_view(request):
         {
             "frequency_table": frequency_table(df),
             "filtered_vehicles_table": filter_by_price(df),
+            "sales_table": sales_by_manufacturer_transmission(df),
         },
     )

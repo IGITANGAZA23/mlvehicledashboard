@@ -28,6 +28,9 @@
                     <a class="list-group-item list-group-item-action" href="#frequency-table">
                         Frequency Tables (One-way)
                     </a>
+                    <a class="list-group-item list-group-item-action" href="#sales-table">
+                        Sales by Transmission
+                    </a>
                     <a class="list-group-item list-group-item-action" href="#price-filter">
                         Vehicles (Price > $5,000)
                     </a>
@@ -45,6 +48,16 @@
                         </div>
                         <div class="card-body">
                             {{ frequency_table|safe }}
+                        </div>
+                    </div>
+
+                    <!-- Total Sales by Manufacturer & Transmission Card -->
+                    <div id="sales-table" class="card shadow mb-5">
+                        <div class="card-header bg-warning text-dark">
+                            Total Sales by Manufacturer & Transmission
+                        </div>
+                        <div class="card-body">
+                            {{ sales_table|safe }}
                         </div>
                     </div>
 

@@ -18,19 +18,25 @@ def frequency_table(df):
 
 
 def filter_by_price(df, min_price=5000):
-    """
-    Filter dataset where vehicle price is above min_price (default: 5000)
-    and return HTML table formatted with Bootstrap classes.
-    """
-    # Detect price column in the dataset (selling_price or price)
-    price_col = 'selling_price' if 'selling_price' in df.columns else 'price'
+    price_col = 'selling_price'
     filtered_df = df[df[price_col] > min_price]
 
-    # Convert to HTML using .to_html()
     table_html = filtered_df.to_html(
         classes="table table-bordered table-striped table-sm",
         float_format='%.2f',
         justify='center',
         index=False,
+    )
+    return table_html
+
+
+def sales_by_manufacturer_transmission(df):
+    # Group by manufacturer and transmission and sum selling_price
+    grouped = df.groupby(['manufacturer', 'transmission'])['selling_price'].sum().to_frame(name='total_selling_price')
+
+    table_html = grouped.to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center',
     )
     return table_html
